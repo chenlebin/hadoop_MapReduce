@@ -1,0 +1,3 @@
+MapFile其实就是SequenceFile进行排序之后的文件
+使用MapFile文件进行查询工作效率能更高
+但是文件的大小并没有变小
