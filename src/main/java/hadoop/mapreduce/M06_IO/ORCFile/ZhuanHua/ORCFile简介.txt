@@ -3,6 +3,8 @@ ORCFile是以二进制形式存储的文件，是Hive发明的一种文件格式
 所以如果在使用MR时要处理的文件大小很大时可以先转化为ORCFile文件
 提高MR的运行效率
 
+todo 可以减少文件大小:4600kb->500kb
+
 todo 需要注意的是：
 在使用ORCFile时需要自定义一个全局变量存储字段信息，例如：
 private static final String SCHEMA = "struct<id:string,date:string,county:string,cases:string,deaths:string>";
