@@ -1,0 +1,15 @@
+CovidBean
+应用于Fenzu项目
+主要实现自定义序列化排序分组
+
+CovidDaoxuBean
+应用于Paixu项目
+主要实现自定义序列化排序
+
+CovidCountBean
+应用于Sum项目
+主要实现自定义序列化
+
+Fenqu项目中
+通过编写类继承Partitioner方法泛型为：
+<map阶段输出的Key类型,map阶段输出的Value类型>

@@ -1,0 +1,73 @@
+案例分析 ：
+本例子中我使用的两个数据集分别是
+
+1> usa_sc:美国州县存放美国56个州中各个县的名称
+数据，例如:
+XXX州,XXX县
+XXX2州,XXX2县
+编号,州名,县名
+
+2> usa_county:美国按县进行疫情统计的
+数据，例如:
+1,xxx县,2021/02/01,32,16
+2,xxx县,2021/02/02,64,16
+3,xxx2县,2021/02/03,12,3
+编号,县名,时间,确诊人数,死亡人数,死亡率
+
+3> Join操作之后
+XXX州,XXX县,2021/02/01,32,16
+XXX州,XXX县,2021/02/02,64,16
+XXX2州,XXX2县,2021/02/03,12,3
+
+4> 相当于内关联：  select state,s.county,d.date,cases,deaths
+                                    from usa_c s inner join usa_c_cd d on s.uid=d.uid;
+
+todo map端输出：以封装之后的Bean对象作为Key
+map阶段的输出的Key,XXBean
+输出的value则为剩下的Text
+todo reduce端输出：和map端输出一致
+
+todo -------------------------------自定义序列化排序分组分区规则----------------------------------todo
+
+todo 0>KV键值对的确定：
+
+    todo map端
+Key county县 Text类型
+value 两组数据中除了county的数据  Text类型
+因为只有Key才具有排序分组分区的功能，而且我们需要实现Join的操作，我们join时比较的就是两个数据集的county
+数据，当两个相等时才进行join关联然后输出
+    todo reduce端
+key 不需要Key了直接  NullWritable
+value 拼接之后的字符串 Text类
+
+todo 1>序列化是否需要自定义呢？
+todo 不需要
+因为我们我们map端输出的Key类型为基本数据类型Text
+
+todo 2>排序规则是否需要自定义？
+todo 不需要
+因为我们的Key是county，默认规则就是按照Key的字典序进行正序排序，我们的Key设置的就是county他的类型也是Text
+基本数据类型所以不需要进行自定义排序
+
+但是我们这里的 todo 需求是：
+先按照自定义对象属性中的state州进行比较，按照州的字典序正序排序，然后当
+州相同的时候按照county县的字典序进行正序排序
+相当于一个是主排序(state)一个是次排序(county)
+
+但是考虑到我们第二个数据集中的数据压根没有state字段所以我们只能先排序county
+然后将这次MapReduce阶段的输出在进行一次排序操作
+
+todo 所以我需要编写两个MR程序一个进行Join连接一个进行排序操作
+
+todo 3>分组是否需要自定义呢？
+todo 不需要
+因为我们的Key是county，默认规则就是当county相同的分为一组，我们的Key设置的就是county他的类型也是Text
+基本数据类型所以不需要进行自定义分组
+
+todo 4>分区是否需要自定义呢？
+todo 不需要
+因为我们处理的数据时需要输出到一个文件中的，需要做全局汇总，当然就没有多个ReduceTask，也就不需要考虑分区
+的问题
+
+
+

@@ -1,0 +1,20 @@
+需求分许:
+当涉及到自定义对象作为Key时，就需要考虑序列化（必要）和排序规则
+并且还要考虑分组规则，因为如果不重写分组规则，默认是Key相同
+的分为一组，但是因为Key是自定义对象，所以Key比较时比较的是
+两个Key的ID值是否相等，但是不是同一个对象，就算他的属性值
+完全相同，他的ID值也不相等，分组规则就乱了，所以一定要重写
+分组规则！！
+
+步骤：
+1 自定义一个分组类继承WritableComparator类
+2 重写public int compare(自定义的对象类型 a, WritableComparable b)
+一般是从自定义对象中的属性中选取一个作为比较的值，当a.get属性()==b.get属性()
+时返回一个0（返回0代表前后两个<Key，Value>分为一组处理）
+3 模板代码允许创建指定对象实例
+protected 自定义分组类名(){
+        super(自定义的对象名.class,true);//true代表允许创建
+}
+4 在驱动Driver类当中设置分组规则
+job.setGroupingComparatorClass(自定义分组类名.class);
+

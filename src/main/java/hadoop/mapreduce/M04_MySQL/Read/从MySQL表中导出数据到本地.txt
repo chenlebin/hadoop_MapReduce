@@ -1,0 +1,11 @@
+//todo 关键点
+1 如果换一个表进行读取需要编写一个专门的表对应的Bean，
+2 修改ReadDBMapper方法中的泛型<NullWritable,对应的Bean,NullWritable,Text>
+3 修改Driver类（3/4处）
+    1>如果换了个数据库则需要修改JDBC中的URL
+    2>修改DBInputFormat.setInput();中的
+    对应Bean.class
+    3>修改DBInputFormat.setInput();中的
+    SQL语句
+    4>修改DBInputFormat.setInput();中的
+    计数Count(主键)SQL语句

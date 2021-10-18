@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hadoop_mapreduce" />
+        <module name="day05_mapreduce" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day05_mapreduce (1)" target="1.8" />
+      <module name="hadoop_MapReduce" target="1.8" />
+      <module name="hadoop_mapreduce" target="1.8" />
+      <module name="usajoinPaixu" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

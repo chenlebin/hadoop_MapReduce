@@ -1,0 +1,4 @@
+答案是果然不能，要不然这个MapReduce中的join操作不就是
+多此一举了吗，在SQL语句中修改join关联的操作是错误的
+select * from usa INNER JOIN usa_datedr
+    on usa.uid=usa_datedr.uid

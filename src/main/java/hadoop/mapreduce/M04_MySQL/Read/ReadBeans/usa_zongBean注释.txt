@@ -1,0 +1,4 @@
+从usa_zong表中抽取出
+date  county  cases  deaths
+四列数据
+用于UsaReduceJoin操作

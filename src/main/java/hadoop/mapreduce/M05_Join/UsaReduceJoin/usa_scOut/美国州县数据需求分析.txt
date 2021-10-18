@@ -1,0 +1,42 @@
+###需求分析###
+从实验数据前1000.txt中利用MapReduce统计出
+各个州县的数据即usa_sc数据！
+//todo 主要是为了去除重复的数据
+
+原数据：
+2020/1/29,Maricopa,Arizona,1,0
+
+分析之后的数据：
+Arizona,Maricopa
+
+<1> KV键值对的确定
+todo map端输出 ，因为我们需要对这个数据进行排序和分组
+所以我们使用自定义对象UsaScBean对象作为Key,UsaScBean对象中的属性封装为我们需要的state和county，
+其他的数据都是我们不需要的，所以我们的value就是为空即NullWritable
+Key：UsaBean
+value：NullWritable
+
+todo reduce端输出 ，这个无所谓我们每个分组中取出第一条数据即可
+所以输出的Key可以仍然是UsaScBean，value还是NullWritable
+Key：UsaBean
+value：NullWritable
+
+todo -------------------------------自定义序列化排序分组分区规则----------------------------------todo
+todo 1> 是否需要序列化？
+需要，封装对象必须要
+Writable
+
+todo 2> 是否需要自定义排序？
+需要，封装对象，排序规则乱了，需要自定义排序
+排序规则为，先排序state，以state的字典序进行排序，当state相等时再按照county的字典序进行排序
+Comparable
+
+todo 3>是否需要自定义分组？
+需要，因为封装对象，分组默认规则是Key相同的分为一组，但是我们是一个自定义对象，比较Key时比较的是前后两个KV对
+中Key的ID值，肯定是不相同的，所以我们需要自定义分组规则
+分组规则为Usa_scBean对象中的county属性一致则分为一组
+
+todo 4>是否需要自定义分区？
+不需要，因为我们的输出文件只有一个所以不需要进行分区否则输出文件为多个
+
+
