@@ -1,0 +1,4 @@
+hello tom hello allen hello
+allen tom mac apple
+hello allen apple
+hello apple spark allen hadoop spark

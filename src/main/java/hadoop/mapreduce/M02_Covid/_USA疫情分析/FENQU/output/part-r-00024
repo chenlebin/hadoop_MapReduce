@@ -1,0 +1,4271 @@
+2020/5/12,Mower,Minnesota,45,0
+2020/5/12,Murray,Minnesota,29,0
+2020/5/12,Nicollet,Minnesota,22,2
+2020/5/12,Nobles,Minnesota,1291,2
+2020/5/12,Norman,Minnesota,11,0
+2020/5/12,Olmsted,Minnesota,378,9
+2020/5/12,Otter Tail,Minnesota,25,0
+2020/5/12,Pennington,Minnesota,1,0
+2020/5/12,Pine,Minnesota,73,0
+2020/5/12,Pipestone,Minnesota,7,0
+2020/5/12,Polk,Minnesota,54,1
+2020/5/12,Pope,Minnesota,5,0
+2020/5/12,Ramsey,Minnesota,1052,49
+2020/5/12,Red Lake,Minnesota,2,0
+2020/5/12,Redwood,Minnesota,3,0
+2020/5/12,Renville,Minnesota,6,0
+2020/5/12,Rice,Minnesota,134,2
+2020/5/12,Rock,Minnesota,19,0
+2020/5/12,Roseau,Minnesota,1,0
+2020/5/12,Scott,Minnesota,168,1
+2020/5/12,Sherburne,Minnesota,122,1
+2020/5/12,Sibley,Minnesota,4,0
+2020/5/12,St. Louis,Minnesota,96,12
+2020/5/12,Stearns,Minnesota,1512,6
+2020/5/12,Steele,Minnesota,73,0
+2020/5/12,Swift,Minnesota,9,0
+2020/5/12,Todd,Minnesota,42,0
+2020/5/12,Traverse,Minnesota,3,0
+2020/5/12,Unknown,Minnesota,30,0
+2020/4/5,Otter Tail,Minnesota,1,0
+2020/4/5,Olmsted,Minnesota,95,2
+2020/4/5,Nicollet,Minnesota,4,0
+2020/4/5,Mower,Minnesota,17,0
+2020/4/5,Meeker,Minnesota,1,0
+2020/4/5,McLeod,Minnesota,1,0
+2020/4/5,Martin,Minnesota,32,4
+2020/4/5,Mahnomen,Minnesota,1,0
+2020/4/5,Lyon,Minnesota,3,0
+2020/4/5,Lincoln,Minnesota,1,0
+2020/4/5,Le Sueur,Minnesota,20,0
+2020/4/5,Lac qui Parle,Minnesota,1,0
+2020/4/5,Koochiching,Minnesota,1,0
+2020/4/5,Kandiyohi,Minnesota,2,0
+2020/4/5,Jackson,Minnesota,1,0
+2020/4/5,Itasca,Minnesota,2,0
+2020/4/5,Isanti,Minnesota,4,0
+2020/4/5,Houston,Minnesota,1,0
+2020/4/5,Hennepin,Minnesota,267,11
+2020/4/5,Goodhue,Minnesota,10,0
+2020/4/5,Freeborn,Minnesota,10,0
+2020/4/5,Fillmore,Minnesota,10,0
+2020/4/5,Faribault,Minnesota,3,0
+2020/4/5,Douglas,Minnesota,1,0
+2020/4/5,Dodge,Minnesota,10,0
+2020/4/5,Dakota,Minnesota,63,2
+2020/4/5,Crow Wing,Minnesota,6,0
+2020/4/5,Cottonwood,Minnesota,5,0
+2020/4/5,Clearwater,Minnesota,2,0
+2020/4/5,Clay,Minnesota,13,0
+2020/4/5,Chisago,Minnesota,4,1
+2020/4/5,Cass,Minnesota,1,0
+2020/4/5,Carver,Minnesota,10,0
+2020/4/5,Carlton,Minnesota,8,0
+2020/4/5,Brown,Minnesota,3,0
+2020/4/5,Blue Earth,Minnesota,15,0
+2020/4/5,Big Stone,Minnesota,1,0
+2020/4/5,Benton,Minnesota,1,0
+2020/4/5,Beltrami,Minnesota,6,0
+2020/4/5,Anoka,Minnesota,36,0
+2020/4/19,Kittson,Minnesota,1,0
+2020/5/15,Aitkin,Minnesota,2,0
+2020/5/15,Anoka,Minnesota,726,38
+2020/5/15,Becker,Minnesota,31,0
+2020/5/15,Beltrami,Minnesota,9,0
+2020/5/15,Benton,Minnesota,117,2
+2020/5/15,Big Stone,Minnesota,2,0
+2020/5/15,Blue Earth,Minnesota,76,0
+2020/5/15,Brown,Minnesota,10,2
+2020/5/15,Carlton,Minnesota,66,0
+2020/4/8,Yellow Medicine,Minnesota,2,0
+2020/4/8,Wright,Minnesota,12,0
+2020/4/8,Winona,Minnesota,19,4
+2020/4/8,Wilkin,Minnesota,2,1
+2020/4/8,Watonwan,Minnesota,4,0
+2020/4/8,Washington,Minnesota,70,2
+2020/4/8,Waseca,Minnesota,3,0
+2020/4/8,Wabasha,Minnesota,6,0
+2020/4/8,Traverse,Minnesota,2,0
+2020/4/8,Swift,Minnesota,1,0
+2020/4/8,Steele,Minnesota,8,0
+2020/4/8,Stearns,Minnesota,7,0
+2020/4/8,St. Louis,Minnesota,28,0
+2020/4/8,Sibley,Minnesota,1,0
+2020/4/8,Sherburne,Minnesota,9,0
+2020/4/8,Scott,Minnesota,17,1
+2020/4/8,Roseau,Minnesota,1,0
+2020/4/8,Rice,Minnesota,4,0
+2020/4/8,Renville,Minnesota,2,0
+2020/4/8,Redwood,Minnesota,1,0
+2020/4/8,Ramsey,Minnesota,112,3
+2020/4/8,Polk,Minnesota,1,0
+2020/4/8,Pipestone,Minnesota,1,0
+2020/4/8,Pine,Minnesota,1,0
+2020/4/8,Otter Tail,Minnesota,2,0
+2020/4/8,Olmsted,Minnesota,108,2
+2020/4/8,Nicollet,Minnesota,5,0
+2020/4/8,Murray,Minnesota,1,0
+2020/4/8,Mower,Minnesota,18,0
+2020/4/8,Meeker,Minnesota,1,0
+2020/4/8,McLeod,Minnesota,1,0
+2020/4/8,Martin,Minnesota,34,4
+2020/4/8,Mahnomen,Minnesota,1,0
+2020/4/8,Lyon,Minnesota,4,0
+2020/4/8,Lincoln,Minnesota,2,0
+2020/4/8,Le Sueur,Minnesota,20,0
+2020/4/8,Lac qui Parle,Minnesota,1,0
+2020/4/8,Koochiching,Minnesota,1,0
+2020/4/8,Kandiyohi,Minnesota,2,0
+2020/4/8,Jackson,Minnesota,1,0
+2020/4/8,Itasca,Minnesota,2,0
+2020/4/8,Isanti,Minnesota,4,0
+2020/4/8,Houston,Minnesota,1,0
+2020/4/8,Hennepin,Minnesota,344,18
+2020/4/8,Goodhue,Minnesota,13,0
+2020/4/8,Freeborn,Minnesota,17,0
+2020/4/8,Fillmore,Minnesota,10,0
+2020/4/8,Faribault,Minnesota,3,0
+2020/4/8,Douglas,Minnesota,1,0
+2020/4/8,Dodge,Minnesota,13,0
+2020/4/8,Dakota,Minnesota,75,3
+2020/4/8,Crow Wing,Minnesota,10,0
+2020/4/8,Cottonwood,Minnesota,5,0
+2020/4/8,Clearwater,Minnesota,2,0
+2020/4/8,Clay,Minnesota,20,0
+2020/4/8,Chisago,Minnesota,5,1
+2020/4/8,Cass,Minnesota,3,0
+2020/4/8,Carver,Minnesota,10,0
+2020/4/8,Carlton,Minnesota,14,0
+2020/4/8,Brown,Minnesota,7,0
+2020/4/8,Blue Earth,Minnesota,21,0
+2020/4/8,Big Stone,Minnesota,1,0
+2020/4/8,Benton,Minnesota,1,0
+2020/4/8,Beltrami,Minnesota,6,0
+2020/4/8,Anoka,Minnesota,46,0
+2020/5/15,Carver,Minnesota,105,2
+2020/5/15,Cass,Minnesota,8,2
+2020/5/15,Chippewa,Minnesota,27,0
+2020/5/15,Chisago,Minnesota,27,1
+2020/5/15,Clay,Minnesota,279,18
+2020/5/15,Clearwater,Minnesota,2,0
+2020/5/15,Cottonwood,Minnesota,52,0
+2020/5/15,Crow Wing,Minnesota,25,1
+2020/5/15,Dakota,Minnesota,623,17
+2020/5/15,Dodge,Minnesota,30,0
+2020/5/15,Douglas,Minnesota,18,0
+2020/5/15,Faribault,Minnesota,12,0
+2020/5/15,Fillmore,Minnesota,17,1
+2020/5/15,Freeborn,Minnesota,55,0
+2020/5/15,Goodhue,Minnesota,29,0
+2020/5/19,Lyon,Minnesota,26,0
+2020/5/19,Mahnomen,Minnesota,5,1
+2020/5/19,Marshall,Minnesota,8,0
+2020/5/19,Martin,Minnesota,123,5
+2020/5/19,McLeod,Minnesota,18,0
+2020/5/19,Meeker,Minnesota,38,0
+2020/5/19,Mille Lacs,Minnesota,13,1
+2020/5/19,Morrison,Minnesota,29,0
+2020/5/19,Mower,Minnesota,72,0
+2020/5/19,Murray,Minnesota,33,0
+2020/5/19,Nicollet,Minnesota,43,3
+2020/5/19,Nobles,Minnesota,1394,2
+2020/5/19,Norman,Minnesota,11,0
+2020/5/19,Olmsted,Minnesota,479,10
+2020/5/19,Otter Tail,Minnesota,51,0
+2020/5/19,Pennington,Minnesota,3,0
+2020/5/19,Pine,Minnesota,83,0
+2020/5/19,Pipestone,Minnesota,10,0
+2020/3/28,Anoka,Minnesota,12,0
+2020/3/28,Beltrami,Minnesota,2,0
+2020/3/28,Benton,Minnesota,1,0
+2020/3/28,Big Stone,Minnesota,1,0
+2020/3/28,Blue Earth,Minnesota,7,0
+2020/3/28,Carver,Minnesota,9,0
+2020/3/28,Cass,Minnesota,1,0
+2020/3/28,Chisago,Minnesota,2,0
+2020/3/28,Clay,Minnesota,4,0
+2020/3/28,Clearwater,Minnesota,1,0
+2020/3/28,Dakota,Minnesota,33,0
+2020/3/28,Dodge,Minnesota,6,0
+2020/3/28,Faribault,Minnesota,1,0
+2020/3/28,Fillmore,Minnesota,5,0
+2020/3/28,Goodhue,Minnesota,2,0
+2020/3/28,Hennepin,Minnesota,152,2
+2020/3/28,Jackson,Minnesota,1,0
+2020/3/28,Kandiyohi,Minnesota,1,0
+2020/3/28,Lac qui Parle,Minnesota,1,0
+2020/3/28,Le Sueur,Minnesota,11,0
+2020/3/28,Lincoln,Minnesota,1,0
+2020/3/28,Mahnomen,Minnesota,1,0
+2020/3/28,Martin,Minnesota,19,1
+2020/3/28,Mower,Minnesota,11,0
+2020/3/28,Nicollet,Minnesota,3,0
+2020/3/28,Olmsted,Minnesota,37,0
+2020/3/28,Ramsey,Minnesota,42,2
+2020/3/28,Renville,Minnesota,1,0
+2020/3/28,Rice,Minnesota,3,0
+2020/3/28,Scott,Minnesota,8,0
+2020/3/28,Sherburne,Minnesota,5,0
+2020/3/28,Sibley,Minnesota,1,0
+2020/3/28,St. Louis,Minnesota,5,0
+2020/3/28,Stearns,Minnesota,5,0
+2020/3/28,Steele,Minnesota,5,0
+2020/3/28,Unknown,Minnesota,1,0
+2020/3/28,Wabasha,Minnesota,4,0
+2020/3/28,Waseca,Minnesota,3,0
+2020/3/28,Washington,Minnesota,25,0
+2020/3/28,Wilkin,Minnesota,1,0
+2020/3/28,Winona,Minnesota,4,0
+2020/3/28,Wright,Minnesota,5,0
+2020/4/18,Aitkin,Minnesota,1,0
+2020/4/18,Anoka,Minnesota,85,2
+2020/4/18,Becker,Minnesota,1,0
+2020/4/18,Beltrami,Minnesota,5,0
+2020/4/18,Benton,Minnesota,4,0
+2020/4/18,Big Stone,Minnesota,1,0
+2020/4/18,Blue Earth,Minnesota,23,0
+2020/4/18,Brown,Minnesota,7,1
+2020/4/18,Carlton,Minnesota,34,0
+2020/4/18,Carver,Minnesota,14,0
+2020/4/18,Cass,Minnesota,4,0
+2020/4/18,Chisago,Minnesota,7,1
+2020/4/18,Clay,Minnesota,48,2
+2020/4/18,Clearwater,Minnesota,3,0
+2020/4/18,Cottonwood,Minnesota,6,0
+2020/4/18,Crow Wing,Minnesota,17,0
+2020/4/18,Dakota,Minnesota,113,5
+2020/4/18,Dodge,Minnesota,17,0
+2020/5/15,Grant,Minnesota,2,0
+2020/5/15,Hennepin,Minnesota,4674,449
+2020/5/15,Houston,Minnesota,2,0
+2020/5/15,Isanti,Minnesota,16,0
+2020/5/15,Itasca,Minnesota,42,4
+2020/5/15,Jackson,Minnesota,34,0
+2020/5/15,Kanabec,Minnesota,9,0
+2020/5/15,Kandiyohi,Minnesota,394,1
+2020/5/15,Kittson,Minnesota,1,0
+2020/5/15,Koochiching,Minnesota,3,0
+2020/5/15,Lac qui Parle,Minnesota,2,0
+2020/5/15,Lake,Minnesota,1,0
+2020/5/15,Le Sueur,Minnesota,33,1
+2020/5/15,Lincoln,Minnesota,4,0
+2020/5/15,Lyon,Minnesota,25,0
+2020/5/15,Mahnomen,Minnesota,5,1
+2020/5/15,Marshall,Minnesota,8,0
+2020/5/15,Martin,Minnesota,114,4
+2020/5/15,McLeod,Minnesota,15,0
+2020/5/15,Meeker,Minnesota,24,0
+2020/5/15,Mille Lacs,Minnesota,8,1
+2020/5/15,Morrison,Minnesota,23,0
+2020/5/15,Mower,Minnesota,54,0
+2020/5/15,Murray,Minnesota,30,0
+2020/5/15,Nicollet,Minnesota,28,2
+2020/5/15,Nobles,Minnesota,1342,2
+2020/5/15,Norman,Minnesota,11,0
+2020/5/15,Olmsted,Minnesota,417,9
+2020/5/15,Otter Tail,Minnesota,35,0
+2020/5/15,Pennington,Minnesota,1,0
+2020/5/15,Pine,Minnesota,82,0
+2020/5/15,Pipestone,Minnesota,9,0
+2020/5/15,Polk,Minnesota,55,2
+2020/5/15,Pope,Minnesota,5,0
+2020/5/15,Ramsey,Minnesota,1287,61
+2020/5/15,Red Lake,Minnesota,2,0
+2020/5/15,Redwood,Minnesota,3,0
+2020/5/15,Renville,Minnesota,5,0
+2020/5/15,Rice,Minnesota,197,2
+2020/5/15,Rock,Minnesota,19,0
+2020/5/15,Roseau,Minnesota,1,0
+2020/5/15,Scott,Minnesota,207,1
+2020/5/15,Sherburne,Minnesota,135,1
+2020/5/15,Sibley,Minnesota,4,0
+2020/5/15,St. Louis,Minnesota,100,12
+2020/5/15,Stearns,Minnesota,1641,9
+2020/5/15,Steele,Minnesota,92,0
+2020/5/15,Swift,Minnesota,11,0
+2020/5/15,Todd,Minnesota,46,0
+2020/5/15,Traverse,Minnesota,3,0
+2020/5/15,Unknown,Minnesota,34,9
+2020/5/15,Wabasha,Minnesota,16,0
+2020/5/15,Wadena,Minnesota,4,0
+2020/5/15,Waseca,Minnesota,19,0
+2020/5/15,Washington,Minnesota,305,18
+2020/5/15,Watonwan,Minnesota,33,0
+2020/5/15,Wilkin,Minnesota,11,3
+2020/5/15,Winona,Minnesota,75,15
+2020/5/15,Wright,Minnesota,140,1
+2020/5/15,Yellow Medicine,Minnesota,3,0
+2020/5/19,Aitkin,Minnesota,4,0
+2020/5/19,Anoka,Minnesota,919,42
+2020/5/19,Becker,Minnesota,32,0
+2020/5/19,Beltrami,Minnesota,9,0
+2020/5/19,Benton,Minnesota,142,2
+2020/5/19,Big Stone,Minnesota,3,0
+2020/5/19,Blue Earth,Minnesota,93,0
+2020/5/19,Brown,Minnesota,10,2
+2020/5/19,Carlton,Minnesota,67,0
+2020/5/19,Carver,Minnesota,128,2
+2020/5/19,Cass,Minnesota,11,2
+2020/5/19,Chippewa,Minnesota,34,0
+2020/5/19,Chisago,Minnesota,38,1
+2020/5/19,Clay,Minnesota,318,21
+2020/5/19,Clearwater,Minnesota,2,0
+2020/5/19,Cottonwood,Minnesota,59,0
+2020/5/19,Crow Wing,Minnesota,30,1
+2020/5/19,Dakota,Minnesota,841,25
+2020/5/19,Dodge,Minnesota,39,0
+2020/5/19,Douglas,Minnesota,23,0
+2020/5/19,Faribault,Minnesota,11,0
+2020/5/19,Fillmore,Minnesota,17,1
+2020/5/19,Freeborn,Minnesota,63,0
+2020/5/19,Goodhue,Minnesota,36,0
+2020/5/19,Grant,Minnesota,2,0
+2020/5/19,Hennepin,Minnesota,5650,476
+2020/5/19,Houston,Minnesota,2,0
+2020/5/19,Isanti,Minnesota,19,0
+2020/4/22,Yellow Medicine,Minnesota,3,0
+2020/4/22,Wright,Minnesota,30,1
+2020/4/22,Winona,Minnesota,61,10
+2020/4/22,Wilkin,Minnesota,10,2
+2020/4/22,Watonwan,Minnesota,4,0
+2020/4/22,Washington,Minnesota,100,5
+2020/4/22,Waseca,Minnesota,3,0
+2020/4/22,Wabasha,Minnesota,8,0
+2020/4/22,Unknown,Minnesota,4,0
+2020/4/22,Traverse,Minnesota,2,0
+2020/4/22,Todd,Minnesota,3,0
+2020/4/22,Swift,Minnesota,1,0
+2020/4/22,Steele,Minnesota,10,0
+2020/4/22,Stearns,Minnesota,20,0
+2020/4/22,St. Louis,Minnesota,54,10
+2020/4/22,Sibley,Minnesota,1,0
+2020/4/22,Sherburne,Minnesota,13,0
+2020/4/22,Scott,Minnesota,28,1
+2020/4/22,Roseau,Minnesota,1,0
+2020/4/22,Rock,Minnesota,5,0
+2020/4/22,Rice,Minnesota,7,1
+2020/4/22,Renville,Minnesota,3,0
+2020/4/22,Redwood,Minnesota,1,0
+2020/4/22,Red Lake,Minnesota,1,0
+2020/4/22,Ramsey,Minnesota,219,11
+2020/4/22,Polk,Minnesota,17,0
+2020/4/22,Pipestone,Minnesota,2,0
+2020/4/22,Pine,Minnesota,15,0
+2020/4/22,Pennington,Minnesota,1,0
+2020/4/22,Otter Tail,Minnesota,6,0
+2020/4/22,Olmsted,Minnesota,204,4
+2020/4/22,Norman,Minnesota,6,0
+2020/4/22,Nobles,Minnesota,126,1
+2020/4/22,Nicollet,Minnesota,8,2
+2020/4/22,Murray,Minnesota,3,0
+2020/4/22,Mower,Minnesota,27,0
+2020/4/22,Morrison,Minnesota,1,0
+2020/4/22,Mille Lacs,Minnesota,1,1
+2020/4/22,Meeker,Minnesota,3,0
+2020/4/22,McLeod,Minnesota,3,0
+2020/4/22,Martin,Minnesota,41,4
+2020/4/22,Marshall,Minnesota,1,0
+2020/4/22,Mahnomen,Minnesota,1,0
+2020/4/22,Lyon,Minnesota,6,0
+2020/4/22,Lincoln,Minnesota,2,0
+2020/4/22,Le Sueur,Minnesota,22,0
+2020/4/22,Lac qui Parle,Minnesota,1,0
+2020/4/22,Koochiching,Minnesota,1,0
+2020/4/22,Kittson,Minnesota,1,0
+2020/4/22,Kandiyohi,Minnesota,3,0
+2020/4/22,Jackson,Minnesota,3,0
+2020/4/22,Itasca,Minnesota,2,0
+2020/4/22,Isanti,Minnesota,6,0
+2020/4/22,Houston,Minnesota,1,0
+2020/4/22,Hennepin,Minnesota,1073,113
+2020/4/22,Goodhue,Minnesota,19,0
+2020/4/22,Freeborn,Minnesota,33,0
+2020/4/22,Fillmore,Minnesota,11,0
+2020/4/22,Faribault,Minnesota,4,0
+2020/4/22,Douglas,Minnesota,2,0
+2020/4/22,Dodge,Minnesota,18,0
+2020/4/22,Dakota,Minnesota,130,6
+2020/4/22,Crow Wing,Minnesota,20,0
+2020/4/22,Cottonwood,Minnesota,6,0
+2020/4/22,Clearwater,Minnesota,2,0
+2020/4/22,Clay,Minnesota,79,3
+2020/4/22,Chisago,Minnesota,7,1
+2020/4/22,Chippewa,Minnesota,1,0
+2020/4/22,Cass,Minnesota,4,0
+2020/4/22,Carver,Minnesota,15,0
+2020/4/22,Carlton,Minnesota,38,0
+2020/4/22,Brown,Minnesota,8,1
+2020/4/22,Blue Earth,Minnesota,26,0
+2020/4/22,Big Stone,Minnesota,1,0
+2020/4/22,Benton,Minnesota,4,0
+2020/4/22,Beltrami,Minnesota,6,0
+2020/4/22,Becker,Minnesota,2,0
+2020/4/22,Anoka,Minnesota,105,2
+2020/4/22,Aitkin,Minnesota,1,0
+2020/5/19,Itasca,Minnesota,49,6
+2020/5/19,Jackson,Minnesota,36,0
+2020/5/19,Kanabec,Minnesota,9,1
+2020/5/19,Kandiyohi,Minnesota,420,1
+2020/5/19,Kittson,Minnesota,1,0
+2020/5/19,Koochiching,Minnesota,5,0
+2020/5/19,Lac qui Parle,Minnesota,3,0
+2020/5/19,Lake,Minnesota,1,0
+2020/5/19,Le Sueur,Minnesota,36,1
+2020/5/19,Lincoln,Minnesota,4,0
+2020/5/12,Wabasha,Minnesota,13,0
+2020/5/12,Wadena,Minnesota,4,0
+2020/5/12,Waseca,Minnesota,16,0
+2020/5/12,Washington,Minnesota,266,16
+2020/5/12,Watonwan,Minnesota,28,0
+2020/5/12,Wilkin,Minnesota,11,3
+2020/5/12,Winona,Minnesota,71,15
+2020/5/12,Wright,Minnesota,119,1
+2020/5/12,Yellow Medicine,Minnesota,3,0
+2020/4/11,Anoka,Minnesota,58,0
+2020/4/11,Becker,Minnesota,1,0
+2020/4/11,Beltrami,Minnesota,5,0
+2020/4/11,Benton,Minnesota,1,0
+2020/4/11,Big Stone,Minnesota,1,0
+2020/4/11,Blue Earth,Minnesota,22,0
+2020/4/11,Brown,Minnesota,7,1
+2020/4/11,Carlton,Minnesota,19,0
+2020/4/11,Carver,Minnesota,12,0
+2020/4/11,Cass,Minnesota,3,0
+2020/4/11,Chisago,Minnesota,6,1
+2020/4/11,Clay,Minnesota,29,0
+2020/4/11,Clearwater,Minnesota,2,0
+2020/4/11,Cottonwood,Minnesota,5,0
+2020/4/11,Crow Wing,Minnesota,13,0
+2020/4/11,Dakota,Minnesota,87,4
+2020/4/7,Anoka,Minnesota,42,0
+2020/4/7,Beltrami,Minnesota,6,0
+2020/4/7,Benton,Minnesota,1,0
+2020/4/7,Big Stone,Minnesota,1,0
+2020/4/7,Blue Earth,Minnesota,22,0
+2020/4/7,Brown,Minnesota,7,0
+2020/4/7,Carlton,Minnesota,13,0
+2020/4/7,Carver,Minnesota,10,0
+2020/4/7,Cass,Minnesota,3,0
+2020/4/7,Chisago,Minnesota,5,1
+2020/4/7,Clay,Minnesota,19,0
+2020/4/7,Clearwater,Minnesota,2,0
+2020/4/7,Cottonwood,Minnesota,5,0
+2020/4/7,Crow Wing,Minnesota,9,0
+2020/4/7,Dakota,Minnesota,71,3
+2020/4/7,Dodge,Minnesota,11,0
+2020/4/7,Douglas,Minnesota,1,0
+2020/4/7,Faribault,Minnesota,3,0
+2020/4/7,Fillmore,Minnesota,10,0
+2020/4/7,Freeborn,Minnesota,14,0
+2020/4/7,Goodhue,Minnesota,12,0
+2020/4/7,Hennepin,Minnesota,310,16
+2020/4/7,Houston,Minnesota,1,0
+2020/4/7,Isanti,Minnesota,4,0
+2020/4/7,Itasca,Minnesota,2,0
+2020/4/7,Jackson,Minnesota,1,0
+2020/4/7,Kandiyohi,Minnesota,2,0
+2020/4/7,Koochiching,Minnesota,1,0
+2020/4/7,Lac qui Parle,Minnesota,1,0
+2020/4/7,Le Sueur,Minnesota,20,0
+2020/4/7,Lincoln,Minnesota,2,0
+2020/4/7,Lyon,Minnesota,4,0
+2020/4/7,Mahnomen,Minnesota,1,0
+2020/4/7,Martin,Minnesota,34,4
+2020/4/7,McLeod,Minnesota,1,0
+2020/4/7,Meeker,Minnesota,1,0
+2020/4/7,Mower,Minnesota,18,0
+2020/4/7,Murray,Minnesota,1,0
+2020/4/7,Nicollet,Minnesota,4,0
+2020/4/7,Olmsted,Minnesota,103,2
+2020/4/7,Otter Tail,Minnesota,2,0
+2020/4/7,Pipestone,Minnesota,1,0
+2020/4/7,Polk,Minnesota,1,0
+2020/4/7,Ramsey,Minnesota,101,3
+2020/4/7,Redwood,Minnesota,1,0
+2020/4/7,Renville,Minnesota,2,0
+2020/4/7,Rice,Minnesota,4,0
+2020/4/7,Roseau,Minnesota,1,0
+2020/4/7,Scott,Minnesota,16,1
+2020/4/7,Sherburne,Minnesota,10,0
+2020/4/7,Sibley,Minnesota,1,0
+2020/4/7,St. Louis,Minnesota,17,0
+2020/4/7,Stearns,Minnesota,6,0
+2020/4/7,Steele,Minnesota,8,0
+2020/4/7,Swift,Minnesota,1,0
+2020/4/7,Traverse,Minnesota,2,0
+2020/4/7,Wabasha,Minnesota,6,0
+2020/4/7,Waseca,Minnesota,3,0
+2020/4/7,Washington,Minnesota,68,1
+2020/4/7,Watonwan,Minnesota,4,0
+2020/4/7,Wilkin,Minnesota,2,0
+2020/4/7,Winona,Minnesota,16,3
+2020/4/7,Wright,Minnesota,12,0
+2020/4/7,Yellow Medicine,Minnesota,1,0
+2020/4/18,Douglas,Minnesota,1,0
+2020/4/18,Faribault,Minnesota,4,0
+2020/4/18,Fillmore,Minnesota,11,0
+2020/4/18,Freeborn,Minnesota,31,0
+2020/4/18,Goodhue,Minnesota,19,0
+2020/4/18,Hennepin,Minnesota,875,69
+2020/4/18,Houston,Minnesota,1,0
+2020/4/18,Isanti,Minnesota,5,0
+2020/4/18,Itasca,Minnesota,2,0
+2020/4/18,Jackson,Minnesota,2,0
+2020/4/18,Kandiyohi,Minnesota,2,0
+2020/4/18,Kittson,Minnesota,1,0
+2020/4/18,Koochiching,Minnesota,1,0
+2020/4/18,Lac qui Parle,Minnesota,1,0
+2020/4/18,Le Sueur,Minnesota,22,0
+2020/4/18,Lincoln,Minnesota,2,0
+2020/4/18,Lyon,Minnesota,5,0
+2020/4/18,Mahnomen,Minnesota,1,0
+2020/4/18,Martin,Minnesota,39,4
+2020/4/18,McLeod,Minnesota,3,0
+2020/4/18,Meeker,Minnesota,3,0
+2020/4/18,Mille Lacs,Minnesota,1,0
+2020/4/18,Mower,Minnesota,26,0
+2020/4/18,Murray,Minnesota,3,0
+2020/4/18,Nicollet,Minnesota,7,2
+2020/4/18,Nobles,Minnesota,36,0
+2020/4/18,Norman,Minnesota,2,0
+2020/4/18,Olmsted,Minnesota,177,2
+2020/4/18,Otter Tail,Minnesota,5,0
+2020/4/18,Pine,Minnesota,10,0
+2020/4/18,Pipestone,Minnesota,2,0
+2020/4/18,Polk,Minnesota,2,0
+2020/4/18,Ramsey,Minnesota,192,9
+2020/4/18,Red Lake,Minnesota,1,0
+2020/4/18,Redwood,Minnesota,1,0
+2020/4/18,Renville,Minnesota,3,0
+2020/4/18,Rice,Minnesota,6,1
+2020/4/18,Rock,Minnesota,3,0
+2020/4/18,Roseau,Minnesota,1,0
+2020/4/18,Scott,Minnesota,23,1
+2020/4/18,Sherburne,Minnesota,12,0
+2020/4/18,Sibley,Minnesota,1,0
+2020/4/18,St. Louis,Minnesota,46,8
+2020/4/18,Stearns,Minnesota,16,0
+2020/4/18,Steele,Minnesota,9,0
+2020/4/18,Swift,Minnesota,1,0
+2020/4/18,Todd,Minnesota,2,0
+2020/4/18,Traverse,Minnesota,2,0
+2020/4/18,Unknown,Minnesota,4,0
+2020/4/18,Wabasha,Minnesota,8,0
+2020/4/18,Waseca,Minnesota,3,0
+2020/4/18,Washington,Minnesota,92,3
+2020/4/18,Watonwan,Minnesota,4,0
+2020/4/18,Wilkin,Minnesota,8,2
+2020/4/18,Winona,Minnesota,57,8
+2020/4/18,Wright,Minnesota,23,1
+2020/4/18,Yellow Medicine,Minnesota,3,0
+2020/4/9,Yellow Medicine,Minnesota,2,0
+2020/4/9,Wright,Minnesota,12,0
+2020/4/9,Winona,Minnesota,20,5
+2020/4/9,Wilkin,Minnesota,5,1
+2020/4/9,Watonwan,Minnesota,4,0
+2020/4/9,Washington,Minnesota,72,2
+2020/4/9,Waseca,Minnesota,3,0
+2020/4/9,Wabasha,Minnesota,6,0
+2020/4/9,Traverse,Minnesota,2,0
+2020/4/9,Swift,Minnesota,1,0
+2020/4/9,Steele,Minnesota,8,0
+2020/4/9,Stearns,Minnesota,7,0
+2020/4/9,St. Louis,Minnesota,33,1
+2020/4/9,Sibley,Minnesota,1,0
+2020/4/9,Sherburne,Minnesota,9,0
+2020/4/9,Scott,Minnesota,19,1
+2020/4/9,Roseau,Minnesota,1,0
+2020/4/9,Rice,Minnesota,4,0
+2020/4/9,Renville,Minnesota,2,0
+2020/4/9,Redwood,Minnesota,1,0
+2020/4/9,Ramsey,Minnesota,121,5
+2020/4/9,Polk,Minnesota,1,0
+2020/4/9,Pipestone,Minnesota,1,0
+2020/4/9,Pine,Minnesota,2,0
+2020/5/8,Yellow Medicine,Minnesota,3,0
+2020/5/8,Wright,Minnesota,83,1
+2020/5/8,Winona,Minnesota,68,15
+2020/5/8,Wilkin,Minnesota,12,3
+2020/5/8,Watonwan,Minnesota,19,0
+2020/5/8,Washington,Minnesota,211,12
+2020/5/8,Waseca,Minnesota,13,0
+2020/5/8,Wadena,Minnesota,4,0
+2020/5/8,Wabasha,Minnesota,13,0
+2020/5/19,Polk,Minnesota,56,2
+2020/5/19,Pope,Minnesota,5,0
+2020/5/19,Ramsey,Minnesota,1720,74
+2020/5/18,Aitkin,Minnesota,4,0
+2020/5/18,Anoka,Minnesota,869,42
+2020/5/18,Becker,Minnesota,33,0
+2020/5/18,Beltrami,Minnesota,9,0
+2020/5/18,Benton,Minnesota,138,2
+2020/5/18,Big Stone,Minnesota,3,0
+2020/5/18,Blue Earth,Minnesota,87,0
+2020/5/8,Unknown,Minnesota,30,0
+2020/5/8,Traverse,Minnesota,3,0
+2020/5/8,Todd,Minnesota,29,0
+2020/5/8,Swift,Minnesota,3,0
+2020/5/8,Steele,Minnesota,45,0
+2020/5/8,Stearns,Minnesota,1274,4
+2020/5/8,St. Louis,Minnesota,90,12
+2020/5/8,Sibley,Minnesota,3,0
+2020/5/8,Sherburne,Minnesota,95,1
+2020/5/8,Scott,Minnesota,121,1
+2020/5/8,Roseau,Minnesota,1,0
+2020/5/8,Rock,Minnesota,19,0
+2020/5/8,Rice,Minnesota,81,1
+2020/5/8,Renville,Minnesota,6,0
+2020/5/8,Redwood,Minnesota,3,0
+2020/5/8,Red Lake,Minnesota,1,0
+2020/5/8,Ramsey,Minnesota,800,42
+2020/5/8,Pope,Minnesota,5,0
+2020/5/8,Polk,Minnesota,45,0
+2020/5/8,Pipestone,Minnesota,6,0
+2020/5/8,Pine,Minnesota,61,0
+2020/5/8,Pennington,Minnesota,1,0
+2020/5/8,Otter Tail,Minnesota,21,0
+2020/5/8,Olmsted,Minnesota,351,9
+2020/5/8,Norman,Minnesota,9,0
+2020/5/8,Nobles,Minnesota,1177,2
+2020/5/8,Nicollet,Minnesota,18,2
+2020/5/8,Murray,Minnesota,26,0
+2020/5/8,Mower,Minnesota,37,0
+2020/5/8,Morrison,Minnesota,12,0
+2020/5/8,Mille Lacs,Minnesota,6,1
+2020/5/8,Meeker,Minnesota,20,0
+2020/5/8,McLeod,Minnesota,8,0
+2020/5/8,Martin,Minnesota,111,4
+2020/5/8,Marshall,Minnesota,8,0
+2020/5/8,Mahnomen,Minnesota,2,1
+2020/5/8,Lyon,Minnesota,16,0
+2020/5/8,Lincoln,Minnesota,3,0
+2020/5/8,Le Sueur,Minnesota,28,0
+2020/5/8,Lake,Minnesota,1,0
+2020/5/8,Lac qui Parle,Minnesota,2,0
+2020/5/8,Koochiching,Minnesota,1,0
+2020/5/8,Kittson,Minnesota,1,0
+2020/5/4,Aitkin,Minnesota,1,0
+2020/5/4,Anoka,Minnesota,299,17
+2020/5/4,Becker,Minnesota,13,0
+2020/5/4,Beltrami,Minnesota,6,0
+2020/5/4,Benton,Minnesota,35,1
+2020/5/4,Big Stone,Minnesota,2,0
+2020/5/4,Blue Earth,Minnesota,50,0
+2020/5/4,Brown,Minnesota,9,1
+2020/5/4,Carlton,Minnesota,60,0
+2020/5/4,Carver,Minnesota,27,0
+2020/5/4,Cass,Minnesota,7,0
+2020/5/4,Chippewa,Minnesota,3,0
+2020/5/4,Chisago,Minnesota,13,1
+2020/5/4,Clay,Minnesota,190,13
+2020/5/4,Clearwater,Minnesota,2,0
+2020/5/4,Cottonwood,Minnesota,37,0
+2020/5/4,Crow Wing,Minnesota,21,1
+2020/5/4,Dakota,Minnesota,215,11
+2020/5/4,Dodge,Minnesota,22,0
+2020/5/4,Douglas,Minnesota,7,0
+2020/5/4,Faribault,Minnesota,7,0
+2020/5/4,Fillmore,Minnesota,13,1
+2020/5/4,Freeborn,Minnesota,36,0
+2020/5/4,Goodhue,Minnesota,23,0
+2020/5/4,Grant,Minnesota,1,0
+2020/5/4,Hennepin,Minnesota,2298,284
+2020/5/4,Houston,Minnesota,1,0
+2020/5/4,Isanti,Minnesota,6,0
+2020/5/4,Itasca,Minnesota,12,0
+2020/5/4,Jackson,Minnesota,24,0
+2020/5/4,Kanabec,Minnesota,1,0
+2020/5/4,Kandiyohi,Minnesota,188,1
+2020/5/4,Kittson,Minnesota,1,0
+2020/5/4,Koochiching,Minnesota,1,0
+2020/5/4,Lac qui Parle,Minnesota,2,0
+2020/5/4,Le Sueur,Minnesota,26,0
+2020/5/4,Lincoln,Minnesota,3,0
+2020/5/4,Lyon,Minnesota,9,0
+2020/5/4,Mahnomen,Minnesota,2,0
+2020/5/4,Marshall,Minnesota,7,0
+2020/5/4,Martin,Minnesota,111,4
+2020/5/4,McLeod,Minnesota,4,0
+2020/5/4,Meeker,Minnesota,17,0
+2020/5/4,Mille Lacs,Minnesota,3,1
+2020/5/4,Morrison,Minnesota,6,0
+2020/5/4,Mower,Minnesota,32,0
+2020/5/4,Murray,Minnesota,17,0
+2020/5/4,Nicollet,Minnesota,16,2
+2020/5/4,Nobles,Minnesota,1011,1
+2020/5/4,Norman,Minnesota,9,0
+2020/5/4,Olmsted,Minnesota,305,8
+2020/5/4,Otter Tail,Minnesota,18,0
+2020/5/4,Pennington,Minnesota,1,0
+2020/5/4,Pine,Minnesota,60,0
+2020/5/4,Pipestone,Minnesota,4,0
+2020/5/4,Polk,Minnesota,42,0
+2020/5/4,Ramsey,Minnesota,535,34
+2020/5/4,Red Lake,Minnesota,1,0
+2020/5/4,Redwood,Minnesota,3,0
+2020/5/4,Renville,Minnesota,5,0
+2020/5/4,Rice,Minnesota,24,1
+2020/5/4,Rock,Minnesota,16,0
+2020/5/4,Roseau,Minnesota,1,0
+2020/5/4,Scott,Minnesota,63,1
+2020/5/4,Sherburne,Minnesota,61,0
+2020/5/4,Sibley,Minnesota,2,0
+2020/5/4,St. Louis,Minnesota,79,11
+2020/5/4,Stearns,Minnesota,728,2
+2020/5/4,Steele,Minnesota,24,0
+2020/5/4,Swift,Minnesota,2,0
+2020/5/4,Todd,Minnesota,15,0
+2020/5/4,Traverse,Minnesota,2,0
+2020/5/4,Unknown,Minnesota,16,1
+2020/5/4,Wabasha,Minnesota,10,0
+2020/5/4,Wadena,Minnesota,2,0
+2020/5/4,Waseca,Minnesota,6,0
+2020/5/4,Washington,Minnesota,152,12
+2020/5/4,Watonwan,Minnesota,15,0
+2020/5/4,Wilkin,Minnesota,12,3
+2020/5/4,Winona,Minnesota,67,15
+2020/5/4,Wright,Minnesota,54,1
+2020/5/4,Yellow Medicine,Minnesota,3,0
+2020/4/30,Aitkin,Minnesota,1,0
+2020/4/30,Anoka,Minnesota,212,10
+2020/4/30,Becker,Minnesota,2,0
+2020/4/30,Beltrami,Minnesota,6,0
+2020/4/30,Benton,Minnesota,15,0
+2020/4/30,Big Stone,Minnesota,2,0
+2020/4/30,Blue Earth,Minnesota,38,0
+2020/4/30,Brown,Minnesota,8,1
+2020/4/30,Carlton,Minnesota,59,0
+2020/4/30,Carver,Minnesota,21,0
+2020/4/30,Cass,Minnesota,5,0
+2020/4/30,Chippewa,Minnesota,2,0
+2020/4/30,Chisago,Minnesota,11,1
+2020/4/30,Clay,Minnesota,157,11
+2020/4/30,Clearwater,Minnesota,2,0
+2020/4/30,Cottonwood,Minnesota,20,0
+2020/4/30,Crow Wing,Minnesota,20,1
+2020/4/30,Dakota,Minnesota,162,10
+2020/4/30,Dodge,Minnesota,21,0
+2020/4/30,Douglas,Minnesota,2,0
+2020/4/30,Faribault,Minnesota,5,0
+2020/4/30,Fillmore,Minnesota,12,1
+2020/4/30,Freeborn,Minnesota,34,0
+2020/4/30,Goodhue,Minnesota,19,0
+2020/4/30,Hennepin,Minnesota,1738,225
+2020/4/30,Houston,Minnesota,1,0
+2020/4/30,Isanti,Minnesota,6,0
+2020/4/30,Itasca,Minnesota,5,0
+2020/4/3,Winona,Minnesota,11,1
+2020/4/3,Wright,Minnesota,7,0
+2020/4/3,Yellow Medicine,Minnesota,1,0
+2020/4/1,Hennepin,Minnesota,218,6
+2020/4/1,Goodhue,Minnesota,4,0
+2020/4/1,Freeborn,Minnesota,2,0
+2020/4/1,Fillmore,Minnesota,8,0
+2020/4/1,Faribault,Minnesota,2,0
+2020/5/8,Kandiyohi,Minnesota,261,1
+2020/5/8,Kanabec,Minnesota,5,0
+2020/5/8,Jackson,Minnesota,29,0
+2020/5/8,Itasca,Minnesota,24,0
+2020/4/1,Isanti,Minnesota,2,0
+2020/4/1,Itasca,Minnesota,1,0
+2020/4/1,Jackson,Minnesota,1,0
+2020/4/1,Kandiyohi,Minnesota,2,0
+2020/4/1,Lac qui Parle,Minnesota,1,0
+2020/4/1,Le Sueur,Minnesota,15,0
+2020/4/1,Lincoln,Minnesota,1,0
+2020/4/1,Lyon,Minnesota,2,0
+2020/4/1,Mahnomen,Minnesota,1,0
+2020/5/8,Isanti,Minnesota,7,0
+2020/5/8,Houston,Minnesota,2,0
+2020/5/8,Hennepin,Minnesota,3153,362
+2020/5/8,Grant,Minnesota,2,0
+2020/5/8,Goodhue,Minnesota,25,0
+2020/5/8,Freeborn,Minnesota,41,0
+2020/3/22,Jackson,Minnesota,1,0
+2020/3/22,Le Sueur,Minnesota,1,0
+2020/3/22,Martin,Minnesota,8,0
+2020/3/22,Mower,Minnesota,6,0
+2020/3/22,Nicollet,Minnesota,3,0
+2020/3/22,Olmsted,Minnesota,14,0
+2020/3/22,Ramsey,Minnesota,18,1
+2020/3/22,Renville,Minnesota,1,0
+2020/3/22,Rice,Minnesota,1,0
+2020/3/22,Scott,Minnesota,3,0
+2020/3/22,St. Louis,Minnesota,1,0
+2020/3/22,Stearns,Minnesota,4,0
+2020/3/22,Steele,Minnesota,3,0
+2020/3/22,Unknown,Minnesota,1,0
+2020/4/1,Martin,Minnesota,29,2
+2020/4/1,Meeker,Minnesota,1,0
+2020/4/1,Mower,Minnesota,14,0
+2020/4/1,Nicollet,Minnesota,3,0
+2020/4/1,Olmsted,Minnesota,61,0
+2020/4/1,Otter Tail,Minnesota,1,0
+2020/4/1,Ramsey,Minnesota,66,2
+2020/4/1,Renville,Minnesota,1,0
+2020/4/1,Rice,Minnesota,4,0
+2020/4/1,Scott,Minnesota,10,0
+2020/4/1,Sherburne,Minnesota,8,0
+2020/4/1,Sibley,Minnesota,1,0
+2020/4/1,St. Louis,Minnesota,13,0
+2020/5/8,Fillmore,Minnesota,12,1
+2020/5/8,Faribault,Minnesota,7,0
+2020/5/8,Douglas,Minnesota,15,0
+2020/5/8,Dodge,Minnesota,24,0
+2020/5/8,Dakota,Minnesota,364,12
+2020/5/8,Crow Wing,Minnesota,24,1
+2020/5/8,Cottonwood,Minnesota,43,0
+2020/5/8,Clearwater,Minnesota,2,0
+2020/5/8,Clay,Minnesota,229,15
+2020/5/8,Chisago,Minnesota,18,1
+2020/5/8,Chippewa,Minnesota,5,0
+2020/5/8,Cass,Minnesota,7,0
+2020/5/8,Carver,Minnesota,69,0
+2020/5/8,Carlton,Minnesota,64,0
+2020/5/8,Brown,Minnesota,9,1
+2020/5/8,Blue Earth,Minnesota,55,0
+2020/5/8,Big Stone,Minnesota,2,0
+2020/5/8,Benton,Minnesota,76,2
+2020/5/8,Beltrami,Minnesota,6,0
+2020/5/8,Becker,Minnesota,22,0
+2020/5/8,Anoka,Minnesota,477,27
+2020/5/8,Aitkin,Minnesota,2,0
+2020/4/19,Koochiching,Minnesota,1,0
+2020/4/19,Lac qui Parle,Minnesota,1,0
+2020/4/19,Le Sueur,Minnesota,22,0
+2020/4/19,Lincoln,Minnesota,2,0
+2020/4/19,Lyon,Minnesota,5,0
+2020/4/19,Mahnomen,Minnesota,1,0
+2020/4/19,Marshall,Minnesota,1,0
+2020/4/19,Martin,Minnesota,39,4
+2020/4/19,McLeod,Minnesota,3,0
+2020/4/19,Meeker,Minnesota,3,0
+2020/4/19,Mille Lacs,Minnesota,1,1
+2020/4/19,Morrison,Minnesota,1,0
+2020/4/19,Mower,Minnesota,27,0
+2020/4/19,Murray,Minnesota,3,0
+2020/4/19,Nicollet,Minnesota,7,2
+2020/4/19,Nobles,Minnesota,60,0
+2020/4/19,Norman,Minnesota,4,0
+2020/4/19,Olmsted,Minnesota,194,3
+2020/4/19,Otter Tail,Minnesota,6,0
+2020/4/19,Pine,Minnesota,10,0
+2020/4/19,Pipestone,Minnesota,2,0
+2020/4/19,Polk,Minnesota,3,0
+2020/4/19,Ramsey,Minnesota,196,9
+2020/4/19,Red Lake,Minnesota,1,0
+2020/4/19,Redwood,Minnesota,1,0
+2020/4/19,Renville,Minnesota,3,0
+2020/4/19,Rice,Minnesota,8,1
+2020/4/19,Rock,Minnesota,3,0
+2020/4/19,Roseau,Minnesota,1,0
+2020/4/19,Scott,Minnesota,25,1
+2020/4/19,Sherburne,Minnesota,13,0
+2020/4/19,Sibley,Minnesota,1,0
+2020/4/19,St. Louis,Minnesota,48,9
+2020/4/19,Stearns,Minnesota,16,0
+2020/4/19,Steele,Minnesota,9,0
+2020/4/19,Swift,Minnesota,1,0
+2020/4/19,Todd,Minnesota,2,0
+2020/5/1,Aitkin,Minnesota,1,0
+2020/5/1,Anoka,Minnesota,231,11
+2020/5/1,Becker,Minnesota,5,0
+2020/5/1,Beltrami,Minnesota,6,0
+2020/5/1,Benton,Minnesota,21,1
+2020/5/1,Big Stone,Minnesota,2,0
+2020/5/1,Blue Earth,Minnesota,38,0
+2020/5/1,Brown,Minnesota,8,1
+2020/5/1,Carlton,Minnesota,59,0
+2020/5/1,Carver,Minnesota,21,0
+2020/5/1,Cass,Minnesota,5,0
+2020/5/1,Chippewa,Minnesota,2,0
+2020/5/1,Chisago,Minnesota,12,1
+2020/5/1,Clay,Minnesota,165,11
+2020/5/1,Clearwater,Minnesota,2,0
+2020/5/1,Cottonwood,Minnesota,23,0
+2020/5/1,Crow Wing,Minnesota,21,1
+2020/5/1,Dakota,Minnesota,171,11
+2020/5/1,Dodge,Minnesota,22,0
+2020/5/1,Douglas,Minnesota,2,0
+2020/5/1,Faribault,Minnesota,5,0
+2020/5/1,Fillmore,Minnesota,12,1
+2020/5/1,Freeborn,Minnesota,35,0
+2020/5/1,Goodhue,Minnesota,19,0
+2020/5/1,Hennepin,Minnesota,1829,243
+2020/5/1,Houston,Minnesota,1,0
+2020/5/1,Isanti,Minnesota,6,0
+2020/5/1,Itasca,Minnesota,6,0
+2020/5/1,Jackson,Minnesota,16,0
+2020/5/1,Kanabec,Minnesota,1,0
+2020/5/1,Kandiyohi,Minnesota,135,1
+2020/5/1,Kittson,Minnesota,1,0
+2020/5/1,Koochiching,Minnesota,1,0
+2020/5/1,Lac qui Parle,Minnesota,1,0
+2020/5/1,Le Sueur,Minnesota,25,0
+2020/5/1,Lincoln,Minnesota,3,0
+2020/5/1,Lyon,Minnesota,7,0
+2020/5/1,Mahnomen,Minnesota,2,0
+2020/5/1,Marshall,Minnesota,2,0
+2020/5/1,Martin,Minnesota,111,4
+2020/5/1,McLeod,Minnesota,4,0
+2020/5/1,Meeker,Minnesota,14,0
+2020/5/1,Mille Lacs,Minnesota,2,1
+2020/5/1,Morrison,Minnesota,6,0
+2020/5/1,Mower,Minnesota,28,0
+2020/5/1,Murray,Minnesota,16,0
+2020/5/1,Nicollet,Minnesota,13,2
+2020/5/1,Nobles,Minnesota,866,1
+2020/5/1,Norman,Minnesota,8,0
+2020/5/1,Olmsted,Minnesota,269,8
+2020/5/1,Otter Tail,Minnesota,14,0
+2020/5/1,Pennington,Minnesota,1,0
+2020/5/1,Pine,Minnesota,58,0
+2020/5/1,Pipestone,Minnesota,2,0
+2020/5/1,Polk,Minnesota,32,0
+2020/5/1,Ramsey,Minnesota,405,29
+2020/5/1,Red Lake,Minnesota,1,0
+2020/5/1,Redwood,Minnesota,3,0
+2020/5/1,Renville,Minnesota,4,0
+2020/5/1,Rice,Minnesota,14,1
+2020/5/1,Rock,Minnesota,12,0
+2020/5/1,Roseau,Minnesota,1,0
+2020/5/1,Scott,Minnesota,46,1
+2020/5/1,Sherburne,Minnesota,39,0
+2020/5/1,Sibley,Minnesota,2,0
+2020/5/1,St. Louis,Minnesota,73,11
+2020/5/1,Stearns,Minnesota,435,0
+2020/5/1,Steele,Minnesota,18,0
+2020/5/1,Swift,Minnesota,2,0
+2020/5/1,Todd,Minnesota,7,0
+2020/5/1,Traverse,Minnesota,2,0
+2020/5/1,Unknown,Minnesota,13,1
+2020/5/1,Wabasha,Minnesota,9,0
+2020/5/1,Wadena,Minnesota,1,0
+2020/5/1,Waseca,Minnesota,4,0
+2020/5/1,Washington,Minnesota,133,11
+2020/5/1,Watonwan,Minnesota,14,0
+2020/5/1,Wilkin,Minnesota,12,3
+2020/5/1,Winona,Minnesota,66,15
+2020/5/1,Wright,Minnesota,43,1
+2020/5/1,Yellow Medicine,Minnesota,3,0
+2020/4/19,Traverse,Minnesota,2,0
+2020/4/19,Unknown,Minnesota,4,0
+2020/4/19,Wabasha,Minnesota,8,0
+2020/4/19,Waseca,Minnesota,3,0
+2020/4/19,Washington,Minnesota,94,4
+2020/4/19,Watonwan,Minnesota,4,0
+2020/4/19,Wilkin,Minnesota,9,2
+2020/4/19,Winona,Minnesota,61,10
+2020/4/19,Wright,Minnesota,25,1
+2020/4/19,Yellow Medicine,Minnesota,3,0
+2020/4/9,Otter Tail,Minnesota,3,0
+2020/4/9,Olmsted,Minnesota,114,2
+2020/4/9,Nicollet,Minnesota,5,0
+2020/4/9,Murray,Minnesota,1,0
+2020/4/9,Mower,Minnesota,20,0
+2020/4/9,Meeker,Minnesota,2,0
+2020/4/9,McLeod,Minnesota,2,0
+2020/4/9,Martin,Minnesota,35,4
+2020/4/9,Mahnomen,Minnesota,1,0
+2020/4/9,Lyon,Minnesota,5,0
+2020/4/9,Lincoln,Minnesota,2,0
+2020/4/9,Le Sueur,Minnesota,20,0
+2020/4/9,Lac qui Parle,Minnesota,1,0
+2020/4/9,Koochiching,Minnesota,1,0
+2020/4/9,Kandiyohi,Minnesota,2,0
+2020/4/9,Jackson,Minnesota,1,0
+2020/3/21,Mower,Minnesota,3,0
+2020/3/21,Nicollet,Minnesota,2,0
+2020/4/9,Itasca,Minnesota,2,0
+2020/3/21,Olmsted,Minnesota,12,0
+2020/4/9,Isanti,Minnesota,4,0
+2020/3/21,Ramsey,Minnesota,17,1
+2020/4/9,Houston,Minnesota,1,0
+2020/3/21,Renville,Minnesota,1,0
+2020/4/9,Hennepin,Minnesota,375,25
+2020/3/21,Fillmore,Minnesota,2,0
+2020/4/9,Goodhue,Minnesota,14,0
+2020/4/1,Douglas,Minnesota,1,0
+2020/4/1,Dodge,Minnesota,10,0
+2020/4/1,Dakota,Minnesota,48,0
+2020/4/1,Crow Wing,Minnesota,1,0
+2020/4/1,Cottonwood,Minnesota,3,0
+2020/4/1,Clearwater,Minnesota,2,0
+2020/4/1,Clay,Minnesota,7,0
+2020/4/1,Chisago,Minnesota,3,0
+2020/4/1,Cass,Minnesota,1,0
+2020/4/1,Carver,Minnesota,10,0
+2020/4/1,Carlton,Minnesota,2,0
+2020/4/1,Brown,Minnesota,2,0
+2020/4/1,Blue Earth,Minnesota,9,0
+2020/4/1,Big Stone,Minnesota,1,0
+2020/4/1,Benton,Minnesota,1,0
+2020/4/1,Beltrami,Minnesota,4,0
+2020/4/1,Anoka,Minnesota,26,0
+2020/3/21,Rice,Minnesota,1,0
+2020/3/21,Scott,Minnesota,2,0
+2020/3/21,St. Louis,Minnesota,1,0
+2020/3/21,Stearns,Minnesota,4,0
+2020/3/21,Steele,Minnesota,2,0
+2020/3/21,Unknown,Minnesota,1,0
+2020/3/21,Wabasha,Minnesota,1,0
+2020/3/21,Waseca,Minnesota,2,0
+2020/3/21,Washington,Minnesota,4,0
+2020/3/21,Wright,Minnesota,3,0
+2020/4/2,Anoka,Minnesota,30,0
+2020/4/2,Beltrami,Minnesota,4,0
+2020/4/2,Benton,Minnesota,1,0
+2020/4/2,Big Stone,Minnesota,1,0
+2020/4/2,Blue Earth,Minnesota,10,0
+2020/4/2,Brown,Minnesota,2,0
+2020/4/2,Carlton,Minnesota,3,0
+2020/4/2,Carver,Minnesota,10,0
+2020/4/2,Cass,Minnesota,1,0
+2020/4/2,Chisago,Minnesota,3,0
+2020/4/2,Clay,Minnesota,8,0
+2020/4/2,Clearwater,Minnesota,2,0
+2020/4/2,Cottonwood,Minnesota,5,0
+2020/4/2,Crow Wing,Minnesota,2,0
+2020/4/2,Dakota,Minnesota,52,0
+2020/4/2,Dodge,Minnesota,10,0
+2020/4/2,Douglas,Minnesota,1,0
+2020/4/2,Faribault,Minnesota,2,0
+2020/4/2,Fillmore,Minnesota,9,0
+2020/4/2,Freeborn,Minnesota,5,0
+2020/4/2,Goodhue,Minnesota,4,0
+2020/4/2,Hennepin,Minnesota,235,6
+2020/4/2,Isanti,Minnesota,2,0
+2020/4/2,Itasca,Minnesota,2,0
+2020/4/2,Jackson,Minnesota,1,0
+2020/4/2,Kandiyohi,Minnesota,2,0
+2020/4/2,Koochiching,Minnesota,1,0
+2020/4/2,Lac qui Parle,Minnesota,1,0
+2020/4/2,Le Sueur,Minnesota,18,0
+2020/4/2,Lincoln,Minnesota,1,0
+2020/4/2,Lyon,Minnesota,3,0
+2020/4/2,Mahnomen,Minnesota,1,0
+2020/4/2,Martin,Minnesota,29,2
+2020/4/2,Meeker,Minnesota,1,0
+2020/4/2,Mower,Minnesota,15,0
+2020/4/2,Nicollet,Minnesota,3,0
+2020/5/16,Hennepin,Minnesota,4930,454
+2020/5/16,Houston,Minnesota,2,0
+2020/5/16,Isanti,Minnesota,17,0
+2020/5/16,Itasca,Minnesota,43,4
+2020/5/16,Jackson,Minnesota,35,0
+2020/5/16,Kanabec,Minnesota,9,0
+2020/5/16,Kandiyohi,Minnesota,405,1
+2020/5/16,Kittson,Minnesota,1,0
+2020/5/16,Koochiching,Minnesota,3,0
+2020/5/16,Lac qui Parle,Minnesota,2,0
+2020/5/16,Lake,Minnesota,1,0
+2020/5/16,Le Sueur,Minnesota,34,1
+2020/5/16,Lincoln,Minnesota,4,0
+2020/5/16,Lyon,Minnesota,25,0
+2020/5/16,Mahnomen,Minnesota,5,1
+2020/5/16,Marshall,Minnesota,8,0
+2020/5/16,Martin,Minnesota,117,5
+2020/5/16,McLeod,Minnesota,16,0
+2020/5/16,Meeker,Minnesota,32,0
+2020/5/16,Mille Lacs,Minnesota,9,1
+2020/5/16,Morrison,Minnesota,24,0
+2020/4/1,Stearns,Minnesota,5,0
+2020/4/1,Steele,Minnesota,6,0
+2020/4/1,Traverse,Minnesota,2,0
+2020/4/1,Unknown,Minnesota,1,0
+2020/4/1,Wabasha,Minnesota,6,0
+2020/4/1,Waseca,Minnesota,3,0
+2020/4/1,Washington,Minnesota,44,0
+2020/4/1,Watonwan,Minnesota,2,0
+2020/4/1,Wilkin,Minnesota,1,0
+2020/4/1,Winona,Minnesota,10,0
+2020/4/1,Wright,Minnesota,6,0
+2020/4/1,Yellow Medicine,Minnesota,1,0
+2020/4/25,Yellow Medicine,Minnesota,3,0
+2020/4/25,Wright,Minnesota,33,1
+2020/4/25,Winona,Minnesota,66,13
+2020/4/25,Wilkin,Minnesota,11,3
+2020/4/25,Watonwan,Minnesota,5,0
+2020/4/25,Washington,Minnesota,112,7
+2020/4/25,Waseca,Minnesota,3,0
+2020/4/25,Wabasha,Minnesota,8,0
+2020/4/25,Unknown,Minnesota,5,0
+2020/4/25,Traverse,Minnesota,2,0
+2020/4/25,Todd,Minnesota,3,0
+2020/4/25,Swift,Minnesota,1,0
+2020/4/25,Steele,Minnesota,12,0
+2020/4/25,Stearns,Minnesota,38,0
+2020/4/25,St. Louis,Minnesota,61,10
+2020/4/25,Sibley,Minnesota,1,0
+2020/4/25,Sherburne,Minnesota,15,0
+2020/4/25,Scott,Minnesota,32,1
+2020/4/25,Roseau,Minnesota,1,0
+2020/4/25,Rock,Minnesota,5,0
+2020/4/25,Rice,Minnesota,9,1
+2020/4/25,Renville,Minnesota,3,0
+2020/4/25,Redwood,Minnesota,1,0
+2020/4/25,Red Lake,Minnesota,1,0
+2020/4/25,Ramsey,Minnesota,261,20
+2020/4/25,Polk,Minnesota,20,0
+2020/4/25,Pipestone,Minnesota,2,0
+2020/4/25,Pine,Minnesota,45,0
+2020/4/25,Pennington,Minnesota,1,0
+2020/4/25,Otter Tail,Minnesota,8,0
+2020/4/25,Olmsted,Minnesota,238,6
+2020/4/25,Norman,Minnesota,7,0
+2020/4/25,Nobles,Minnesota,325,1
+2020/4/25,Nicollet,Minnesota,9,2
+2020/4/25,Murray,Minnesota,8,0
+2020/4/25,Mower,Minnesota,28,0
+2020/4/25,Morrison,Minnesota,1,0
+2020/4/25,Mille Lacs,Minnesota,1,1
+2020/4/25,Meeker,Minnesota,4,0
+2020/4/25,McLeod,Minnesota,3,0
+2020/4/25,Martin,Minnesota,42,4
+2020/4/25,Marshall,Minnesota,1,0
+2020/4/25,Mahnomen,Minnesota,1,0
+2020/4/25,Lyon,Minnesota,6,0
+2020/4/25,Lincoln,Minnesota,2,0
+2020/4/25,Le Sueur,Minnesota,22,0
+2020/4/25,Lac qui Parle,Minnesota,1,0
+2020/4/25,Koochiching,Minnesota,1,0
+2020/4/25,Kittson,Minnesota,1,0
+2020/4/25,Kandiyohi,Minnesota,28,0
+2020/4/25,Jackson,Minnesota,7,0
+2020/4/25,Itasca,Minnesota,2,0
+2020/4/25,Isanti,Minnesota,7,0
+2020/4/25,Houston,Minnesota,1,0
+2020/4/25,Hennepin,Minnesota,1287,155
+2020/4/29,Aitkin,Minnesota,1,0
+2020/4/29,Anoka,Minnesota,196,8
+2020/4/29,Becker,Minnesota,2,0
+2020/4/29,Beltrami,Minnesota,6,0
+2020/4/29,Benton,Minnesota,10,0
+2020/4/29,Big Stone,Minnesota,2,0
+2020/4/29,Blue Earth,Minnesota,34,0
+2020/4/29,Brown,Minnesota,8,1
+2020/4/29,Carlton,Minnesota,55,0
+2020/4/29,Carver,Minnesota,20,0
+2020/4/29,Cass,Minnesota,5,0
+2020/4/29,Chippewa,Minnesota,2,0
+2020/4/29,Chisago,Minnesota,10,1
+2020/4/29,Clay,Minnesota,152,10
+2020/4/29,Clearwater,Minnesota,2,0
+2020/4/29,Cottonwood,Minnesota,20,0
+2020/4/29,Crow Wing,Minnesota,20,1
+2020/4/29,Dakota,Minnesota,157,9
+2020/4/29,Dodge,Minnesota,19,0
+2020/4/29,Douglas,Minnesota,2,0
+2020/4/29,Faribault,Minnesota,5,0
+2020/4/29,Fillmore,Minnesota,12,1
+2020/4/29,Freeborn,Minnesota,34,0
+2020/4/29,Goodhue,Minnesota,19,0
+2020/4/29,Hennepin,Minnesota,1633,209
+2020/4/29,Houston,Minnesota,1,0
+2020/4/29,Isanti,Minnesota,6,0
+2020/4/29,Itasca,Minnesota,3,0
+2020/4/29,Jackson,Minnesota,12,0
+2020/4/29,Kandiyohi,Minnesota,88,1
+2020/4/29,Kittson,Minnesota,1,0
+2020/4/29,Koochiching,Minnesota,1,0
+2020/4/29,Lac qui Parle,Minnesota,1,0
+2020/4/29,Le Sueur,Minnesota,24,0
+2020/4/29,Lincoln,Minnesota,3,0
+2020/4/29,Lyon,Minnesota,6,0
+2020/4/29,Mahnomen,Minnesota,1,0
+2020/4/29,Marshall,Minnesota,1,0
+2020/4/29,Martin,Minnesota,70,4
+2020/4/29,McLeod,Minnesota,4,0
+2020/4/29,Meeker,Minnesota,9,0
+2020/4/29,Mille Lacs,Minnesota,2,1
+2020/4/29,Morrison,Minnesota,2,0
+2020/4/29,Mower,Minnesota,28,0
+2020/4/29,Murray,Minnesota,11,0
+2020/4/29,Nicollet,Minnesota,9,2
+2020/4/29,Nobles,Minnesota,615,1
+2020/4/29,Norman,Minnesota,8,0
+2020/4/29,Olmsted,Minnesota,256,6
+2020/4/29,Otter Tail,Minnesota,8,0
+2020/4/29,Pennington,Minnesota,1,0
+2020/4/29,Pine,Minnesota,56,0
+2020/4/29,Pipestone,Minnesota,2,0
+2020/4/29,Polk,Minnesota,27,0
+2020/4/29,Ramsey,Minnesota,332,24
+2020/4/29,Red Lake,Minnesota,1,0
+2020/4/29,Redwood,Minnesota,1,0
+2020/4/29,Renville,Minnesota,4,0
+2020/4/29,Rice,Minnesota,12,1
+2020/4/29,Rock,Minnesota,9,0
+2020/4/29,Roseau,Minnesota,1,0
+2020/4/29,Scott,Minnesota,41,1
+2020/4/29,Sherburne,Minnesota,26,0
+2020/4/29,Sibley,Minnesota,2,0
+2020/4/29,St. Louis,Minnesota,71,11
+2020/4/29,Stearns,Minnesota,166,0
+2020/4/29,Steele,Minnesota,15,0
+2020/4/29,Swift,Minnesota,2,0
+2020/4/29,Todd,Minnesota,7,0
+2020/4/29,Traverse,Minnesota,2,0
+2020/4/29,Unknown,Minnesota,7,0
+2020/4/29,Wabasha,Minnesota,8,0
+2020/4/29,Wadena,Minnesota,1,0
+2020/4/29,Waseca,Minnesota,4,0
+2020/4/29,Washington,Minnesota,120,9
+2020/4/29,Watonwan,Minnesota,9,0
+2020/4/29,Wilkin,Minnesota,12,3
+2020/4/29,Winona,Minnesota,66,14
+2020/4/29,Wright,Minnesota,40,1
+2020/4/29,Yellow Medicine,Minnesota,3,0
+2020/4/24,Yellow Medicine,Minnesota,3,0
+2020/4/24,Wright,Minnesota,32,1
+2020/4/24,Winona,Minnesota,64,13
+2020/4/24,Wilkin,Minnesota,11,2
+2020/4/24,Watonwan,Minnesota,5,0
+2020/4/24,Washington,Minnesota,107,7
+2020/4/24,Waseca,Minnesota,3,0
+2020/4/24,Wabasha,Minnesota,8,0
+2020/4/24,Unknown,Minnesota,6,0
+2020/4/24,Traverse,Minnesota,2,0
+2020/4/24,Todd,Minnesota,3,0
+2020/4/24,Swift,Minnesota,1,0
+2020/4/24,Steele,Minnesota,11,0
+2020/4/24,Stearns,Minnesota,33,0
+2020/4/24,St. Louis,Minnesota,59,10
+2020/4/24,Sibley,Minnesota,1,0
+2020/4/24,Sherburne,Minnesota,15,0
+2020/4/24,Scott,Minnesota,30,1
+2020/4/24,Roseau,Minnesota,1,0
+2020/4/24,Rock,Minnesota,5,0
+2020/4/24,Rice,Minnesota,9,1
+2020/4/24,Renville,Minnesota,3,0
+2020/4/24,Redwood,Minnesota,1,0
+2020/4/24,Red Lake,Minnesota,1,0
+2020/4/24,Ramsey,Minnesota,247,18
+2020/4/24,Polk,Minnesota,19,0
+2020/4/24,Pipestone,Minnesota,2,0
+2020/4/24,Pine,Minnesota,43,0
+2020/4/24,Pennington,Minnesota,1,0
+2020/4/24,Otter Tail,Minnesota,6,0
+2020/4/24,Olmsted,Minnesota,219,6
+2020/4/24,Norman,Minnesota,7,0
+2020/4/24,Nobles,Minnesota,258,1
+2020/4/24,Nicollet,Minnesota,8,2
+2020/4/24,Murray,Minnesota,5,0
+2020/4/24,Mower,Minnesota,28,0
+2020/4/24,Morrison,Minnesota,1,0
+2020/4/24,Mille Lacs,Minnesota,1,1
+2020/4/24,Meeker,Minnesota,3,0
+2020/4/24,McLeod,Minnesota,3,0
+2020/4/24,Martin,Minnesota,41,4
+2020/4/24,Marshall,Minnesota,1,0
+2020/4/24,Mahnomen,Minnesota,1,0
+2020/4/24,Lyon,Minnesota,6,0
+2020/4/24,Lincoln,Minnesota,2,0
+2020/4/24,Le Sueur,Minnesota,22,0
+2020/4/24,Lac qui Parle,Minnesota,1,0
+2020/4/24,Koochiching,Minnesota,1,0
+2020/4/24,Kittson,Minnesota,1,0
+2020/4/24,Kandiyohi,Minnesota,12,0
+2020/4/24,Jackson,Minnesota,6,0
+2020/4/24,Itasca,Minnesota,2,0
+2020/4/24,Isanti,Minnesota,6,0
+2020/4/24,Houston,Minnesota,1,0
+2020/4/24,Hennepin,Minnesota,1200,138
+2020/4/24,Goodhue,Minnesota,19,0
+2020/4/24,Freeborn,Minnesota,33,0
+2020/4/24,Fillmore,Minnesota,12,1
+2020/4/24,Faribault,Minnesota,4,0
+2020/4/24,Douglas,Minnesota,2,0
+2020/4/24,Dodge,Minnesota,18,0
+2020/4/24,Dakota,Minnesota,136,6
+2020/4/24,Crow Wing,Minnesota,20,0
+2020/4/24,Cottonwood,Minnesota,6,0
+2020/4/24,Clearwater,Minnesota,2,0
+2020/4/24,Clay,Minnesota,100,4
+2020/4/24,Chisago,Minnesota,7,1
+2020/4/24,Chippewa,Minnesota,1,0
+2020/4/24,Cass,Minnesota,5,0
+2020/4/24,Carver,Minnesota,15,0
+2020/4/24,Carlton,Minnesota,46,0
+2020/4/24,Brown,Minnesota,8,1
+2020/4/24,Blue Earth,Minnesota,27,0
+2020/4/24,Big Stone,Minnesota,1,0
+2020/4/24,Benton,Minnesota,4,0
+2020/4/24,Beltrami,Minnesota,6,0
+2020/4/24,Becker,Minnesota,2,0
+2020/4/24,Anoka,Minnesota,142,3
+2020/4/24,Aitkin,Minnesota,1,0
+2020/4/25,Goodhue,Minnesota,19,0
+2020/4/25,Freeborn,Minnesota,33,0
+2020/4/25,Fillmore,Minnesota,12,1
+2020/4/25,Faribault,Minnesota,4,0
+2020/4/25,Douglas,Minnesota,2,0
+2020/4/25,Dodge,Minnesota,19,0
+2020/4/25,Dakota,Minnesota,138,6
+2020/4/25,Crow Wing,Minnesota,20,0
+2020/4/25,Cottonwood,Minnesota,6,0
+2020/4/25,Clearwater,Minnesota,2,0
+2020/4/25,Clay,Minnesota,113,7
+2020/4/25,Chisago,Minnesota,7,1
+2020/4/25,Chippewa,Minnesota,2,0
+2020/3/19,Wright,Minnesota,2,0
+2020/3/19,Washington,Minnesota,3,0
+2020/3/19,Waseca,Minnesota,2,0
+2020/3/19,Stearns,Minnesota,4,0
+2020/3/19,Scott,Minnesota,1,0
+2020/3/19,Rice,Minnesota,1,0
+2020/3/19,Renville,Minnesota,1,0
+2020/3/19,Ramsey,Minnesota,12,0
+2020/3/19,Olmsted,Minnesota,6,0
+2020/3/19,Nicollet,Minnesota,2,0
+2020/3/19,Mower,Minnesota,1,0
+2020/3/19,Martin,Minnesota,3,0
+2020/3/19,Hennepin,Minnesota,33,0
+2020/3/19,Dakota,Minnesota,7,0
+2020/3/19,Carver,Minnesota,3,0
+2020/3/22,Hennepin,Minnesota,57,0
+2020/3/22,Fillmore,Minnesota,2,0
+2020/3/22,Dodge,Minnesota,2,0
+2020/3/22,Dakota,Minnesota,11,0
+2020/3/22,Clay,Minnesota,2,0
+2020/3/22,Chisago,Minnesota,1,0
+2020/3/22,Carver,Minnesota,8,0
+2020/3/22,Blue Earth,Minnesota,4,0
+2020/3/19,Blue Earth,Minnesota,2,0
+2020/3/19,Benton,Minnesota,1,0
+2020/3/19,Anoka,Minnesota,5,0
+2020/4/25,Cass,Minnesota,5,0
+2020/4/25,Carver,Minnesota,16,0
+2020/4/25,Carlton,Minnesota,47,0
+2020/4/25,Brown,Minnesota,8,1
+2020/4/25,Blue Earth,Minnesota,27,0
+2020/4/25,Big Stone,Minnesota,2,0
+2020/4/25,Benton,Minnesota,4,0
+2020/4/25,Beltrami,Minnesota,6,0
+2020/4/25,Becker,Minnesota,2,0
+2020/4/25,Anoka,Minnesota,150,3
+2020/4/25,Aitkin,Minnesota,1,0
+2020/4/11,Ramsey,Minnesota,132,6
+2020/4/11,Redwood,Minnesota,1,0
+2020/4/11,Renville,Minnesota,3,0
+2020/4/11,Rice,Minnesota,4,0
+2020/5/19,Wabasha,Minnesota,16,0
+2020/5/19,Unknown,Minnesota,44,9
+2020/4/6,Anoka,Minnesota,40,0
+2020/4/6,Beltrami,Minnesota,6,0
+2020/4/6,Benton,Minnesota,1,0
+2020/4/6,Big Stone,Minnesota,1,0
+2020/4/6,Blue Earth,Minnesota,16,0
+2020/4/6,Brown,Minnesota,5,0
+2020/4/6,Carlton,Minnesota,10,0
+2020/4/6,Carver,Minnesota,10,0
+2020/4/6,Cass,Minnesota,1,0
+2020/4/6,Chisago,Minnesota,5,1
+2020/4/6,Clay,Minnesota,19,0
+2020/4/6,Clearwater,Minnesota,2,0
+2020/4/6,Cottonwood,Minnesota,5,0
+2020/4/6,Crow Wing,Minnesota,6,0
+2020/4/6,Dakota,Minnesota,67,2
+2020/4/6,Dodge,Minnesota,10,0
+2020/4/6,Douglas,Minnesota,1,0
+2020/4/6,Faribault,Minnesota,3,0
+2020/4/6,Fillmore,Minnesota,10,0
+2020/4/6,Freeborn,Minnesota,11,0
+2020/4/6,Goodhue,Minnesota,10,0
+2020/4/6,Hennepin,Minnesota,280,14
+2020/4/6,Houston,Minnesota,1,0
+2020/4/6,Isanti,Minnesota,4,0
+2020/4/6,Itasca,Minnesota,2,0
+2020/4/6,Jackson,Minnesota,1,0
+2020/4/6,Kandiyohi,Minnesota,2,0
+2020/4/6,Koochiching,Minnesota,1,0
+2020/4/6,Lac qui Parle,Minnesota,1,0
+2020/4/6,Le Sueur,Minnesota,20,0
+2020/4/6,Lincoln,Minnesota,2,0
+2020/4/6,Lyon,Minnesota,4,0
+2020/4/6,Mahnomen,Minnesota,1,0
+2020/4/6,Martin,Minnesota,33,4
+2020/4/6,McLeod,Minnesota,1,0
+2020/4/6,Meeker,Minnesota,1,0
+2020/4/6,Mower,Minnesota,17,0
+2020/4/6,Murray,Minnesota,1,0
+2020/4/6,Nicollet,Minnesota,4,0
+2020/4/6,Olmsted,Minnesota,96,2
+2020/4/6,Otter Tail,Minnesota,2,0
+2020/4/6,Pipestone,Minnesota,1,0
+2020/4/6,Polk,Minnesota,1,0
+2020/4/6,Ramsey,Minnesota,96,3
+2020/4/6,Redwood,Minnesota,1,0
+2020/4/6,Renville,Minnesota,2,0
+2020/4/6,Rice,Minnesota,4,0
+2020/4/6,Scott,Minnesota,15,1
+2020/4/6,Sherburne,Minnesota,10,0
+2020/4/6,Sibley,Minnesota,1,0
+2020/4/6,St. Louis,Minnesota,16,0
+2020/4/6,Stearns,Minnesota,6,0
+2020/4/6,Steele,Minnesota,8,0
+2020/4/6,Traverse,Minnesota,2,0
+2020/4/6,Wabasha,Minnesota,6,0
+2020/4/6,Waseca,Minnesota,3,0
+2020/4/6,Washington,Minnesota,65,1
+2020/4/6,Watonwan,Minnesota,4,0
+2020/4/6,Wilkin,Minnesota,2,0
+2020/4/6,Winona,Minnesota,14,2
+2020/4/6,Wright,Minnesota,9,0
+2020/4/6,Yellow Medicine,Minnesota,1,0
+2020/3/22,Benton,Minnesota,1,0
+2020/3/22,Anoka,Minnesota,5,0
+2020/4/27,Aitkin,Minnesota,1,0
+2020/4/27,Anoka,Minnesota,168,5
+2020/4/27,Becker,Minnesota,2,0
+2020/4/27,Beltrami,Minnesota,6,0
+2020/4/27,Benton,Minnesota,4,0
+2020/4/27,Big Stone,Minnesota,2,0
+2020/4/27,Blue Earth,Minnesota,30,0
+2020/4/27,Brown,Minnesota,8,1
+2020/4/27,Carlton,Minnesota,52,0
+2020/4/27,Carver,Minnesota,17,0
+2020/4/27,Cass,Minnesota,5,0
+2020/4/27,Chippewa,Minnesota,2,0
+2020/4/27,Chisago,Minnesota,7,1
+2020/3/10,Anoka,Minnesota,1,0
+2020/3/10,Carver,Minnesota,1,0
+2020/3/10,Ramsey,Minnesota,1,0
+2020/4/13,Anoka,Minnesota,68,0
+2020/4/13,Becker,Minnesota,2,0
+2020/4/13,Beltrami,Minnesota,5,0
+2020/4/13,Benton,Minnesota,1,0
+2020/4/13,Big Stone,Minnesota,1,0
+2020/4/13,Blue Earth,Minnesota,22,0
+2020/4/13,Brown,Minnesota,7,1
+2020/4/13,Carlton,Minnesota,25,0
+2020/4/13,Carver,Minnesota,13,0
+2020/4/13,Cass,Minnesota,4,0
+2020/4/13,Chisago,Minnesota,7,1
+2020/4/13,Clay,Minnesota,40,0
+2020/4/13,Clearwater,Minnesota,2,0
+2020/4/13,Cottonwood,Minnesota,6,0
+2020/4/13,Crow Wing,Minnesota,16,0
+2020/4/13,Dakota,Minnesota,95,4
+2020/4/13,Dodge,Minnesota,16,0
+2020/4/13,Douglas,Minnesota,1,0
+2020/4/13,Faribault,Minnesota,4,0
+2020/4/13,Fillmore,Minnesota,10,0
+2020/4/13,Freeborn,Minnesota,24,0
+2020/4/13,Goodhue,Minnesota,17,0
+2020/4/13,Hennepin,Minnesota,557,34
+2020/4/13,Houston,Minnesota,1,0
+2020/4/13,Isanti,Minnesota,4,0
+2020/4/13,Itasca,Minnesota,2,0
+2020/4/13,Jackson,Minnesota,1,0
+2020/4/13,Kandiyohi,Minnesota,2,0
+2020/4/13,Koochiching,Minnesota,1,0
+2020/4/13,Lac qui Parle,Minnesota,1,0
+2020/4/13,Le Sueur,Minnesota,21,0
+2020/4/13,Lincoln,Minnesota,2,0
+2020/4/13,Lyon,Minnesota,5,0
+2020/4/13,Mahnomen,Minnesota,1,0
+2020/4/13,Martin,Minnesota,38,4
+2020/4/13,McLeod,Minnesota,2,0
+2020/4/13,Meeker,Minnesota,2,0
+2020/4/13,Mower,Minnesota,25,0
+2020/4/13,Murray,Minnesota,1,0
+2020/4/13,Nicollet,Minnesota,6,1
+2020/4/13,Nobles,Minnesota,1,0
+2020/4/13,Olmsted,Minnesota,143,2
+2020/4/13,Otter Tail,Minnesota,4,0
+2020/4/13,Pine,Minnesota,5,0
+2020/4/13,Pipestone,Minnesota,1,0
+2020/4/13,Polk,Minnesota,1,0
+2020/4/13,Ramsey,Minnesota,152,6
+2020/4/13,Red Lake,Minnesota,1,0
+2020/4/13,Redwood,Minnesota,1,0
+2020/4/13,Renville,Minnesota,3,0
+2020/4/13,Rice,Minnesota,4,0
+2020/4/13,Rock,Minnesota,2,0
+2020/4/13,Roseau,Minnesota,1,0
+2020/4/13,Scott,Minnesota,20,1
+2020/4/13,Sherburne,Minnesota,9,0
+2020/4/13,Sibley,Minnesota,1,0
+2020/4/13,St. Louis,Minnesota,38,5
+2020/4/13,Stearns,Minnesota,7,0
+2020/4/13,Steele,Minnesota,9,0
+2020/4/13,Swift,Minnesota,1,0
+2020/4/13,Todd,Minnesota,2,0
+2020/4/13,Traverse,Minnesota,2,0
+2020/4/13,Unknown,Minnesota,34,0
+2020/4/13,Wabasha,Minnesota,6,0
+2020/4/13,Waseca,Minnesota,3,0
+2020/4/13,Washington,Minnesota,80,3
+2020/4/13,Watonwan,Minnesota,4,0
+2020/4/13,Wilkin,Minnesota,7,1
+2020/4/13,Winona,Minnesota,30,6
+2020/4/13,Wright,Minnesota,17,1
+2020/4/13,Yellow Medicine,Minnesota,3,0
+2020/5/16,Yellow Medicine,Minnesota,3,0
+2020/5/16,Wright,Minnesota,152,1
+2020/5/16,Winona,Minnesota,75,15
+2020/5/16,Wilkin,Minnesota,11,3
+2020/5/16,Watonwan,Minnesota,36,0
+2020/5/16,Washington,Minnesota,326,18
+2020/5/16,Waseca,Minnesota,20,0
+2020/5/16,Wadena,Minnesota,4,0
+2020/5/16,Wabasha,Minnesota,16,0
+2020/5/16,Unknown,Minnesota,37,9
+2020/5/16,Traverse,Minnesota,3,0
+2020/5/16,Todd,Minnesota,52,0
+2020/5/16,Swift,Minnesota,12,0
+2020/5/16,Steele,Minnesota,100,0
+2020/5/16,Stearns,Minnesota,1675,10
+2020/5/16,St. Louis,Minnesota,101,12
+2020/5/16,Sibley,Minnesota,7,0
+2020/5/16,Sherburne,Minnesota,144,1
+2020/5/16,Scott,Minnesota,223,1
+2020/5/16,Roseau,Minnesota,1,0
+2020/5/16,Rock,Minnesota,20,0
+2020/5/16,Rice,Minnesota,221,2
+2020/5/16,Renville,Minnesota,5,0
+2020/5/16,Redwood,Minnesota,3,0
+2020/5/16,Red Lake,Minnesota,3,0
+2020/5/16,Ramsey,Minnesota,1416,67
+2020/5/16,Pope,Minnesota,5,0
+2020/5/16,Polk,Minnesota,55,2
+2020/5/16,Pipestone,Minnesota,9,0
+2020/5/16,Pine,Minnesota,83,0
+2020/5/16,Pennington,Minnesota,1,0
+2020/5/16,Otter Tail,Minnesota,36,0
+2020/5/16,Olmsted,Minnesota,435,9
+2020/5/16,Norman,Minnesota,11,0
+2020/5/16,Nobles,Minnesota,1353,2
+2020/5/16,Nicollet,Minnesota,33,2
+2020/5/16,Murray,Minnesota,31,0
+2020/4/30,Jackson,Minnesota,14,0
+2020/4/30,Kandiyohi,Minnesota,91,1
+2020/4/30,Kittson,Minnesota,1,0
+2020/4/30,Koochiching,Minnesota,1,0
+2020/4/30,Lac qui Parle,Minnesota,1,0
+2020/4/30,Le Sueur,Minnesota,24,0
+2020/4/30,Lincoln,Minnesota,3,0
+2020/4/30,Lyon,Minnesota,7,0
+2020/3/31,Wright,Minnesota,6,0
+2020/3/31,Winona,Minnesota,10,0
+2020/3/31,Wilkin,Minnesota,1,0
+2020/3/31,Watonwan,Minnesota,1,0
+2020/3/31,Washington,Minnesota,39,0
+2020/3/31,Waseca,Minnesota,3,0
+2020/3/31,Wabasha,Minnesota,6,0
+2020/3/31,Unknown,Minnesota,1,0
+2020/3/31,Traverse,Minnesota,2,0
+2020/3/31,Steele,Minnesota,6,0
+2020/3/31,Stearns,Minnesota,5,0
+2020/3/31,St. Louis,Minnesota,12,0
+2020/3/31,Sibley,Minnesota,1,0
+2020/3/31,Sherburne,Minnesota,8,0
+2020/3/31,Scott,Minnesota,10,0
+2020/3/31,Rice,Minnesota,3,0
+2020/3/26,Anoka,Minnesota,8,0
+2020/3/26,Benton,Minnesota,1,0
+2020/3/26,Big Stone,Minnesota,1,0
+2020/3/26,Blue Earth,Minnesota,6,0
+2020/3/26,Carver,Minnesota,8,0
+2020/3/26,Cass,Minnesota,1,0
+2020/3/25,Lac qui Parle,Minnesota,1,0
+2020/3/25,Le Sueur,Minnesota,6,0
+2020/3/25,Martin,Minnesota,10,0
+2020/3/25,Mower,Minnesota,6,0
+2020/3/25,Nicollet,Minnesota,3,0
+2020/3/25,Olmsted,Minnesota,21,0
+2020/3/25,Ramsey,Minnesota,27,1
+2020/4/26,Yellow Medicine,Minnesota,3,0
+2020/4/26,Wright,Minnesota,33,1
+2020/4/26,Winona,Minnesota,66,13
+2020/4/26,Wilkin,Minnesota,11,3
+2020/4/26,Watonwan,Minnesota,7,0
+2020/4/26,Washington,Minnesota,113,8
+2020/4/26,Waseca,Minnesota,3,0
+2020/4/26,Wabasha,Minnesota,8,0
+2020/4/26,Unknown,Minnesota,7,0
+2020/4/26,Traverse,Minnesota,2,0
+2020/4/26,Todd,Minnesota,3,0
+2020/4/26,Swift,Minnesota,1,0
+2020/4/26,Steele,Minnesota,12,0
+2020/4/26,Stearns,Minnesota,38,0
+2020/4/26,St. Louis,Minnesota,63,10
+2020/4/26,Sibley,Minnesota,1,0
+2020/4/26,Sherburne,Minnesota,16,0
+2020/4/26,Scott,Minnesota,32,1
+2020/4/26,Roseau,Minnesota,1,0
+2020/4/26,Rock,Minnesota,5,0
+2020/4/26,Rice,Minnesota,9,1
+2020/4/26,Renville,Minnesota,3,0
+2020/4/26,Redwood,Minnesota,1,0
+2020/4/26,Red Lake,Minnesota,1,0
+2020/4/26,Ramsey,Minnesota,278,20
+2020/4/26,Polk,Minnesota,23,0
+2020/4/26,Pipestone,Minnesota,2,0
+2020/4/26,Pine,Minnesota,52,0
+2020/4/26,Pennington,Minnesota,1,0
+2020/4/26,Otter Tail,Minnesota,8,0
+2020/4/26,Olmsted,Minnesota,239,6
+2020/4/26,Norman,Minnesota,7,0
+2020/4/26,Nobles,Minnesota,352,1
+2020/4/26,Nicollet,Minnesota,9,2
+2020/4/26,Murray,Minnesota,8,0
+2020/4/26,Mower,Minnesota,28,0
+2020/4/26,Morrison,Minnesota,1,0
+2020/4/26,Mille Lacs,Minnesota,1,1
+2020/4/26,Meeker,Minnesota,6,0
+2020/4/26,McLeod,Minnesota,3,0
+2020/4/26,Martin,Minnesota,43,4
+2020/4/26,Marshall,Minnesota,1,0
+2020/4/26,Mahnomen,Minnesota,1,0
+2020/4/26,Lyon,Minnesota,6,0
+2020/4/26,Lincoln,Minnesota,2,0
+2020/4/26,Le Sueur,Minnesota,22,0
+2020/4/26,Lac qui Parle,Minnesota,1,0
+2020/4/26,Koochiching,Minnesota,1,0
+2020/4/26,Kittson,Minnesota,1,0
+2020/4/26,Kandiyohi,Minnesota,35,0
+2020/4/26,Jackson,Minnesota,7,0
+2020/4/26,Itasca,Minnesota,2,0
+2020/4/26,Isanti,Minnesota,6,0
+2020/4/26,Houston,Minnesota,1,0
+2020/4/26,Hennepin,Minnesota,1332,177
+2020/4/26,Goodhue,Minnesota,19,0
+2020/4/26,Freeborn,Minnesota,33,0
+2020/4/26,Fillmore,Minnesota,12,1
+2020/4/26,Faribault,Minnesota,4,0
+2020/4/26,Douglas,Minnesota,2,0
+2020/4/26,Dodge,Minnesota,19,0
+2020/4/26,Dakota,Minnesota,143,7
+2020/4/26,Crow Wing,Minnesota,20,0
+2020/4/26,Cottonwood,Minnesota,6,0
+2020/4/26,Clearwater,Minnesota,2,0
+2020/4/26,Clay,Minnesota,125,9
+2020/4/26,Chisago,Minnesota,7,1
+2020/4/26,Chippewa,Minnesota,2,0
+2020/4/26,Cass,Minnesota,5,0
+2020/4/26,Carver,Minnesota,17,0
+2020/4/26,Carlton,Minnesota,51,0
+2020/4/26,Brown,Minnesota,8,1
+2020/4/26,Blue Earth,Minnesota,29,0
+2020/4/26,Big Stone,Minnesota,2,0
+2020/4/26,Benton,Minnesota,4,0
+2020/4/26,Beltrami,Minnesota,6,0
+2020/4/26,Becker,Minnesota,2,0
+2020/4/26,Anoka,Minnesota,165,5
+2020/4/26,Aitkin,Minnesota,1,0
+2020/5/6,Yellow Medicine,Minnesota,3,0
+2020/5/6,Wright,Minnesota,69,1
+2020/5/6,Winona,Minnesota,68,15
+2020/5/6,Wilkin,Minnesota,12,3
+2020/5/6,Watonwan,Minnesota,15,0
+2020/5/6,Washington,Minnesota,181,12
+2020/5/6,Waseca,Minnesota,7,0
+2020/5/6,Wadena,Minnesota,3,0
+2020/5/6,Wabasha,Minnesota,10,0
+2020/5/6,Unknown,Minnesota,9,0
+2020/5/6,Traverse,Minnesota,2,0
+2020/5/6,Todd,Minnesota,18,0
+2020/5/6,Swift,Minnesota,2,0
+2020/5/6,Steele,Minnesota,29,0
+2020/5/6,Stearns,Minnesota,975,3
+2020/5/6,St. Louis,Minnesota,86,11
+2020/5/6,Sibley,Minnesota,2,0
+2020/5/6,Sherburne,Minnesota,80,1
+2020/5/6,Scott,Minnesota,90,1
+2020/5/6,Roseau,Minnesota,1,0
+2020/5/6,Rock,Minnesota,18,0
+2020/5/6,Rice,Minnesota,30,1
+2020/5/6,Renville,Minnesota,6,0
+2020/5/6,Redwood,Minnesota,3,0
+2020/5/6,Red Lake,Minnesota,1,0
+2020/5/6,Ramsey,Minnesota,656,38
+2020/5/6,Pope,Minnesota,1,0
+2020/5/6,Polk,Minnesota,43,0
+2020/5/6,Pipestone,Minnesota,4,0
+2020/5/6,Pine,Minnesota,61,0
+2020/5/6,Pennington,Minnesota,1,0
+2020/5/6,Otter Tail,Minnesota,19,0
+2020/5/6,Olmsted,Minnesota,322,8
+2020/5/6,Norman,Minnesota,9,0
+2020/5/6,Nobles,Minnesota,1082,2
+2020/5/6,Nicollet,Minnesota,17,2
+2020/5/6,Murray,Minnesota,20,0
+2020/5/6,Mower,Minnesota,35,0
+2020/5/6,Morrison,Minnesota,9,0
+2020/5/6,Mille Lacs,Minnesota,5,1
+2020/5/6,Meeker,Minnesota,18,0
+2020/5/6,McLeod,Minnesota,6,0
+2020/5/6,Martin,Minnesota,111,4
+2020/5/6,Marshall,Minnesota,7,0
+2020/5/6,Mahnomen,Minnesota,2,1
+2020/5/6,Lyon,Minnesota,11,0
+2020/5/6,Lincoln,Minnesota,3,0
+2020/5/6,Le Sueur,Minnesota,26,0
+2020/5/6,Lac qui Parle,Minnesota,2,0
+2020/5/6,Koochiching,Minnesota,1,0
+2020/5/6,Kittson,Minnesota,1,0
+2020/5/6,Kandiyohi,Minnesota,211,1
+2020/5/6,Kanabec,Minnesota,2,0
+2020/5/6,Jackson,Minnesota,25,0
+2020/5/6,Itasca,Minnesota,24,0
+2020/5/6,Isanti,Minnesota,7,0
+2020/5/6,Houston,Minnesota,1,0
+2020/5/6,Hennepin,Minnesota,2764,325
+2020/5/6,Grant,Minnesota,1,0
+2020/5/6,Goodhue,Minnesota,23,0
+2020/5/6,Freeborn,Minnesota,38,0
+2020/5/6,Fillmore,Minnesota,12,1
+2020/5/6,Faribault,Minnesota,8,0
+2020/5/6,Douglas,Minnesota,12,0
+2020/4/10,Yellow Medicine,Minnesota,2,0
+2020/3/25,Renville,Minnesota,1,0
+2020/4/10,Wright,Minnesota,14,0
+2020/3/25,Rice,Minnesota,2,0
+2020/4/10,Winona,Minnesota,26,5
+2020/3/25,Scott,Minnesota,6,0
+2020/4/10,Wilkin,Minnesota,6,1
+2020/3/25,Sherburne,Minnesota,1,0
+2020/4/10,Watonwan,Minnesota,4,0
+2020/3/25,St. Louis,Minnesota,3,0
+2020/4/10,Washington,Minnesota,73,2
+2020/4/10,Waseca,Minnesota,3,0
+2020/4/10,Wabasha,Minnesota,6,0
+2020/4/10,Traverse,Minnesota,2,0
+2020/4/10,Swift,Minnesota,1,0
+2020/4/10,Steele,Minnesota,9,0
+2020/4/10,Stearns,Minnesota,7,0
+2020/4/10,St. Louis,Minnesota,34,4
+2020/4/10,Sibley,Minnesota,1,0
+2020/4/10,Sherburne,Minnesota,9,0
+2020/4/10,Scott,Minnesota,19,1
+2020/4/10,Roseau,Minnesota,1,0
+2020/4/10,Rice,Minnesota,4,0
+2020/4/10,Renville,Minnesota,2,0
+2020/4/10,Redwood,Minnesota,1,0
+2020/4/10,Ramsey,Minnesota,124,5
+2020/4/10,Polk,Minnesota,1,0
+2020/4/10,Pipestone,Minnesota,1,0
+2020/4/10,Pine,Minnesota,3,0
+2020/4/10,Otter Tail,Minnesota,3,0
+2020/4/10,Olmsted,Minnesota,126,2
+2020/5/6,Dodge,Minnesota,22,0
+2020/5/6,Dakota,Minnesota,292,12
+2020/5/6,Crow Wing,Minnesota,21,1
+2020/4/30,Mahnomen,Minnesota,2,0
+2020/4/30,Marshall,Minnesota,1,0
+2020/4/30,Martin,Minnesota,88,4
+2020/4/30,McLeod,Minnesota,4,0
+2020/4/30,Meeker,Minnesota,11,0
+2020/4/30,Mille Lacs,Minnesota,2,1
+2020/4/30,Morrison,Minnesota,5,0
+2020/4/30,Mower,Minnesota,28,0
+2020/4/30,Murray,Minnesota,13,0
+2020/4/30,Nicollet,Minnesota,11,2
+2020/4/30,Nobles,Minnesota,742,1
+2020/4/30,Norman,Minnesota,8,0
+2020/4/30,Olmsted,Minnesota,265,6
+2020/4/30,Otter Tail,Minnesota,9,0
+2020/4/30,Pennington,Minnesota,1,0
+2020/4/30,Pine,Minnesota,56,0
+2020/4/30,Pipestone,Minnesota,2,0
+2020/4/30,Polk,Minnesota,27,0
+2020/4/30,Ramsey,Minnesota,374,26
+2020/4/30,Red Lake,Minnesota,1,0
+2020/4/30,Redwood,Minnesota,2,0
+2020/4/30,Renville,Minnesota,4,0
+2020/4/30,Rice,Minnesota,14,1
+2020/4/30,Rock,Minnesota,11,0
+2020/4/30,Roseau,Minnesota,1,0
+2020/4/30,Scott,Minnesota,44,1
+2020/4/30,Sherburne,Minnesota,28,0
+2020/4/30,Sibley,Minnesota,2,0
+2020/4/30,St. Louis,Minnesota,71,11
+2020/4/30,Stearns,Minnesota,267,0
+2020/4/30,Steele,Minnesota,16,0
+2020/4/30,Swift,Minnesota,2,0
+2020/4/30,Todd,Minnesota,7,0
+2020/4/30,Traverse,Minnesota,2,0
+2020/4/30,Unknown,Minnesota,9,0
+2020/4/30,Wabasha,Minnesota,8,0
+2020/4/30,Wadena,Minnesota,1,0
+2020/4/30,Waseca,Minnesota,4,0
+2020/4/30,Washington,Minnesota,131,10
+2020/4/30,Watonwan,Minnesota,11,0
+2020/4/30,Wilkin,Minnesota,12,3
+2020/4/30,Winona,Minnesota,66,15
+2020/4/30,Wright,Minnesota,42,1
+2020/4/30,Yellow Medicine,Minnesota,3,0
+2020/3/24,Mower,Minnesota,6,0
+2020/3/24,Nicollet,Minnesota,3,0
+2020/3/24,Olmsted,Minnesota,18,0
+2020/3/24,Ramsey,Minnesota,26,1
+2020/3/24,Renville,Minnesota,1,0
+2020/3/24,Rice,Minnesota,2,0
+2020/3/24,Scott,Minnesota,5,0
+2020/3/24,Sherburne,Minnesota,1,0
+2020/3/24,St. Louis,Minnesota,2,0
+2020/3/24,Stearns,Minnesota,5,0
+2020/3/24,Steele,Minnesota,5,0
+2020/3/24,Unknown,Minnesota,1,0
+2020/3/24,Wabasha,Minnesota,1,0
+2020/3/24,Waseca,Minnesota,2,0
+2020/3/24,Washington,Minnesota,10,0
+2020/3/24,Wright,Minnesota,3,0
+2020/3/25,Stearns,Minnesota,5,0
+2020/3/25,Steele,Minnesota,5,0
+2020/3/25,Unknown,Minnesota,1,0
+2020/3/25,Wabasha,Minnesota,3,0
+2020/3/25,Waseca,Minnesota,2,0
+2020/3/25,Washington,Minnesota,13,0
+2020/3/25,Winona,Minnesota,2,0
+2020/3/25,Wright,Minnesota,3,0
+2020/3/20,Carver,Minnesota,3,0
+2020/3/20,Blue Earth,Minnesota,2,0
+2020/3/20,Benton,Minnesota,1,0
+2020/3/20,Anoka,Minnesota,5,0
+2020/5/6,Cottonwood,Minnesota,42,0
+2020/5/6,Clearwater,Minnesota,2,0
+2020/5/6,Clay,Minnesota,215,14
+2020/5/6,Chisago,Minnesota,14,1
+2020/5/6,Chippewa,Minnesota,4,0
+2020/5/6,Cass,Minnesota,7,0
+2020/5/6,Carver,Minnesota,51,0
+2020/5/6,Carlton,Minnesota,61,0
+2020/5/6,Brown,Minnesota,9,1
+2020/5/6,Blue Earth,Minnesota,53,0
+2020/5/6,Big Stone,Minnesota,2,0
+2020/5/6,Benton,Minnesota,59,1
+2020/5/6,Beltrami,Minnesota,6,0
+2020/5/6,Becker,Minnesota,16,0
+2020/5/6,Anoka,Minnesota,382,24
+2020/5/6,Aitkin,Minnesota,1,0
+2020/4/11,Roseau,Minnesota,1,0
+2020/4/4,Anoka,Minnesota,36,0
+2020/4/4,Beltrami,Minnesota,5,0
+2020/4/4,Benton,Minnesota,1,0
+2020/4/4,Big Stone,Minnesota,1,0
+2020/4/4,Blue Earth,Minnesota,14,0
+2020/4/4,Brown,Minnesota,3,0
+2020/4/4,Carlton,Minnesota,8,0
+2020/4/4,Carver,Minnesota,10,0
+2020/4/4,Cass,Minnesota,1,0
+2020/4/4,Chisago,Minnesota,4,1
+2020/4/4,Clay,Minnesota,13,0
+2020/4/4,Clearwater,Minnesota,2,0
+2020/4/4,Cottonwood,Minnesota,5,0
+2020/4/4,Crow Wing,Minnesota,5,0
+2020/4/4,Dakota,Minnesota,56,1
+2020/4/4,Dodge,Minnesota,10,0
+2020/4/4,Douglas,Minnesota,1,0
+2020/4/4,Faribault,Minnesota,3,0
+2020/4/4,Fillmore,Minnesota,9,0
+2020/4/4,Freeborn,Minnesota,10,0
+2020/4/4,Goodhue,Minnesota,8,0
+2020/4/4,Hennepin,Minnesota,252,9
+2020/4/4,Isanti,Minnesota,3,0
+2020/4/4,Itasca,Minnesota,2,0
+2020/4/4,Jackson,Minnesota,1,0
+2020/4/4,Kandiyohi,Minnesota,2,0
+2020/4/4,Koochiching,Minnesota,1,0
+2020/4/4,Lac qui Parle,Minnesota,1,0
+2020/4/4,Le Sueur,Minnesota,20,0
+2020/4/4,Lincoln,Minnesota,1,0
+2020/4/4,Lyon,Minnesota,3,0
+2020/4/4,Mahnomen,Minnesota,1,0
+2020/4/4,Martin,Minnesota,32,4
+2020/4/4,McLeod,Minnesota,1,0
+2020/4/4,Meeker,Minnesota,1,0
+2020/4/4,Mower,Minnesota,17,0
+2020/4/4,Nicollet,Minnesota,4,0
+2020/4/4,Olmsted,Minnesota,88,2
+2020/4/4,Otter Tail,Minnesota,1,0
+2020/4/4,Polk,Minnesota,1,0
+2020/4/4,Ramsey,Minnesota,79,2
+2020/4/4,Renville,Minnesota,2,0
+2020/4/4,Rice,Minnesota,4,0
+2020/4/4,Scott,Minnesota,12,1
+2020/4/4,Sherburne,Minnesota,9,0
+2020/4/4,Sibley,Minnesota,1,0
+2020/4/4,St. Louis,Minnesota,13,0
+2020/4/4,Stearns,Minnesota,6,0
+2020/4/4,Steele,Minnesota,8,0
+2020/4/4,Traverse,Minnesota,2,0
+2020/4/4,Unknown,Minnesota,2,3
+2020/4/4,Wabasha,Minnesota,6,0
+2020/4/4,Waseca,Minnesota,3,0
+2020/4/4,Washington,Minnesota,54,0
+2020/4/4,Watonwan,Minnesota,3,0
+2020/4/4,Wilkin,Minnesota,2,0
+2020/3/26,Chisago,Minnesota,2,0
+2020/3/26,Clay,Minnesota,4,0
+2020/3/26,Dakota,Minnesota,25,0
+2020/3/26,Dodge,Minnesota,5,0
+2020/3/26,Fillmore,Minnesota,3,0
+2020/3/26,Goodhue,Minnesota,1,0
+2020/3/26,Hennepin,Minnesota,128,0
+2020/3/26,Jackson,Minnesota,1,0
+2020/3/26,Kandiyohi,Minnesota,1,0
+2020/3/26,Lac qui Parle,Minnesota,1,0
+2020/3/26,Le Sueur,Minnesota,6,0
+2020/3/26,Martin,Minnesota,12,0
+2020/3/26,Mower,Minnesota,10,0
+2020/3/26,Nicollet,Minnesota,3,0
+2020/3/26,Olmsted,Minnesota,29,0
+2020/3/26,Ramsey,Minnesota,32,1
+2020/3/26,Renville,Minnesota,1,0
+2020/3/26,Rice,Minnesota,2,0
+2020/5/16,Mower,Minnesota,56,0
+2020/3/21,Anoka,Minnesota,5,0
+2020/3/21,Benton,Minnesota,1,0
+2020/3/21,Blue Earth,Minnesota,3,0
+2020/3/21,Carver,Minnesota,3,0
+2020/3/21,Chisago,Minnesota,1,0
+2020/4/4,Winona,Minnesota,13,1
+2020/4/4,Wright,Minnesota,8,0
+2020/4/4,Yellow Medicine,Minnesota,1,0
+2020/5/9,Yellow Medicine,Minnesota,3,0
+2020/5/9,Wright,Minnesota,92,1
+2020/5/9,Winona,Minnesota,70,15
+2020/5/9,Wilkin,Minnesota,12,3
+2020/5/9,Watonwan,Minnesota,22,0
+2020/5/9,Washington,Minnesota,231,14
+2020/5/9,Waseca,Minnesota,16,0
+2020/5/9,Wadena,Minnesota,4,0
+2020/5/9,Wabasha,Minnesota,13,0
+2020/5/9,Unknown,Minnesota,16,0
+2020/5/9,Traverse,Minnesota,3,0
+2020/5/9,Todd,Minnesota,33,0
+2020/5/9,Swift,Minnesota,3,0
+2020/5/9,Steele,Minnesota,58,0
+2020/5/9,Stearns,Minnesota,1348,5
+2020/5/9,St. Louis,Minnesota,91,12
+2020/5/9,Sibley,Minnesota,3,0
+2020/5/9,Sherburne,Minnesota,107,1
+2020/5/9,Scott,Minnesota,129,1
+2020/5/9,Roseau,Minnesota,1,0
+2020/5/9,Rock,Minnesota,19,0
+2020/5/9,Rice,Minnesota,102,1
+2020/5/9,Renville,Minnesota,6,0
+2020/5/9,Redwood,Minnesota,3,0
+2020/5/9,Red Lake,Minnesota,1,0
+2020/5/9,Ramsey,Minnesota,875,43
+2020/5/9,Pope,Minnesota,5,0
+2020/5/9,Polk,Minnesota,48,1
+2020/5/9,Pipestone,Minnesota,7,0
+2020/5/9,Pine,Minnesota,69,0
+2020/5/9,Pennington,Minnesota,1,0
+2020/5/9,Otter Tail,Minnesota,23,0
+2020/5/9,Olmsted,Minnesota,363,9
+2020/5/9,Norman,Minnesota,9,0
+2020/5/9,Nobles,Minnesota,1230,2
+2020/5/9,Nicollet,Minnesota,21,2
+2020/5/9,Murray,Minnesota,27,0
+2020/5/9,Mower,Minnesota,42,0
+2020/5/9,Morrison,Minnesota,13,0
+2020/5/9,Mille Lacs,Minnesota,7,1
+2020/5/9,Meeker,Minnesota,21,0
+2020/5/9,McLeod,Minnesota,8,0
+2020/5/9,Martin,Minnesota,112,4
+2020/5/9,Marshall,Minnesota,8,0
+2020/5/9,Mahnomen,Minnesota,2,1
+2020/5/9,Lyon,Minnesota,17,0
+2020/5/9,Lincoln,Minnesota,3,0
+2020/5/9,Le Sueur,Minnesota,28,0
+2020/5/9,Lake,Minnesota,1,0
+2020/5/9,Lac qui Parle,Minnesota,2,0
+2020/5/9,Koochiching,Minnesota,1,0
+2020/5/9,Kittson,Minnesota,1,0
+2020/5/9,Kandiyohi,Minnesota,276,1
+2020/5/9,Kanabec,Minnesota,9,0
+2020/5/9,Jackson,Minnesota,31,0
+2020/5/9,Itasca,Minnesota,25,0
+2020/5/9,Isanti,Minnesota,7,0
+2020/5/9,Houston,Minnesota,2,0
+2020/5/9,Hennepin,Minnesota,3379,374
+2020/5/9,Grant,Minnesota,2,0
+2020/5/9,Goodhue,Minnesota,25,0
+2020/5/9,Freeborn,Minnesota,43,0
+2020/5/9,Fillmore,Minnesota,12,1
+2020/5/9,Faribault,Minnesota,10,0
+2020/5/9,Douglas,Minnesota,15,0
+2020/5/9,Dodge,Minnesota,24,0
+2020/5/9,Dakota,Minnesota,408,15
+2020/5/9,Crow Wing,Minnesota,24,1
+2020/5/9,Cottonwood,Minnesota,45,0
+2020/5/9,Clearwater,Minnesota,2,0
+2020/5/9,Clay,Minnesota,233,16
+2020/5/9,Chisago,Minnesota,19,1
+2020/5/9,Chippewa,Minnesota,5,0
+2020/5/9,Cass,Minnesota,8,0
+2020/5/9,Carver,Minnesota,78,1
+2020/5/9,Carlton,Minnesota,64,0
+2020/5/9,Brown,Minnesota,9,1
+2020/5/9,Blue Earth,Minnesota,64,0
+2020/5/9,Big Stone,Minnesota,2,0
+2020/5/9,Benton,Minnesota,87,2
+2020/5/9,Beltrami,Minnesota,6,0
+2020/5/9,Becker,Minnesota,25,0
+2020/5/9,Anoka,Minnesota,518,29
+2020/5/9,Aitkin,Minnesota,2,0
+2020/4/11,Yellow Medicine,Minnesota,2,0
+2020/4/11,Wright,Minnesota,16,1
+2020/4/11,Winona,Minnesota,26,6
+2020/4/11,Wilkin,Minnesota,7,1
+2020/4/11,Watonwan,Minnesota,4,0
+2020/4/11,Washington,Minnesota,77,2
+2020/4/11,Waseca,Minnesota,3,0
+2020/5/19,Traverse,Minnesota,3,0
+2020/4/11,Scott,Minnesota,20,1
+2020/5/19,Todd,Minnesota,87,0
+2020/4/11,Sherburne,Minnesota,9,0
+2020/4/11,Sibley,Minnesota,1,0
+2020/4/11,St. Louis,Minnesota,37,4
+2020/4/11,Stearns,Minnesota,7,0
+2020/3/15,Wright,Minnesota,1,0
+2020/3/15,Washington,Minnesota,1,0
+2020/3/15,Waseca,Minnesota,1,0
+2020/3/15,Stearns,Minnesota,3,0
+2020/3/15,Renville,Minnesota,1,0
+2020/3/15,Ramsey,Minnesota,8,0
+2020/3/15,Olmsted,Minnesota,2,0
+2020/3/15,Hennepin,Minnesota,12,0
+2020/3/15,Dakota,Minnesota,3,0
+2020/3/15,Carver,Minnesota,1,0
+2020/3/15,Anoka,Minnesota,2,0
+2020/5/18,Brown,Minnesota,10,2
+2020/5/18,Carlton,Minnesota,66,0
+2020/5/18,Carver,Minnesota,117,2
+2020/5/18,Cass,Minnesota,10,2
+2020/5/18,Chippewa,Minnesota,32,0
+2020/5/18,Chisago,Minnesota,37,1
+2020/5/18,Clay,Minnesota,310,20
+2020/5/18,Clearwater,Minnesota,2,0
+2020/5/18,Cottonwood,Minnesota,58,0
+2020/5/18,Crow Wing,Minnesota,30,1
+2020/5/18,Dakota,Minnesota,802,23
+2020/5/18,Dodge,Minnesota,36,0
+2020/5/18,Douglas,Minnesota,21,0
+2020/4/11,Steele,Minnesota,9,0
+2020/4/11,Swift,Minnesota,1,0
+2020/4/11,Traverse,Minnesota,2,0
+2020/4/11,Unknown,Minnesota,3,0
+2020/4/11,Wabasha,Minnesota,6,0
+2020/4/20,Scott,Minnesota,27,1
+2020/4/20,Roseau,Minnesota,1,0
+2020/4/20,Rock,Minnesota,4,0
+2020/4/12,Yellow Medicine,Minnesota,3,0
+2020/4/12,Wright,Minnesota,17,1
+2020/4/12,Winona,Minnesota,30,6
+2020/4/12,Wilkin,Minnesota,7,1
+2020/4/12,Watonwan,Minnesota,4,0
+2020/4/12,Washington,Minnesota,80,3
+2020/4/12,Waseca,Minnesota,3,0
+2020/4/12,Wabasha,Minnesota,6,0
+2020/3/13,Dakota,Minnesota,2,0
+2020/3/13,Hennepin,Minnesota,3,0
+2020/3/13,Olmsted,Minnesota,1,0
+2020/3/13,Ramsey,Minnesota,3,0
+2020/3/13,Stearns,Minnesota,2,0
+2020/3/13,Wright,Minnesota,1,0
+2020/4/12,Unknown,Minnesota,5,0
+2020/4/12,Traverse,Minnesota,2,0
+2020/4/12,Todd,Minnesota,2,0
+2020/3/21,Dakota,Minnesota,7,0
+2020/3/21,Dodge,Minnesota,1,0
+2020/4/12,Swift,Minnesota,1,0
+2020/4/12,Steele,Minnesota,9,0
+2020/4/12,Stearns,Minnesota,7,0
+2020/4/12,St. Louis,Minnesota,38,5
+2020/4/12,Sibley,Minnesota,1,0
+2020/4/12,Sherburne,Minnesota,9,0
+2020/4/12,Scott,Minnesota,20,1
+2020/4/12,Roseau,Minnesota,1,0
+2020/4/12,Rock,Minnesota,2,0
+2020/4/10,Nobles,Minnesota,1,0
+2020/4/10,Nicollet,Minnesota,6,0
+2020/4/10,Murray,Minnesota,1,0
+2020/4/10,Mower,Minnesota,22,0
+2020/4/10,Meeker,Minnesota,2,0
+2020/4/10,McLeod,Minnesota,2,0
+2020/4/10,Martin,Minnesota,36,4
+2020/4/10,Mahnomen,Minnesota,1,0
+2020/4/10,Lyon,Minnesota,5,0
+2020/4/10,Lincoln,Minnesota,2,0
+2020/4/10,Le Sueur,Minnesota,20,0
+2020/4/10,Lac qui Parle,Minnesota,1,0
+2020/4/10,Koochiching,Minnesota,1,0
+2020/4/10,Kandiyohi,Minnesota,2,0
+2020/4/10,Jackson,Minnesota,1,0
+2020/4/10,Itasca,Minnesota,2,0
+2020/4/10,Isanti,Minnesota,4,0
+2020/4/10,Houston,Minnesota,1,0
+2020/4/10,Hennepin,Minnesota,415,27
+2020/4/10,Goodhue,Minnesota,14,0
+2020/4/10,Freeborn,Minnesota,21,0
+2020/4/10,Fillmore,Minnesota,10,0
+2020/4/10,Faribault,Minnesota,4,0
+2020/4/10,Douglas,Minnesota,1,0
+2020/4/10,Dodge,Minnesota,14,0
+2020/4/10,Dakota,Minnesota,85,4
+2020/4/10,Crow Wing,Minnesota,13,0
+2020/4/10,Cottonwood,Minnesota,5,0
+2020/4/10,Clearwater,Minnesota,2,0
+2020/4/21,Yellow Medicine,Minnesota,3,0
+2020/4/21,Wright,Minnesota,27,1
+2020/4/21,Winona,Minnesota,61,10
+2020/4/21,Wilkin,Minnesota,9,2
+2020/4/21,Watonwan,Minnesota,4,0
+2020/4/21,Washington,Minnesota,98,5
+2020/4/21,Waseca,Minnesota,3,0
+2020/4/21,Wabasha,Minnesota,8,0
+2020/4/21,Unknown,Minnesota,4,0
+2020/4/21,Traverse,Minnesota,2,0
+2020/4/21,Todd,Minnesota,3,0
+2020/4/21,Swift,Minnesota,1,0
+2020/4/21,Steele,Minnesota,9,0
+2020/4/21,Stearns,Minnesota,18,0
+2020/4/21,St. Louis,Minnesota,53,10
+2020/4/21,Sibley,Minnesota,1,0
+2020/4/21,Sherburne,Minnesota,13,0
+2020/4/21,Scott,Minnesota,27,1
+2020/4/21,Roseau,Minnesota,1,0
+2020/4/21,Rock,Minnesota,5,0
+2020/4/21,Rice,Minnesota,7,1
+2020/4/21,Renville,Minnesota,3,0
+2020/4/21,Redwood,Minnesota,1,0
+2020/4/21,Red Lake,Minnesota,1,0
+2020/4/21,Ramsey,Minnesota,215,11
+2020/4/21,Polk,Minnesota,4,0
+2020/4/21,Pipestone,Minnesota,2,0
+2020/4/21,Pine,Minnesota,12,0
+2020/4/21,Pennington,Minnesota,1,0
+2020/4/21,Otter Tail,Minnesota,6,0
+2020/4/21,Olmsted,Minnesota,198,4
+2020/4/21,Norman,Minnesota,5,0
+2020/4/21,Nobles,Minnesota,101,0
+2020/4/21,Nicollet,Minnesota,7,2
+2020/4/21,Murray,Minnesota,3,0
+2020/4/21,Mower,Minnesota,26,0
+2020/4/21,Morrison,Minnesota,1,0
+2020/4/21,Mille Lacs,Minnesota,1,1
+2020/4/21,Meeker,Minnesota,3,0
+2020/4/21,McLeod,Minnesota,3,0
+2020/4/21,Martin,Minnesota,41,4
+2020/4/21,Marshall,Minnesota,1,0
+2020/4/21,Mahnomen,Minnesota,1,0
+2020/4/21,Lyon,Minnesota,5,0
+2020/4/21,Lincoln,Minnesota,2,0
+2020/4/21,Le Sueur,Minnesota,22,0
+2020/4/21,Lac qui Parle,Minnesota,1,0
+2020/4/21,Koochiching,Minnesota,1,0
+2020/4/21,Kittson,Minnesota,1,0
+2020/4/21,Kandiyohi,Minnesota,3,0
+2020/4/21,Jackson,Minnesota,2,0
+2020/4/21,Itasca,Minnesota,2,0
+2020/4/21,Isanti,Minnesota,6,0
+2020/4/21,Houston,Minnesota,1,0
+2020/5/3,Aitkin,Minnesota,1,0
+2020/5/3,Anoka,Minnesota,281,17
+2020/5/3,Becker,Minnesota,10,0
+2020/5/3,Beltrami,Minnesota,6,0
+2020/5/3,Benton,Minnesota,32,1
+2020/3/9,Carver,Minnesota,1,0
+2020/3/9,Ramsey,Minnesota,1,0
+2020/5/3,Big Stone,Minnesota,2,0
+2020/3/21,Clay,Minnesota,1,0
+2020/3/13,Carver,Minnesota,1,0
+2020/3/13,Anoka,Minnesota,1,0
+2020/3/20,Chisago,Minnesota,1,0
+2020/3/20,Clay,Minnesota,1,0
+2020/3/20,Dakota,Minnesota,7,0
+2020/5/3,Blue Earth,Minnesota,46,0
+2020/5/3,Brown,Minnesota,8,1
+2020/5/3,Carlton,Minnesota,60,0
+2020/5/3,Carver,Minnesota,26,0
+2020/5/3,Cass,Minnesota,7,0
+2020/5/3,Chippewa,Minnesota,3,0
+2020/5/3,Chisago,Minnesota,13,1
+2020/5/3,Clay,Minnesota,176,13
+2020/5/3,Clearwater,Minnesota,2,0
+2020/5/3,Cottonwood,Minnesota,28,0
+2020/5/3,Crow Wing,Minnesota,21,1
+2020/5/3,Dakota,Minnesota,202,11
+2020/5/3,Dodge,Minnesota,22,0
+2020/5/3,Douglas,Minnesota,3,0
+2020/5/3,Faribault,Minnesota,6,0
+2020/5/3,Fillmore,Minnesota,13,1
+2020/5/3,Freeborn,Minnesota,35,0
+2020/5/3,Goodhue,Minnesota,21,0
+2020/5/3,Grant,Minnesota,1,0
+2020/5/3,Hennepin,Minnesota,2151,277
+2020/5/3,Houston,Minnesota,1,0
+2020/5/3,Isanti,Minnesota,6,0
+2020/5/3,Itasca,Minnesota,11,0
+2020/5/3,Jackson,Minnesota,18,0
+2020/5/3,Kanabec,Minnesota,1,0
+2020/5/3,Kandiyohi,Minnesota,167,1
+2020/5/3,Kittson,Minnesota,1,0
+2020/5/3,Koochiching,Minnesota,1,0
+2020/5/3,Lac qui Parle,Minnesota,1,0
+2020/5/3,Le Sueur,Minnesota,26,0
+2020/5/3,Lincoln,Minnesota,3,0
+2020/5/3,Lyon,Minnesota,9,0
+2020/5/3,Mahnomen,Minnesota,2,0
+2020/5/3,Marshall,Minnesota,5,0
+2020/5/3,Martin,Minnesota,111,4
+2020/5/3,McLeod,Minnesota,4,0
+2020/5/3,Meeker,Minnesota,15,0
+2020/5/3,Mille Lacs,Minnesota,2,1
+2020/5/3,Morrison,Minnesota,6,0
+2020/5/3,Mower,Minnesota,28,0
+2020/5/3,Murray,Minnesota,17,0
+2020/5/3,Nicollet,Minnesota,15,2
+2020/5/3,Nobles,Minnesota,940,1
+2020/5/3,Norman,Minnesota,8,0
+2020/5/3,Olmsted,Minnesota,293,8
+2020/5/3,Otter Tail,Minnesota,17,0
+2020/5/3,Pennington,Minnesota,1,0
+2020/5/3,Pine,Minnesota,58,0
+2020/5/3,Pipestone,Minnesota,3,0
+2020/5/3,Polk,Minnesota,41,0
+2020/5/3,Ramsey,Minnesota,493,34
+2020/5/3,Red Lake,Minnesota,1,0
+2020/5/3,Redwood,Minnesota,3,0
+2020/5/3,Renville,Minnesota,5,0
+2020/5/3,Rice,Minnesota,20,1
+2020/5/3,Rock,Minnesota,16,0
+2020/5/3,Roseau,Minnesota,1,0
+2020/5/3,Scott,Minnesota,58,1
+2020/5/3,Sherburne,Minnesota,54,0
+2020/5/3,Sibley,Minnesota,2,0
+2020/5/3,St. Louis,Minnesota,75,11
+2020/5/3,Stearns,Minnesota,589,0
+2020/5/3,Steele,Minnesota,21,0
+2020/5/3,Swift,Minnesota,2,0
+2020/5/3,Todd,Minnesota,8,0
+2020/5/3,Traverse,Minnesota,2,0
+2020/5/3,Unknown,Minnesota,17,1
+2020/5/3,Wabasha,Minnesota,10,0
+2020/5/3,Wadena,Minnesota,1,0
+2020/5/3,Waseca,Minnesota,6,0
+2020/5/3,Washington,Minnesota,146,12
+2020/5/3,Watonwan,Minnesota,14,0
+2020/5/3,Wilkin,Minnesota,12,3
+2020/5/3,Winona,Minnesota,67,15
+2020/5/3,Wright,Minnesota,50,1
+2020/5/3,Yellow Medicine,Minnesota,3,0
+2020/4/14,Anoka,Minnesota,72,0
+2020/4/14,Becker,Minnesota,2,0
+2020/4/14,Beltrami,Minnesota,5,0
+2020/4/14,Benton,Minnesota,1,0
+2020/4/14,Big Stone,Minnesota,1,0
+2020/4/14,Blue Earth,Minnesota,22,0
+2020/4/14,Brown,Minnesota,7,1
+2020/4/14,Carlton,Minnesota,26,0
+2020/4/14,Carver,Minnesota,13,0
+2020/4/14,Cass,Minnesota,4,0
+2020/4/14,Chisago,Minnesota,7,1
+2020/4/14,Clay,Minnesota,42,0
+2020/4/14,Clearwater,Minnesota,3,0
+2020/4/14,Cottonwood,Minnesota,6,0
+2020/4/14,Crow Wing,Minnesota,17,0
+2020/4/14,Dakota,Minnesota,103,5
+2020/4/14,Dodge,Minnesota,16,0
+2020/4/14,Douglas,Minnesota,1,0
+2020/4/14,Faribault,Minnesota,4,0
+2020/4/14,Fillmore,Minnesota,10,0
+2020/4/14,Freeborn,Minnesota,27,0
+2020/4/14,Goodhue,Minnesota,17,0
+2020/4/14,Hennepin,Minnesota,588,40
+2020/4/14,Houston,Minnesota,1,0
+2020/4/14,Isanti,Minnesota,4,0
+2020/4/14,Itasca,Minnesota,2,0
+2020/4/14,Jackson,Minnesota,1,0
+2020/4/14,Kandiyohi,Minnesota,2,0
+2020/4/14,Koochiching,Minnesota,1,0
+2020/4/14,Lac qui Parle,Minnesota,1,0
+2020/4/14,Le Sueur,Minnesota,21,0
+2020/4/14,Lincoln,Minnesota,2,0
+2020/4/14,Lyon,Minnesota,5,0
+2020/4/14,Mahnomen,Minnesota,1,0
+2020/4/14,Martin,Minnesota,39,4
+2020/4/14,McLeod,Minnesota,2,0
+2020/4/14,Meeker,Minnesota,2,0
+2020/4/14,Mower,Minnesota,24,0
+2020/4/14,Murray,Minnesota,1,0
+2020/4/14,Nicollet,Minnesota,7,1
+2020/4/14,Nobles,Minnesota,3,0
+2020/4/14,Olmsted,Minnesota,147,2
+2020/4/14,Otter Tail,Minnesota,4,0
+2020/4/14,Pine,Minnesota,6,0
+2020/4/14,Pipestone,Minnesota,1,0
+2020/4/14,Polk,Minnesota,1,0
+2020/4/14,Ramsey,Minnesota,153,7
+2020/4/14,Red Lake,Minnesota,1,0
+2020/4/14,Redwood,Minnesota,1,0
+2020/4/14,Renville,Minnesota,3,0
+2020/4/14,Rice,Minnesota,5,0
+2020/4/14,Rock,Minnesota,2,0
+2020/4/14,Roseau,Minnesota,1,0
+2020/4/14,Scott,Minnesota,20,1
+2020/4/14,Sherburne,Minnesota,10,0
+2020/4/14,Sibley,Minnesota,1,0
+2020/4/14,St. Louis,Minnesota,42,5
+2020/4/14,Stearns,Minnesota,7,0
+2020/4/14,Steele,Minnesota,9,0
+2020/4/14,Swift,Minnesota,1,0
+2020/4/14,Todd,Minnesota,2,0
+2020/4/14,Traverse,Minnesota,2,0
+2020/4/14,Unknown,Minnesota,6,0
+2020/4/14,Wabasha,Minnesota,7,0
+2020/4/14,Waseca,Minnesota,3,0
+2020/4/14,Washington,Minnesota,84,3
+2020/4/14,Watonwan,Minnesota,4,0
+2020/4/14,Wilkin,Minnesota,7,2
+2020/4/14,Winona,Minnesota,30,6
+2020/4/14,Wright,Minnesota,19,1
+2020/4/14,Yellow Medicine,Minnesota,3,0
+2020/3/16,Wright,Minnesota,1,0
+2020/3/16,Washington,Minnesota,1,0
+2020/3/16,Waseca,Minnesota,1,0
+2020/3/16,Stearns,Minnesota,3,0
+2020/3/16,Renville,Minnesota,1,0
+2020/3/16,Ramsey,Minnesota,8,0
+2020/3/16,Olmsted,Minnesota,3,0
+2020/3/16,Hennepin,Minnesota,26,0
+2020/3/16,Dakota,Minnesota,4,0
+2020/3/16,Carver,Minnesota,1,0
+2020/3/16,Blue Earth,Minnesota,1,0
+2020/3/16,Benton,Minnesota,1,0
+2020/3/16,Anoka,Minnesota,3,0
+2020/3/20,Fillmore,Minnesota,2,0
+2020/3/20,Hennepin,Minnesota,44,0
+2020/3/20,Martin,Minnesota,4,0
+2020/3/20,Mower,Minnesota,1,0
+2020/3/20,Nicollet,Minnesota,2,0
+2020/3/20,Olmsted,Minnesota,11,0
+2020/3/20,Ramsey,Minnesota,16,0
+2020/3/20,Renville,Minnesota,1,0
+2020/3/20,Rice,Minnesota,1,0
+2020/3/20,Scott,Minnesota,2,0
+2020/3/20,Stearns,Minnesota,4,0
+2020/3/20,Waseca,Minnesota,2,0
+2020/3/20,Washington,Minnesota,3,0
+2020/3/20,Wright,Minnesota,2,0
+2020/4/20,Rice,Minnesota,7,1
+2020/4/20,Renville,Minnesota,3,0
+2020/4/20,Redwood,Minnesota,1,0
+2020/4/20,Red Lake,Minnesota,2,0
+2020/4/20,Ramsey,Minnesota,202,10
+2020/4/20,Polk,Minnesota,3,0
+2020/4/20,Pipestone,Minnesota,2,0
+2020/4/20,Pine,Minnesota,11,0
+2020/4/20,Otter Tail,Minnesota,6,0
+2020/4/20,Olmsted,Minnesota,197,4
+2020/4/20,Norman,Minnesota,5,0
+2020/4/20,Nobles,Minnesota,76,0
+2020/4/20,Nicollet,Minnesota,7,2
+2020/4/20,Murray,Minnesota,3,0
+2020/4/20,Mower,Minnesota,26,0
+2020/4/20,Morrison,Minnesota,1,0
+2020/4/20,Mille Lacs,Minnesota,1,1
+2020/4/20,Meeker,Minnesota,3,0
+2020/4/20,McLeod,Minnesota,3,0
+2020/4/20,Martin,Minnesota,41,4
+2020/4/20,Marshall,Minnesota,1,0
+2020/4/20,Mahnomen,Minnesota,1,0
+2020/4/20,Lyon,Minnesota,5,0
+2020/4/20,Lincoln,Minnesota,2,0
+2020/4/20,Le Sueur,Minnesota,22,0
+2020/4/20,Lac qui Parle,Minnesota,1,0
+2020/4/20,Koochiching,Minnesota,1,0
+2020/4/20,Kittson,Minnesota,1,0
+2020/4/20,Kandiyohi,Minnesota,3,0
+2020/4/20,Jackson,Minnesota,2,0
+2020/4/20,Itasca,Minnesota,2,0
+2020/4/20,Isanti,Minnesota,6,0
+2020/4/20,Houston,Minnesota,1,0
+2020/4/20,Hennepin,Minnesota,975,80
+2020/4/20,Goodhue,Minnesota,19,0
+2020/4/20,Freeborn,Minnesota,33,0
+2020/4/20,Fillmore,Minnesota,11,0
+2020/4/20,Faribault,Minnesota,4,0
+2020/4/20,Douglas,Minnesota,2,0
+2020/4/20,Dodge,Minnesota,18,0
+2020/4/20,Dakota,Minnesota,124,6
+2020/4/20,Crow Wing,Minnesota,20,0
+2020/3/31,Renville,Minnesota,1,0
+2020/3/31,Ramsey,Minnesota,56,2
+2020/3/31,Otter Tail,Minnesota,1,0
+2020/3/31,Olmsted,Minnesota,53,0
+2020/3/31,Nicollet,Minnesota,3,0
+2020/3/31,Mower,Minnesota,13,0
+2020/3/31,Meeker,Minnesota,1,0
+2020/3/31,Martin,Minnesota,25,2
+2020/3/31,Mahnomen,Minnesota,1,0
+2020/3/31,Lyon,Minnesota,1,0
+2020/3/31,Lincoln,Minnesota,1,0
+2020/3/31,Le Sueur,Minnesota,15,0
+2020/3/31,Lac qui Parle,Minnesota,1,0
+2020/3/31,Kandiyohi,Minnesota,2,0
+2020/3/31,Jackson,Minnesota,1,0
+2020/3/31,Itasca,Minnesota,1,0
+2020/3/31,Isanti,Minnesota,2,0
+2020/3/31,Hennepin,Minnesota,204,6
+2020/3/31,Goodhue,Minnesota,3,0
+2020/3/31,Fillmore,Minnesota,8,0
+2020/5/2,Aitkin,Minnesota,1,0
+2020/5/2,Anoka,Minnesota,260,14
+2020/5/2,Becker,Minnesota,10,0
+2020/5/2,Beltrami,Minnesota,6,0
+2020/5/2,Benton,Minnesota,29,1
+2020/5/2,Big Stone,Minnesota,2,0
+2020/5/2,Blue Earth,Minnesota,41,0
+2020/5/2,Brown,Minnesota,8,1
+2020/5/2,Carlton,Minnesota,59,0
+2020/5/2,Carver,Minnesota,25,0
+2020/5/2,Cass,Minnesota,7,0
+2020/5/2,Chippewa,Minnesota,2,0
+2020/5/2,Chisago,Minnesota,13,1
+2020/5/2,Clay,Minnesota,169,13
+2020/5/2,Clearwater,Minnesota,2,0
+2020/5/2,Cottonwood,Minnesota,27,0
+2020/5/2,Crow Wing,Minnesota,21,1
+2020/5/2,Dakota,Minnesota,189,11
+2020/5/2,Dodge,Minnesota,22,0
+2020/5/2,Douglas,Minnesota,3,0
+2020/5/2,Faribault,Minnesota,6,0
+2020/5/2,Fillmore,Minnesota,13,1
+2020/5/2,Freeborn,Minnesota,35,0
+2020/5/2,Goodhue,Minnesota,21,0
+2020/5/2,Grant,Minnesota,1,0
+2020/5/2,Hennepin,Minnesota,1980,259
+2020/5/2,Houston,Minnesota,1,0
+2020/5/2,Isanti,Minnesota,6,0
+2020/5/2,Itasca,Minnesota,7,0
+2020/5/2,Jackson,Minnesota,18,0
+2020/5/2,Kanabec,Minnesota,1,0
+2020/5/2,Kandiyohi,Minnesota,145,1
+2020/5/2,Kittson,Minnesota,1,0
+2020/5/2,Koochiching,Minnesota,1,0
+2020/5/2,Lac qui Parle,Minnesota,1,0
+2020/5/2,Le Sueur,Minnesota,25,0
+2020/5/2,Lincoln,Minnesota,3,0
+2020/5/2,Lyon,Minnesota,8,0
+2020/4/27,Clay,Minnesota,131,9
+2020/4/27,Clearwater,Minnesota,2,0
+2020/4/27,Cottonwood,Minnesota,9,0
+2020/4/27,Crow Wing,Minnesota,20,0
+2020/4/27,Dakota,Minnesota,144,7
+2020/4/27,Dodge,Minnesota,19,0
+2020/4/27,Douglas,Minnesota,2,0
+2020/4/27,Faribault,Minnesota,4,0
+2020/4/27,Fillmore,Minnesota,12,1
+2020/4/27,Freeborn,Minnesota,33,0
+2020/4/27,Goodhue,Minnesota,19,0
+2020/4/27,Hennepin,Minnesota,1416,188
+2020/4/27,Houston,Minnesota,1,0
+2020/4/27,Isanti,Minnesota,6,0
+2020/4/27,Itasca,Minnesota,2,0
+2020/4/27,Jackson,Minnesota,8,0
+2020/4/27,Kandiyohi,Minnesota,39,0
+2020/4/27,Kittson,Minnesota,1,0
+2020/4/27,Koochiching,Minnesota,1,0
+2020/4/27,Lac qui Parle,Minnesota,1,0
+2020/4/27,Le Sueur,Minnesota,23,0
+2020/4/27,Lincoln,Minnesota,2,0
+2020/4/27,Lyon,Minnesota,6,0
+2020/4/27,Mahnomen,Minnesota,1,0
+2020/4/27,Marshall,Minnesota,1,0
+2020/4/27,Martin,Minnesota,43,4
+2020/4/27,McLeod,Minnesota,4,0
+2020/4/27,Meeker,Minnesota,6,0
+2020/4/27,Mille Lacs,Minnesota,1,1
+2020/4/27,Morrison,Minnesota,1,0
+2020/4/21,Hennepin,Minnesota,1013,95
+2020/4/21,Goodhue,Minnesota,19,0
+2020/4/21,Freeborn,Minnesota,33,0
+2020/4/21,Fillmore,Minnesota,11,0
+2020/4/21,Faribault,Minnesota,4,0
+2020/4/21,Douglas,Minnesota,2,0
+2020/4/21,Dodge,Minnesota,18,0
+2020/4/21,Dakota,Minnesota,127,6
+2020/4/21,Crow Wing,Minnesota,20,0
+2020/4/21,Cottonwood,Minnesota,6,0
+2020/4/21,Clearwater,Minnesota,3,0
+2020/4/21,Clay,Minnesota,68,3
+2020/4/21,Chisago,Minnesota,7,1
+2020/4/21,Chippewa,Minnesota,1,0
+2020/4/21,Cass,Minnesota,4,0
+2020/4/21,Carver,Minnesota,14,0
+2020/4/21,Carlton,Minnesota,37,0
+2020/4/21,Brown,Minnesota,8,1
+2020/4/21,Blue Earth,Minnesota,24,0
+2020/4/21,Big Stone,Minnesota,1,0
+2020/4/16,Anoka,Minnesota,79,0
+2020/4/16,Becker,Minnesota,2,0
+2020/4/16,Beltrami,Minnesota,5,0
+2020/4/16,Benton,Minnesota,1,0
+2020/4/16,Big Stone,Minnesota,1,0
+2020/4/16,Blue Earth,Minnesota,22,0
+2020/4/16,Brown,Minnesota,7,1
+2020/4/16,Carlton,Minnesota,29,0
+2020/4/16,Carver,Minnesota,14,0
+2020/4/16,Cass,Minnesota,4,0
+2020/4/16,Chisago,Minnesota,7,1
+2020/4/16,Clay,Minnesota,43,1
+2020/4/16,Clearwater,Minnesota,3,0
+2020/4/16,Cottonwood,Minnesota,6,0
+2020/4/16,Crow Wing,Minnesota,17,0
+2020/4/16,Dakota,Minnesota,103,4
+2020/4/16,Dodge,Minnesota,16,0
+2020/4/16,Douglas,Minnesota,1,0
+2020/4/16,Faribault,Minnesota,4,0
+2020/4/16,Fillmore,Minnesota,10,0
+2020/4/16,Freeborn,Minnesota,29,0
+2020/4/16,Goodhue,Minnesota,17,0
+2020/4/16,Hennepin,Minnesota,706,52
+2020/4/16,Houston,Minnesota,1,0
+2020/4/16,Isanti,Minnesota,4,0
+2020/4/16,Itasca,Minnesota,2,0
+2020/4/16,Jackson,Minnesota,1,0
+2020/4/16,Kandiyohi,Minnesota,2,0
+2020/4/16,Koochiching,Minnesota,1,0
+2020/4/16,Lac qui Parle,Minnesota,1,0
+2020/4/16,Le Sueur,Minnesota,22,0
+2020/4/16,Lincoln,Minnesota,2,0
+2020/4/16,Lyon,Minnesota,5,0
+2020/4/16,Mahnomen,Minnesota,1,0
+2020/4/16,Martin,Minnesota,39,4
+2020/4/16,McLeod,Minnesota,2,0
+2020/4/16,Meeker,Minnesota,3,0
+2020/4/16,Mille Lacs,Minnesota,1,0
+2020/4/16,Mower,Minnesota,25,0
+2020/4/16,Murray,Minnesota,2,0
+2020/4/16,Nicollet,Minnesota,7,1
+2020/4/16,Nobles,Minnesota,2,0
+2020/4/16,Norman,Minnesota,1,0
+2020/4/16,Olmsted,Minnesota,163,2
+2020/4/16,Otter Tail,Minnesota,4,0
+2020/4/16,Pine,Minnesota,8,0
+2020/4/16,Pipestone,Minnesota,1,0
+2020/4/16,Polk,Minnesota,2,0
+2020/4/16,Ramsey,Minnesota,177,9
+2020/4/16,Red Lake,Minnesota,1,0
+2020/4/16,Redwood,Minnesota,1,0
+2020/4/16,Renville,Minnesota,3,0
+2020/4/16,Rice,Minnesota,6,0
+2020/4/16,Rock,Minnesota,3,0
+2020/4/16,Roseau,Minnesota,1,0
+2020/4/16,Scott,Minnesota,20,1
+2020/4/10,Clay,Minnesota,29,0
+2020/4/10,Chisago,Minnesota,6,1
+2020/4/10,Cass,Minnesota,3,0
+2020/4/10,Carver,Minnesota,12,0
+2020/4/10,Carlton,Minnesota,18,0
+2020/4/10,Brown,Minnesota,7,1
+2020/4/10,Blue Earth,Minnesota,22,0
+2020/4/10,Big Stone,Minnesota,1,0
+2020/4/10,Benton,Minnesota,1,0
+2020/4/10,Beltrami,Minnesota,5,0
+2020/4/10,Anoka,Minnesota,55,0
+2020/5/11,Mower,Minnesota,45,0
+2020/5/11,Morrison,Minnesota,14,0
+2020/5/11,Mille Lacs,Minnesota,7,1
+2020/5/11,Meeker,Minnesota,21,0
+2020/5/11,McLeod,Minnesota,13,0
+2020/5/11,Martin,Minnesota,112,4
+2020/5/11,Marshall,Minnesota,8,0
+2020/5/11,Mahnomen,Minnesota,3,1
+2020/5/11,Lyon,Minnesota,18,0
+2020/5/11,Lincoln,Minnesota,4,0
+2020/5/11,Le Sueur,Minnesota,30,0
+2020/5/11,Lake,Minnesota,1,0
+2020/5/11,Lac qui Parle,Minnesota,2,0
+2020/4/21,Benton,Minnesota,4,0
+2020/4/21,Beltrami,Minnesota,5,0
+2020/4/21,Becker,Minnesota,1,0
+2020/4/21,Anoka,Minnesota,97,2
+2020/4/21,Aitkin,Minnesota,1,0
+2020/5/18,Pope,Minnesota,5,0
+2020/5/18,Ramsey,Minnesota,1625,72
+2020/5/18,Red Lake,Minnesota,3,0
+2020/5/18,Redwood,Minnesota,3,0
+2020/5/18,Renville,Minnesota,5,0
+2020/5/18,Rice,Minnesota,260,2
+2020/5/18,Rock,Minnesota,20,0
+2020/5/18,Roseau,Minnesota,1,0
+2020/5/18,Scott,Minnesota,259,1
+2020/5/18,Sherburne,Minnesota,155,2
+2020/3/18,Anoka,Minnesota,3,0
+2020/3/18,Benton,Minnesota,1,0
+2020/3/18,Blue Earth,Minnesota,2,0
+2020/3/18,Carver,Minnesota,2,0
+2020/3/18,Dakota,Minnesota,7,0
+2020/3/18,Hennepin,Minnesota,33,0
+2020/3/18,Martin,Minnesota,3,0
+2020/3/18,Nicollet,Minnesota,2,0
+2020/3/18,Olmsted,Minnesota,6,0
+2020/3/18,Ramsey,Minnesota,8,0
+2020/3/18,Renville,Minnesota,1,0
+2020/3/18,Rice,Minnesota,1,0
+2020/3/18,Stearns,Minnesota,3,0
+2020/3/18,Waseca,Minnesota,1,0
+2020/3/18,Washington,Minnesota,3,0
+2020/3/18,Wright,Minnesota,1,0
+2020/5/2,Mahnomen,Minnesota,2,0
+2020/5/2,Marshall,Minnesota,3,0
+2020/5/2,Martin,Minnesota,111,4
+2020/5/2,McLeod,Minnesota,4,0
+2020/5/2,Meeker,Minnesota,14,0
+2020/5/2,Mille Lacs,Minnesota,2,1
+2020/5/2,Morrison,Minnesota,6,0
+2020/5/2,Mower,Minnesota,28,0
+2020/5/2,Murray,Minnesota,16,0
+2020/4/27,Mower,Minnesota,28,0
+2020/4/27,Murray,Minnesota,10,0
+2020/4/27,Nicollet,Minnesota,9,2
+2020/4/27,Nobles,Minnesota,399,1
+2020/4/27,Norman,Minnesota,7,0
+2020/4/16,Sherburne,Minnesota,12,0
+2020/4/16,Sibley,Minnesota,1,0
+2020/4/16,St. Louis,Minnesota,44,6
+2020/4/16,Stearns,Minnesota,11,0
+2020/4/16,Steele,Minnesota,9,0
+2020/4/16,Swift,Minnesota,1,0
+2020/4/16,Todd,Minnesota,2,0
+2020/4/16,Traverse,Minnesota,2,0
+2020/4/16,Unknown,Minnesota,5,0
+2020/4/16,Wabasha,Minnesota,7,0
+2020/4/16,Waseca,Minnesota,3,0
+2020/4/16,Washington,Minnesota,91,3
+2020/4/16,Watonwan,Minnesota,4,0
+2020/4/16,Wilkin,Minnesota,7,2
+2020/4/16,Winona,Minnesota,54,6
+2020/4/16,Wright,Minnesota,21,1
+2020/4/16,Yellow Medicine,Minnesota,3,0
+2020/5/2,Nicollet,Minnesota,15,2
+2020/5/2,Nobles,Minnesota,899,1
+2020/5/2,Norman,Minnesota,8,0
+2020/5/2,Olmsted,Minnesota,282,8
+2020/5/2,Otter Tail,Minnesota,17,0
+2020/5/2,Pennington,Minnesota,1,0
+2020/5/2,Pine,Minnesota,58,0
+2020/5/2,Pipestone,Minnesota,3,0
+2020/5/11,Koochiching,Minnesota,2,0
+2020/5/11,Kittson,Minnesota,1,0
+2020/5/11,Kandiyohi,Minnesota,316,1
+2020/5/11,Kanabec,Minnesota,10,0
+2020/5/11,Jackson,Minnesota,33,0
+2020/5/11,Itasca,Minnesota,33,0
+2020/5/11,Isanti,Minnesota,8,0
+2020/5/11,Houston,Minnesota,2,0
+2020/5/11,Hennepin,Minnesota,3744,398
+2020/5/11,Grant,Minnesota,2,0
+2020/5/11,Goodhue,Minnesota,25,0
+2020/5/11,Freeborn,Minnesota,46,0
+2020/5/11,Fillmore,Minnesota,13,1
+2020/5/11,Faribault,Minnesota,10,0
+2020/5/11,Douglas,Minnesota,16,0
+2020/5/11,Dodge,Minnesota,26,0
+2020/5/11,Dakota,Minnesota,471,15
+2020/5/11,Crow Wing,Minnesota,23,1
+2020/5/11,Cottonwood,Minnesota,47,0
+2020/5/11,Clearwater,Minnesota,2,0
+2020/5/11,Clay,Minnesota,247,17
+2020/5/11,Chisago,Minnesota,20,1
+2020/5/11,Chippewa,Minnesota,14,0
+2020/5/11,Cass,Minnesota,8,1
+2020/5/11,Carver,Minnesota,92,1
+2020/5/11,Carlton,Minnesota,64,0
+2020/5/11,Brown,Minnesota,9,1
+2020/5/11,Blue Earth,Minnesota,67,0
+2020/5/11,Big Stone,Minnesota,2,0
+2020/5/11,Benton,Minnesota,93,2
+2020/5/11,Beltrami,Minnesota,6,0
+2020/5/11,Becker,Minnesota,25,0
+2020/5/11,Anoka,Minnesota,571,29
+2020/5/11,Aitkin,Minnesota,2,0
+2020/3/12,Anoka,Minnesota,1,0
+2020/3/12,Carver,Minnesota,1,0
+2020/3/12,Dakota,Minnesota,1,0
+2020/3/12,Hennepin,Minnesota,1,0
+2020/3/12,Olmsted,Minnesota,1,0
+2020/3/12,Ramsey,Minnesota,2,0
+2020/3/12,Stearns,Minnesota,2,0
+2020/5/2,Polk,Minnesota,36,0
+2020/5/2,Ramsey,Minnesota,453,31
+2020/4/12,Rice,Minnesota,4,0
+2020/4/12,Renville,Minnesota,3,0
+2020/4/12,Redwood,Minnesota,1,0
+2020/4/12,Red Lake,Minnesota,1,0
+2020/4/12,Ramsey,Minnesota,152,6
+2020/5/18,Sibley,Minnesota,10,0
+2020/5/19,Swift,Minnesota,13,0
+2020/5/19,Steele,Minnesota,115,0
+2020/5/19,Stearns,Minnesota,1782,10
+2020/5/19,St. Louis,Minnesota,107,13
+2020/5/19,Sibley,Minnesota,10,0
+2020/5/19,Sherburne,Minnesota,164,2
+2020/5/19,Scott,Minnesota,271,1
+2020/5/19,Roseau,Minnesota,1,0
+2020/5/19,Rock,Minnesota,20,0
+2020/5/19,Rice,Minnesota,270,2
+2020/5/19,Renville,Minnesota,5,0
+2020/5/19,Redwood,Minnesota,3,0
+2020/5/5,Aitkin,Minnesota,1,0
+2020/5/5,Anoka,Minnesota,344,20
+2020/5/5,Becker,Minnesota,15,0
+2020/5/5,Beltrami,Minnesota,6,0
+2020/5/5,Benton,Minnesota,48,1
+2020/5/5,Big Stone,Minnesota,2,0
+2020/5/5,Blue Earth,Minnesota,51,0
+2020/5/5,Brown,Minnesota,9,1
+2020/5/5,Carlton,Minnesota,60,0
+2020/5/5,Carver,Minnesota,39,0
+2020/5/5,Cass,Minnesota,7,0
+2020/5/5,Chippewa,Minnesota,3,0
+2020/5/5,Chisago,Minnesota,13,1
+2020/5/5,Clay,Minnesota,201,14
+2020/5/5,Clearwater,Minnesota,2,0
+2020/5/5,Cottonwood,Minnesota,41,0
+2020/5/5,Crow Wing,Minnesota,21,1
+2020/5/5,Dakota,Minnesota,241,11
+2020/5/5,Dodge,Minnesota,22,0
+2020/5/5,Douglas,Minnesota,10,0
+2020/5/5,Faribault,Minnesota,7,0
+2020/5/5,Fillmore,Minnesota,12,1
+2020/5/5,Freeborn,Minnesota,37,0
+2020/5/5,Goodhue,Minnesota,23,0
+2020/5/5,Grant,Minnesota,1,0
+2020/5/5,Hennepin,Minnesota,2519,303
+2020/5/5,Houston,Minnesota,1,0
+2020/5/5,Isanti,Minnesota,6,0
+2020/5/5,Itasca,Minnesota,13,0
+2020/5/5,Jackson,Minnesota,25,0
+2020/5/5,Kanabec,Minnesota,2,0
+2020/5/5,Kandiyohi,Minnesota,200,1
+2020/5/5,Kittson,Minnesota,1,0
+2020/5/5,Koochiching,Minnesota,1,0
+2020/5/5,Lac qui Parle,Minnesota,2,0
+2020/5/5,Le Sueur,Minnesota,26,0
+2020/5/5,Lincoln,Minnesota,3,0
+2020/5/5,Lyon,Minnesota,10,0
+2020/5/5,Mahnomen,Minnesota,2,0
+2020/5/5,Marshall,Minnesota,7,0
+2020/5/5,Martin,Minnesota,111,4
+2020/5/5,McLeod,Minnesota,4,0
+2020/5/5,Meeker,Minnesota,17,0
+2020/5/5,Mille Lacs,Minnesota,4,1
+2020/5/5,Morrison,Minnesota,7,0
+2020/3/27,Anoka,Minnesota,10,0
+2020/3/27,Beltrami,Minnesota,1,0
+2020/3/27,Benton,Minnesota,1,0
+2020/3/27,Big Stone,Minnesota,1,0
+2020/3/27,Blue Earth,Minnesota,7,0
+2020/3/27,Carver,Minnesota,8,0
+2020/3/27,Cass,Minnesota,1,0
+2020/3/27,Chisago,Minnesota,2,0
+2020/3/27,Clay,Minnesota,4,0
+2020/3/27,Dakota,Minnesota,28,0
+2020/3/27,Dodge,Minnesota,5,0
+2020/3/27,Faribault,Minnesota,1,0
+2020/3/27,Fillmore,Minnesota,3,0
+2020/3/27,Goodhue,Minnesota,2,0
+2020/3/27,Hennepin,Minnesota,141,1
+2020/3/27,Jackson,Minnesota,1,0
+2020/3/27,Kandiyohi,Minnesota,1,0
+2020/3/27,Lac qui Parle,Minnesota,1,0
+2020/3/27,Le Sueur,Minnesota,10,0
+2020/3/27,Lincoln,Minnesota,1,0
+2020/3/27,Mahnomen,Minnesota,1,0
+2020/3/27,Martin,Minnesota,18,1
+2020/3/27,Mower,Minnesota,10,0
+2020/3/27,Nicollet,Minnesota,3,0
+2020/3/27,Olmsted,Minnesota,34,0
+2020/3/27,Ramsey,Minnesota,34,1
+2020/3/27,Renville,Minnesota,1,0
+2020/3/27,Rice,Minnesota,2,0
+2020/3/27,Scott,Minnesota,7,0
+2020/3/27,Sherburne,Minnesota,3,0
+2020/3/27,Sibley,Minnesota,1,0
+2020/3/27,St. Louis,Minnesota,5,0
+2020/3/27,Stearns,Minnesota,5,0
+2020/3/27,Steele,Minnesota,5,0
+2020/3/27,Unknown,Minnesota,1,1
+2020/3/27,Wabasha,Minnesota,4,0
+2020/3/27,Waseca,Minnesota,3,0
+2020/3/27,Washington,Minnesota,22,0
+2020/3/27,Wilkin,Minnesota,1,0
+2020/3/27,Winona,Minnesota,4,0
+2020/3/27,Wright,Minnesota,5,0
+2020/5/2,Red Lake,Minnesota,1,0
+2020/5/2,Redwood,Minnesota,3,0
+2020/5/2,Renville,Minnesota,5,0
+2020/5/2,Rice,Minnesota,18,1
+2020/5/2,Rock,Minnesota,16,0
+2020/5/2,Roseau,Minnesota,1,0
+2020/5/2,Scott,Minnesota,52,1
+2020/5/2,Sherburne,Minnesota,50,0
+2020/5/2,Sibley,Minnesota,2,0
+2020/5/2,St. Louis,Minnesota,74,11
+2020/5/2,Stearns,Minnesota,531,0
+2020/5/2,Steele,Minnesota,20,0
+2020/5/2,Swift,Minnesota,2,0
+2020/5/2,Todd,Minnesota,8,0
+2020/5/2,Traverse,Minnesota,2,0
+2020/5/2,Unknown,Minnesota,14,1
+2020/5/2,Wabasha,Minnesota,10,0
+2020/5/2,Wadena,Minnesota,1,0
+2020/5/2,Waseca,Minnesota,5,0
+2020/5/2,Washington,Minnesota,142,12
+2020/5/2,Watonwan,Minnesota,14,0
+2020/5/2,Wilkin,Minnesota,12,3
+2020/5/2,Winona,Minnesota,67,15
+2020/5/2,Wright,Minnesota,48,1
+2020/5/2,Yellow Medicine,Minnesota,3,0
+2020/4/27,Olmsted,Minnesota,246,6
+2020/4/27,Otter Tail,Minnesota,8,0
+2020/4/27,Pennington,Minnesota,1,0
+2020/4/27,Pine,Minnesota,56,0
+2020/4/27,Pipestone,Minnesota,2,0
+2020/4/27,Polk,Minnesota,24,0
+2020/3/31,Faribault,Minnesota,2,0
+2020/3/31,Douglas,Minnesota,1,0
+2020/3/31,Dodge,Minnesota,8,0
+2020/3/31,Dakota,Minnesota,47,0
+2020/3/31,Cottonwood,Minnesota,2,0
+2020/3/31,Clearwater,Minnesota,2,0
+2020/3/31,Clay,Minnesota,6,0
+2020/3/31,Chisago,Minnesota,3,0
+2020/3/31,Cass,Minnesota,1,0
+2020/3/31,Carver,Minnesota,10,0
+2020/3/31,Carlton,Minnesota,1,0
+2020/3/31,Brown,Minnesota,2,0
+2020/3/31,Blue Earth,Minnesota,9,0
+2020/3/31,Big Stone,Minnesota,1,0
+2020/3/31,Benton,Minnesota,1,0
+2020/3/31,Beltrami,Minnesota,4,0
+2020/3/31,Anoka,Minnesota,23,0
+2020/4/20,Yellow Medicine,Minnesota,3,0
+2020/4/20,Wright,Minnesota,25,1
+2020/3/23,Anoka,Minnesota,7,0
+2020/3/23,Benton,Minnesota,1,0
+2020/3/23,Big Stone,Minnesota,1,0
+2020/3/23,Blue Earth,Minnesota,5,0
+2020/3/23,Carver,Minnesota,8,0
+2020/3/23,Cass,Minnesota,1,0
+2020/3/23,Chisago,Minnesota,2,0
+2020/3/23,Clay,Minnesota,2,0
+2020/3/23,Dakota,Minnesota,18,0
+2020/3/23,Dodge,Minnesota,2,0
+2020/3/23,Fillmore,Minnesota,3,0
+2020/3/23,Hennepin,Minnesota,89,0
+2020/3/23,Jackson,Minnesota,1,0
+2020/3/23,Lac qui Parle,Minnesota,1,0
+2020/3/23,Le Sueur,Minnesota,1,0
+2020/3/23,Martin,Minnesota,8,0
+2020/3/23,Mower,Minnesota,6,0
+2020/3/23,Nicollet,Minnesota,3,0
+2020/3/23,Olmsted,Minnesota,16,0
+2020/3/23,Ramsey,Minnesota,24,1
+2020/3/23,Renville,Minnesota,1,0
+2020/3/23,Rice,Minnesota,2,0
+2020/3/23,Scott,Minnesota,5,0
+2020/3/23,Sherburne,Minnesota,1,0
+2020/3/23,St. Louis,Minnesota,2,0
+2020/3/23,Stearns,Minnesota,5,0
+2020/3/23,Steele,Minnesota,3,0
+2020/3/23,Unknown,Minnesota,1,0
+2020/3/23,Wabasha,Minnesota,1,0
+2020/3/23,Waseca,Minnesota,2,0
+2020/3/23,Washington,Minnesota,10,0
+2020/3/23,Wright,Minnesota,3,0
+2020/4/20,Winona,Minnesota,61,10
+2020/4/20,Wilkin,Minnesota,9,2
+2020/4/20,Watonwan,Minnesota,4,0
+2020/4/20,Washington,Minnesota,97,4
+2020/4/20,Cottonwood,Minnesota,6,0
+2020/4/20,Clearwater,Minnesota,3,0
+2020/4/20,Clay,Minnesota,62,3
+2020/4/20,Chisago,Minnesota,7,1
+2020/4/20,Chippewa,Minnesota,1,0
+2020/4/20,Cass,Minnesota,4,0
+2020/5/16,Aitkin,Minnesota,3,0
+2020/5/16,Anoka,Minnesota,770,40
+2020/5/16,Becker,Minnesota,33,0
+2020/5/16,Beltrami,Minnesota,9,0
+2020/5/16,Benton,Minnesota,122,2
+2020/5/16,Big Stone,Minnesota,2,0
+2020/5/16,Blue Earth,Minnesota,79,0
+2020/5/16,Brown,Minnesota,10,2
+2020/5/16,Carlton,Minnesota,66,0
+2020/3/24,Anoka,Minnesota,7,0
+2020/3/24,Benton,Minnesota,1,0
+2020/3/24,Big Stone,Minnesota,1,0
+2020/3/24,Blue Earth,Minnesota,5,0
+2020/3/24,Carver,Minnesota,8,0
+2020/3/24,Cass,Minnesota,1,0
+2020/3/24,Chisago,Minnesota,2,0
+2020/3/24,Clay,Minnesota,3,0
+2020/5/5,Mower,Minnesota,33,0
+2020/5/19,Yellow Medicine,Minnesota,4,0
+2020/5/19,Wright,Minnesota,182,1
+2020/5/19,Winona,Minnesota,75,15
+2020/5/19,Wilkin,Minnesota,11,3
+2020/5/19,Watonwan,Minnesota,41,0
+2020/5/19,Washington,Minnesota,398,19
+2020/5/19,Waseca,Minnesota,21,0
+2020/5/19,Wadena,Minnesota,6,0
+2020/4/12,Polk,Minnesota,1,0
+2020/4/12,Pipestone,Minnesota,1,0
+2020/4/12,Pine,Minnesota,5,0
+2020/4/12,Otter Tail,Minnesota,4,0
+2020/4/12,Olmsted,Minnesota,143,2
+2020/4/12,Nobles,Minnesota,1,0
+2020/4/12,Nicollet,Minnesota,6,1
+2020/4/12,Murray,Minnesota,1,0
+2020/4/12,Mower,Minnesota,25,0
+2020/4/12,Meeker,Minnesota,2,0
+2020/4/12,McLeod,Minnesota,2,0
+2020/4/12,Martin,Minnesota,38,4
+2020/4/12,Mahnomen,Minnesota,1,0
+2020/4/12,Lyon,Minnesota,5,0
+2020/4/12,Lincoln,Minnesota,2,0
+2020/4/12,Le Sueur,Minnesota,21,0
+2020/4/12,Lac qui Parle,Minnesota,1,0
+2020/4/12,Koochiching,Minnesota,1,0
+2020/4/12,Kandiyohi,Minnesota,2,0
+2020/4/12,Jackson,Minnesota,1,0
+2020/4/12,Itasca,Minnesota,2,0
+2020/4/12,Isanti,Minnesota,4,0
+2020/4/12,Houston,Minnesota,1,0
+2020/3/24,Dakota,Minnesota,21,0
+2020/3/24,Dodge,Minnesota,3,0
+2020/3/24,Fillmore,Minnesota,3,0
+2020/3/24,Hennepin,Minnesota,103,0
+2020/3/24,Jackson,Minnesota,1,0
+2020/3/24,Lac qui Parle,Minnesota,1,0
+2020/3/24,Le Sueur,Minnesota,5,0
+2020/3/24,Martin,Minnesota,8,0
+2020/3/21,Hennepin,Minnesota,52,0
+2020/3/21,Jackson,Minnesota,1,0
+2020/3/21,Martin,Minnesota,5,0
+2020/4/20,Carver,Minnesota,14,0
+2020/4/20,Carlton,Minnesota,37,0
+2020/4/20,Brown,Minnesota,7,1
+2020/4/20,Blue Earth,Minnesota,24,0
+2020/4/20,Big Stone,Minnesota,1,0
+2020/4/20,Benton,Minnesota,4,0
+2020/4/20,Beltrami,Minnesota,5,0
+2020/4/20,Becker,Minnesota,1,0
+2020/4/20,Anoka,Minnesota,95,2
+2020/4/20,Aitkin,Minnesota,1,0
+2020/5/14,Yellow Medicine,Minnesota,3,0
+2020/5/14,Wright,Minnesota,130,1
+2020/5/14,Winona,Minnesota,74,15
+2020/5/14,Wilkin,Minnesota,11,3
+2020/5/14,Watonwan,Minnesota,32,0
+2020/5/14,Washington,Minnesota,282,18
+2020/5/14,Waseca,Minnesota,18,0
+2020/5/14,Wadena,Minnesota,4,0
+2020/5/14,Wabasha,Minnesota,16,0
+2020/5/14,Unknown,Minnesota,21,9
+2020/3/30,Wright,Minnesota,6,0
+2020/3/30,Winona,Minnesota,5,0
+2020/3/30,Wilkin,Minnesota,1,0
+2020/3/30,Watonwan,Minnesota,1,0
+2020/3/30,Washington,Minnesota,34,0
+2020/3/30,Waseca,Minnesota,3,0
+2020/3/30,Wabasha,Minnesota,6,0
+2020/3/30,Unknown,Minnesota,1,0
+2020/3/30,Steele,Minnesota,6,0
+2020/3/30,Stearns,Minnesota,5,0
+2020/3/30,St. Louis,Minnesota,12,0
+2020/3/30,Sibley,Minnesota,1,0
+2020/3/30,Sherburne,Minnesota,7,0
+2020/3/30,Scott,Minnesota,10,0
+2020/3/30,Rice,Minnesota,3,0
+2020/3/30,Renville,Minnesota,1,0
+2020/3/30,Ramsey,Minnesota,50,2
+2020/3/30,Otter Tail,Minnesota,1,0
+2020/3/30,Olmsted,Minnesota,51,0
+2020/3/30,Nicollet,Minnesota,3,0
+2020/3/30,Mower,Minnesota,12,0
+2020/3/30,Meeker,Minnesota,1,0
+2020/3/30,Martin,Minnesota,23,2
+2020/3/30,Mahnomen,Minnesota,1,0
+2020/3/30,Lincoln,Minnesota,1,0
+2020/3/30,Le Sueur,Minnesota,13,0
+2020/3/30,Lac qui Parle,Minnesota,1,0
+2020/3/30,Kandiyohi,Minnesota,1,0
+2020/3/30,Jackson,Minnesota,1,0
+2020/3/30,Itasca,Minnesota,1,0
+2020/3/30,Isanti,Minnesota,2,0
+2020/3/30,Hennepin,Minnesota,190,6
+2020/3/30,Goodhue,Minnesota,3,0
+2020/3/30,Fillmore,Minnesota,7,0
+2020/3/30,Faribault,Minnesota,1,0
+2020/3/30,Douglas,Minnesota,1,0
+2020/3/30,Dodge,Minnesota,8,0
+2020/3/30,Dakota,Minnesota,46,0
+2020/5/14,Traverse,Minnesota,3,0
+2020/5/14,Todd,Minnesota,46,0
+2020/5/14,Swift,Minnesota,10,0
+2020/5/14,Steele,Minnesota,85,0
+2020/5/14,Stearns,Minnesota,1609,9
+2020/3/30,Cottonwood,Minnesota,1,0
+2020/3/30,Clearwater,Minnesota,2,0
+2020/3/30,Clay,Minnesota,4,0
+2020/3/30,Chisago,Minnesota,3,0
+2020/3/30,Cass,Minnesota,1,0
+2020/3/30,Carver,Minnesota,10,0
+2020/3/30,Blue Earth,Minnesota,9,0
+2020/3/30,Big Stone,Minnesota,1,0
+2020/3/30,Benton,Minnesota,1,0
+2020/3/30,Beltrami,Minnesota,3,0
+2020/3/30,Anoka,Minnesota,22,0
+2020/5/5,Murray,Minnesota,20,0
+2020/5/5,Nicollet,Minnesota,16,2
+2020/5/5,Nobles,Minnesota,1069,1
+2020/5/5,Norman,Minnesota,9,0
+2020/5/5,Olmsted,Minnesota,313,8
+2020/5/5,Otter Tail,Minnesota,19,0
+2020/5/5,Pennington,Minnesota,1,0
+2020/5/5,Pine,Minnesota,60,0
+2020/5/5,Pipestone,Minnesota,4,0
+2020/5/5,Polk,Minnesota,42,0
+2020/5/5,Pope,Minnesota,1,0
+2020/4/11,Houston,Minnesota,1,0
+2020/4/11,Isanti,Minnesota,4,0
+2020/4/11,Itasca,Minnesota,2,0
+2020/4/11,Jackson,Minnesota,1,0
+2020/4/11,Kandiyohi,Minnesota,2,0
+2020/4/11,Koochiching,Minnesota,1,0
+2020/4/11,Lac qui Parle,Minnesota,1,0
+2020/4/11,Le Sueur,Minnesota,20,0
+2020/4/11,Lincoln,Minnesota,2,0
+2020/4/11,Lyon,Minnesota,5,0
+2020/4/11,Mahnomen,Minnesota,1,0
+2020/4/11,Martin,Minnesota,37,4
+2020/4/11,McLeod,Minnesota,2,0
+2020/4/11,Meeker,Minnesota,2,0
+2020/4/11,Mower,Minnesota,23,0
+2020/4/11,Murray,Minnesota,1,0
+2020/4/11,Nicollet,Minnesota,6,1
+2020/4/11,Nobles,Minnesota,1,0
+2020/4/11,Olmsted,Minnesota,132,2
+2020/4/11,Otter Tail,Minnesota,4,0
+2020/4/11,Pine,Minnesota,3,0
+2020/4/11,Pipestone,Minnesota,1,0
+2020/4/11,Polk,Minnesota,1,0
+2020/3/25,Anoka,Minnesota,7,0
+2020/3/25,Benton,Minnesota,1,0
+2020/3/25,Big Stone,Minnesota,1,0
+2020/3/25,Blue Earth,Minnesota,5,0
+2020/3/25,Carver,Minnesota,8,0
+2020/3/25,Cass,Minnesota,1,0
+2020/3/25,Chisago,Minnesota,2,0
+2020/3/25,Clay,Minnesota,3,0
+2020/3/25,Dakota,Minnesota,21,0
+2020/3/25,Dodge,Minnesota,3,0
+2020/3/25,Fillmore,Minnesota,3,0
+2020/3/25,Goodhue,Minnesota,1,0
+2020/3/25,Hennepin,Minnesota,111,0
+2020/3/25,Jackson,Minnesota,1,0
+2020/3/8,Ramsey,Minnesota,1,0
+2020/3/8,Carver,Minnesota,1,0
+2020/4/12,Hennepin,Minnesota,557,34
+2020/4/12,Goodhue,Minnesota,17,0
+2020/4/12,Freeborn,Minnesota,24,0
+2020/4/12,Fillmore,Minnesota,10,0
+2020/4/12,Faribault,Minnesota,4,0
+2020/4/12,Douglas,Minnesota,1,0
+2020/4/12,Dodge,Minnesota,16,0
+2020/4/12,Dakota,Minnesota,95,4
+2020/4/12,Crow Wing,Minnesota,16,0
+2020/4/12,Cottonwood,Minnesota,6,0
+2020/4/12,Clearwater,Minnesota,2,0
+2020/4/12,Clay,Minnesota,40,0
+2020/4/12,Chisago,Minnesota,7,1
+2020/4/12,Cass,Minnesota,4,0
+2020/4/12,Carver,Minnesota,13,0
+2020/4/12,Carlton,Minnesota,25,0
+2020/4/12,Brown,Minnesota,7,1
+2020/4/12,Blue Earth,Minnesota,22,0
+2020/4/12,Big Stone,Minnesota,1,0
+2020/4/12,Benton,Minnesota,1,0
+2020/4/12,Beltrami,Minnesota,5,0
+2020/4/12,Becker,Minnesota,2,0
+2020/4/12,Anoka,Minnesota,68,0
+2020/5/10,Aitkin,Minnesota,2,0
+2020/5/10,Anoka,Minnesota,549,29
+2020/5/10,Becker,Minnesota,25,0
+2020/5/10,Beltrami,Minnesota,6,0
+2020/5/10,Benton,Minnesota,92,2
+2020/5/10,Big Stone,Minnesota,2,0
+2020/5/10,Blue Earth,Minnesota,65,0
+2020/5/10,Brown,Minnesota,9,1
+2020/5/10,Carlton,Minnesota,64,0
+2020/5/10,Carver,Minnesota,82,1
+2020/5/10,Cass,Minnesota,8,1
+2020/5/10,Chippewa,Minnesota,6,0
+2020/5/10,Chisago,Minnesota,20,1
+2020/5/10,Clay,Minnesota,235,17
+2020/5/10,Clearwater,Minnesota,2,0
+2020/5/10,Cottonwood,Minnesota,46,0
+2020/5/10,Crow Wing,Minnesota,23,1
+2020/5/10,Dakota,Minnesota,430,15
+2020/5/10,Dodge,Minnesota,26,0
+2020/5/10,Douglas,Minnesota,16,0
+2020/5/10,Faribault,Minnesota,12,0
+2020/5/10,Fillmore,Minnesota,13,1
+2020/5/10,Freeborn,Minnesota,44,0
+2020/5/10,Goodhue,Minnesota,25,0
+2020/5/10,Grant,Minnesota,2,0
+2020/5/10,Hennepin,Minnesota,3558,389
+2020/5/10,Houston,Minnesota,2,0
+2020/5/17,Sibley,Minnesota,9,0
+2020/5/17,St. Louis,Minnesota,102,13
+2020/5/17,Stearns,Minnesota,1713,10
+2020/5/17,Steele,Minnesota,105,0
+2020/5/17,Swift,Minnesota,13,0
+2020/5/17,Todd,Minnesota,60,0
+2020/5/17,Traverse,Minnesota,3,0
+2020/5/17,Unknown,Minnesota,29,9
+2020/5/17,Wabasha,Minnesota,16,0
+2020/5/17,Wadena,Minnesota,5,0
+2020/5/17,Waseca,Minnesota,20,0
+2020/5/17,Washington,Minnesota,363,18
+2020/5/17,Watonwan,Minnesota,41,0
+2020/5/17,Wilkin,Minnesota,11,3
+2020/5/17,Winona,Minnesota,75,15
+2020/5/17,Wright,Minnesota,162,1
+2020/5/17,Yellow Medicine,Minnesota,3,0
+2020/4/27,Yellow Medicine,Minnesota,3,0
+2020/4/27,Wright,Minnesota,34,1
+2020/4/27,Winona,Minnesota,66,14
+2020/4/27,Wilkin,Minnesota,11,3
+2020/4/27,Watonwan,Minnesota,7,0
+2020/4/27,Washington,Minnesota,114,8
+2020/4/27,Waseca,Minnesota,3,0
+2020/4/27,Wabasha,Minnesota,8,0
+2020/4/27,Unknown,Minnesota,5,0
+2020/4/27,Traverse,Minnesota,2,0
+2020/4/27,Todd,Minnesota,3,0
+2020/4/27,Swift,Minnesota,1,0
+2020/4/27,Steele,Minnesota,14,0
+2020/4/27,Stearns,Minnesota,55,0
+2020/4/27,St. Louis,Minnesota,67,10
+2020/4/27,Sibley,Minnesota,1,0
+2020/4/27,Sherburne,Minnesota,16,0
+2020/4/27,Scott,Minnesota,35,1
+2020/4/27,Roseau,Minnesota,1,0
+2020/4/27,Rock,Minnesota,6,0
+2020/4/27,Rice,Minnesota,10,1
+2020/4/27,Renville,Minnesota,3,0
+2020/4/27,Redwood,Minnesota,1,0
+2020/4/27,Red Lake,Minnesota,1,0
+2020/4/27,Ramsey,Minnesota,297,22
+2020/5/7,Yellow Medicine,Minnesota,3,0
+2020/5/7,Wright,Minnesota,73,1
+2020/5/7,Winona,Minnesota,68,15
+2020/5/7,Wilkin,Minnesota,12,3
+2020/5/7,Watonwan,Minnesota,18,0
+2020/5/7,Washington,Minnesota,193,12
+2020/5/7,Waseca,Minnesota,12,0
+2020/5/7,Wadena,Minnesota,4,0
+2020/5/7,Wabasha,Minnesota,12,0
+2020/5/7,Unknown,Minnesota,18,0
+2020/5/7,Traverse,Minnesota,2,0
+2020/4/15,Anoka,Minnesota,76,0
+2020/4/15,Becker,Minnesota,2,0
+2020/4/15,Beltrami,Minnesota,5,0
+2020/4/15,Benton,Minnesota,1,0
+2020/4/15,Big Stone,Minnesota,1,0
+2020/4/15,Blue Earth,Minnesota,23,0
+2020/4/15,Brown,Minnesota,7,1
+2020/4/15,Carlton,Minnesota,27,0
+2020/4/15,Carver,Minnesota,14,0
+2020/4/15,Cass,Minnesota,4,0
+2020/4/15,Chisago,Minnesota,7,1
+2020/4/15,Clay,Minnesota,43,1
+2020/4/15,Clearwater,Minnesota,3,0
+2020/4/15,Cottonwood,Minnesota,6,0
+2020/4/15,Crow Wing,Minnesota,17,0
+2020/4/15,Dakota,Minnesota,103,5
+2020/4/15,Dodge,Minnesota,16,0
+2020/4/15,Douglas,Minnesota,1,0
+2020/4/15,Faribault,Minnesota,4,0
+2020/4/15,Fillmore,Minnesota,10,0
+2020/4/15,Freeborn,Minnesota,27,0
+2020/4/15,Goodhue,Minnesota,17,0
+2020/4/15,Hennepin,Minnesota,651,46
+2020/4/15,Houston,Minnesota,1,0
+2020/4/15,Isanti,Minnesota,4,0
+2020/4/15,Itasca,Minnesota,2,0
+2020/4/15,Jackson,Minnesota,1,0
+2020/4/15,Kandiyohi,Minnesota,2,0
+2020/4/15,Koochiching,Minnesota,1,0
+2020/4/15,Lac qui Parle,Minnesota,1,0
+2020/4/15,Le Sueur,Minnesota,21,0
+2020/4/15,Lincoln,Minnesota,2,0
+2020/4/15,Lyon,Minnesota,5,0
+2020/4/15,Mahnomen,Minnesota,1,0
+2020/4/15,Martin,Minnesota,39,4
+2020/4/15,McLeod,Minnesota,2,0
+2020/4/15,Meeker,Minnesota,3,0
+2020/4/15,Mower,Minnesota,25,0
+2020/4/15,Murray,Minnesota,1,0
+2020/4/15,Nicollet,Minnesota,7,1
+2020/4/15,Nobles,Minnesota,2,0
+2020/4/15,Norman,Minnesota,1,0
+2020/4/15,Olmsted,Minnesota,153,2
+2020/4/15,Otter Tail,Minnesota,4,0
+2020/4/15,Pine,Minnesota,6,0
+2020/4/15,Pipestone,Minnesota,1,0
+2020/4/15,Polk,Minnesota,1,0
+2020/4/15,Ramsey,Minnesota,164,7
+2020/4/15,Red Lake,Minnesota,1,0
+2020/4/15,Redwood,Minnesota,1,0
+2020/4/15,Renville,Minnesota,3,0
+2020/4/15,Rice,Minnesota,5,0
+2020/4/15,Rock,Minnesota,2,0
+2020/4/15,Roseau,Minnesota,1,0
+2020/4/15,Scott,Minnesota,20,1
+2020/4/15,Sherburne,Minnesota,11,0
+2020/4/15,Sibley,Minnesota,1,0
+2020/4/15,St. Louis,Minnesota,43,6
+2020/4/15,Stearns,Minnesota,7,0
+2020/4/15,Steele,Minnesota,9,0
+2020/4/15,Swift,Minnesota,1,0
+2020/4/15,Todd,Minnesota,2,0
+2020/4/15,Traverse,Minnesota,2,0
+2020/4/15,Unknown,Minnesota,5,0
+2020/4/15,Wabasha,Minnesota,7,0
+2020/4/15,Waseca,Minnesota,3,0
+2020/4/15,Washington,Minnesota,88,3
+2020/4/15,Watonwan,Minnesota,4,0
+2020/4/15,Wilkin,Minnesota,7,2
+2020/4/15,Winona,Minnesota,51,6
+2020/4/15,Wright,Minnesota,21,1
+2020/4/15,Yellow Medicine,Minnesota,3,0
+2020/4/23,Yellow Medicine,Minnesota,3,0
+2020/4/23,Wright,Minnesota,32,1
+2020/4/23,Winona,Minnesota,62,13
+2020/4/23,Wilkin,Minnesota,11,2
+2020/4/23,Watonwan,Minnesota,4,0
+2020/4/23,Washington,Minnesota,100,7
+2020/4/23,Waseca,Minnesota,3,0
+2020/4/23,Wabasha,Minnesota,8,0
+2020/4/23,Unknown,Minnesota,4,0
+2020/4/23,Traverse,Minnesota,2,0
+2020/4/23,Todd,Minnesota,3,0
+2020/4/23,Swift,Minnesota,1,0
+2020/4/23,Steele,Minnesota,10,0
+2020/4/23,Stearns,Minnesota,25,0
+2020/4/23,St. Louis,Minnesota,58,10
+2020/4/23,Sibley,Minnesota,1,0
+2020/4/23,Sherburne,Minnesota,15,0
+2020/4/23,Scott,Minnesota,29,1
+2020/4/23,Roseau,Minnesota,1,0
+2020/4/23,Rock,Minnesota,5,0
+2020/4/23,Rice,Minnesota,8,1
+2020/4/23,Renville,Minnesota,3,0
+2020/4/23,Redwood,Minnesota,1,0
+2020/4/23,Red Lake,Minnesota,1,0
+2020/4/23,Ramsey,Minnesota,235,14
+2020/4/23,Polk,Minnesota,19,0
+2020/4/23,Pipestone,Minnesota,2,0
+2020/4/23,Pine,Minnesota,26,0
+2020/4/23,Pennington,Minnesota,1,0
+2020/4/23,Otter Tail,Minnesota,6,0
+2020/4/23,Olmsted,Minnesota,213,5
+2020/4/23,Norman,Minnesota,6,0
+2020/4/23,Nobles,Minnesota,196,1
+2020/4/23,Nicollet,Minnesota,8,2
+2020/4/23,Murray,Minnesota,4,0
+2020/4/23,Mower,Minnesota,27,0
+2020/4/23,Morrison,Minnesota,1,0
+2020/4/23,Mille Lacs,Minnesota,1,1
+2020/4/23,Meeker,Minnesota,3,0
+2020/4/23,McLeod,Minnesota,3,0
+2020/4/23,Martin,Minnesota,41,4
+2020/4/23,Marshall,Minnesota,1,0
+2020/4/23,Mahnomen,Minnesota,1,0
+2020/4/23,Lyon,Minnesota,6,0
+2020/4/23,Lincoln,Minnesota,2,0
+2020/4/23,Le Sueur,Minnesota,22,0
+2020/4/23,Lac qui Parle,Minnesota,1,0
+2020/4/23,Koochiching,Minnesota,1,0
+2020/4/23,Kittson,Minnesota,1,0
+2020/4/23,Kandiyohi,Minnesota,4,0
+2020/4/23,Jackson,Minnesota,5,0
+2020/4/23,Itasca,Minnesota,2,0
+2020/4/23,Isanti,Minnesota,6,0
+2020/4/23,Houston,Minnesota,1,0
+2020/4/23,Hennepin,Minnesota,1132,123
+2020/4/23,Goodhue,Minnesota,19,0
+2020/4/23,Freeborn,Minnesota,33,0
+2020/4/23,Fillmore,Minnesota,12,1
+2020/4/23,Faribault,Minnesota,4,0
+2020/4/23,Douglas,Minnesota,2,0
+2020/4/23,Dodge,Minnesota,18,0
+2020/4/23,Dakota,Minnesota,131,6
+2020/4/23,Crow Wing,Minnesota,20,0
+2020/4/23,Cottonwood,Minnesota,6,0
+2020/4/23,Clearwater,Minnesota,2,0
+2020/4/23,Clay,Minnesota,84,4
+2020/4/23,Chisago,Minnesota,7,1
+2020/4/23,Chippewa,Minnesota,1,0
+2020/4/23,Cass,Minnesota,5,0
+2020/4/23,Carver,Minnesota,15,0
+2020/4/23,Carlton,Minnesota,38,0
+2020/4/23,Brown,Minnesota,8,1
+2020/4/23,Blue Earth,Minnesota,26,0
+2020/4/23,Big Stone,Minnesota,1,0
+2020/4/23,Benton,Minnesota,4,0
+2020/4/23,Beltrami,Minnesota,6,0
+2020/4/23,Becker,Minnesota,2,0
+2020/4/23,Anoka,Minnesota,131,2
+2020/4/23,Aitkin,Minnesota,1,0
+2020/3/22,Wabasha,Minnesota,1,0
+2020/3/22,Waseca,Minnesota,2,0
+2020/3/22,Washington,Minnesota,7,0
+2020/3/22,Wright,Minnesota,3,0
+2020/5/10,Isanti,Minnesota,7,0
+2020/5/10,Itasca,Minnesota,28,0
+2020/5/10,Jackson,Minnesota,32,0
+2020/5/10,Kanabec,Minnesota,9,0
+2020/5/10,Kandiyohi,Minnesota,284,1
+2020/5/10,Kittson,Minnesota,1,0
+2020/5/10,Koochiching,Minnesota,1,0
+2020/5/10,Lac qui Parle,Minnesota,2,0
+2020/5/10,Lake,Minnesota,1,0
+2020/5/10,Le Sueur,Minnesota,29,0
+2020/5/10,Lincoln,Minnesota,3,0
+2020/5/10,Lyon,Minnesota,17,0
+2020/5/10,Mahnomen,Minnesota,3,1
+2020/5/10,Marshall,Minnesota,8,0
+2020/5/10,Martin,Minnesota,112,4
+2020/5/10,McLeod,Minnesota,12,0
+2020/5/10,Meeker,Minnesota,21,0
+2020/5/10,Mille Lacs,Minnesota,7,1
+2020/5/10,Morrison,Minnesota,14,0
+2020/5/10,Mower,Minnesota,45,0
+2020/5/10,Murray,Minnesota,29,0
+2020/5/10,Nicollet,Minnesota,21,2
+2020/5/10,Nobles,Minnesota,1255,2
+2020/5/10,Norman,Minnesota,10,0
+2020/5/10,Olmsted,Minnesota,368,9
+2020/5/10,Otter Tail,Minnesota,23,0
+2020/5/10,Pennington,Minnesota,1,0
+2020/5/10,Pine,Minnesota,73,0
+2020/5/10,Pipestone,Minnesota,7,0
+2020/5/10,Polk,Minnesota,52,1
+2020/5/10,Pope,Minnesota,5,0
+2020/5/10,Ramsey,Minnesota,920,45
+2020/5/10,Red Lake,Minnesota,2,0
+2020/5/10,Redwood,Minnesota,3,0
+2020/4/2,Olmsted,Minnesota,66,1
+2020/4/2,Otter Tail,Minnesota,1,0
+2020/4/2,Ramsey,Minnesota,67,2
+2020/4/2,Renville,Minnesota,2,0
+2020/4/2,Rice,Minnesota,3,0
+2020/4/2,Scott,Minnesota,10,0
+2020/4/2,Sherburne,Minnesota,8,0
+2020/4/2,Sibley,Minnesota,1,0
+2020/4/2,St. Louis,Minnesota,13,0
+2020/4/2,Stearns,Minnesota,5,0
+2020/4/2,Steele,Minnesota,6,0
+2020/4/2,Traverse,Minnesota,2,0
+2020/4/2,Wabasha,Minnesota,6,0
+2020/4/2,Waseca,Minnesota,3,0
+2020/4/2,Washington,Minnesota,46,0
+2020/4/2,Watonwan,Minnesota,3,0
+2020/4/2,Wilkin,Minnesota,1,0
+2020/4/2,Winona,Minnesota,11,0
+2020/4/2,Wright,Minnesota,7,0
+2020/4/2,Yellow Medicine,Minnesota,1,0
+2020/5/7,Todd,Minnesota,26,0
+2020/5/7,Swift,Minnesota,2,0
+2020/5/7,Steele,Minnesota,37,0
+2020/5/7,Stearns,Minnesota,1161,4
+2020/5/7,St. Louis,Minnesota,89,11
+2020/5/7,Sibley,Minnesota,2,0
+2020/5/7,Sherburne,Minnesota,88,1
+2020/5/7,Scott,Minnesota,100,1
+2020/5/7,Roseau,Minnesota,1,0
+2020/5/7,Rock,Minnesota,19,0
+2020/5/7,Rice,Minnesota,48,1
+2020/5/7,Renville,Minnesota,6,0
+2020/5/7,Redwood,Minnesota,3,0
+2020/5/7,Red Lake,Minnesota,1,0
+2020/5/7,Ramsey,Minnesota,717,39
+2020/5/7,Pope,Minnesota,3,0
+2020/5/7,Polk,Minnesota,43,0
+2020/5/7,Pipestone,Minnesota,5,0
+2020/5/7,Pine,Minnesota,61,0
+2020/5/7,Pennington,Minnesota,1,0
+2020/5/7,Otter Tail,Minnesota,21,0
+2020/5/7,Olmsted,Minnesota,336,8
+2020/5/7,Norman,Minnesota,9,0
+2020/5/7,Nobles,Minnesota,1153,2
+2020/5/7,Nicollet,Minnesota,18,2
+2020/5/7,Murray,Minnesota,25,0
+2020/5/7,Mower,Minnesota,36,0
+2020/5/7,Morrison,Minnesota,11,0
+2020/5/7,Mille Lacs,Minnesota,6,1
+2020/5/7,Meeker,Minnesota,18,0
+2020/5/7,McLeod,Minnesota,6,0
+2020/5/7,Martin,Minnesota,111,4
+2020/5/7,Marshall,Minnesota,8,0
+2020/5/7,Mahnomen,Minnesota,2,1
+2020/5/7,Lyon,Minnesota,15,0
+2020/5/7,Lincoln,Minnesota,3,0
+2020/5/7,Le Sueur,Minnesota,28,0
+2020/5/7,Lake,Minnesota,1,0
+2020/5/7,Lac qui Parle,Minnesota,2,0
+2020/5/7,Koochiching,Minnesota,1,0
+2020/5/7,Kittson,Minnesota,1,0
+2020/5/7,Kandiyohi,Minnesota,238,1
+2020/5/7,Kanabec,Minnesota,4,0
+2020/5/7,Jackson,Minnesota,29,0
+2020/5/7,Itasca,Minnesota,24,0
+2020/5/7,Isanti,Minnesota,7,0
+2020/5/7,Houston,Minnesota,2,0
+2020/5/7,Hennepin,Minnesota,2962,342
+2020/5/7,Grant,Minnesota,1,0
+2020/5/7,Goodhue,Minnesota,25,0
+2020/5/7,Freeborn,Minnesota,39,0
+2020/5/7,Fillmore,Minnesota,12,1
+2020/5/7,Faribault,Minnesota,7,0
+2020/5/7,Douglas,Minnesota,14,0
+2020/5/7,Dodge,Minnesota,22,0
+2020/5/7,Dakota,Minnesota,322,12
+2020/5/7,Crow Wing,Minnesota,23,1
+2020/5/7,Cottonwood,Minnesota,43,0
+2020/5/7,Clearwater,Minnesota,2,0
+2020/5/7,Clay,Minnesota,222,15
+2020/5/7,Chisago,Minnesota,14,1
+2020/5/7,Chippewa,Minnesota,5,0
+2020/5/7,Cass,Minnesota,7,0
+2020/5/7,Carver,Minnesota,58,0
+2020/5/7,Carlton,Minnesota,62,0
+2020/5/7,Brown,Minnesota,9,1
+2020/5/7,Blue Earth,Minnesota,55,0
+2020/5/7,Big Stone,Minnesota,2,0
+2020/5/7,Benton,Minnesota,64,1
+2020/5/7,Beltrami,Minnesota,6,0
+2020/5/7,Becker,Minnesota,18,0
+2020/5/7,Anoka,Minnesota,426,27
+2020/5/7,Aitkin,Minnesota,1,0
+2020/3/17,Wright,Minnesota,1,0
+2020/3/17,Washington,Minnesota,1,0
+2020/3/17,Waseca,Minnesota,1,0
+2020/3/17,Stearns,Minnesota,3,0
+2020/3/17,Renville,Minnesota,1,0
+2020/3/17,Ramsey,Minnesota,8,0
+2020/3/17,Olmsted,Minnesota,3,0
+2020/3/17,Nicollet,Minnesota,1,0
+2020/3/17,Martin,Minnesota,2,0
+2020/3/17,Hennepin,Minnesota,26,0
+2020/3/17,Dakota,Minnesota,7,0
+2020/3/17,Carver,Minnesota,1,0
+2020/3/17,Blue Earth,Minnesota,1,0
+2020/3/17,Benton,Minnesota,1,0
+2020/3/17,Anoka,Minnesota,3,0
+2020/4/20,Waseca,Minnesota,3,0
+2020/4/20,Wabasha,Minnesota,8,0
+2020/4/20,Unknown,Minnesota,4,0
+2020/4/20,Traverse,Minnesota,2,0
+2020/4/20,Todd,Minnesota,3,0
+2020/4/20,Swift,Minnesota,1,0
+2020/4/20,Steele,Minnesota,9,0
+2020/4/20,Stearns,Minnesota,17,0
+2020/4/20,St. Louis,Minnesota,52,10
+2020/4/20,Sibley,Minnesota,1,0
+2020/4/20,Sherburne,Minnesota,13,0
+2020/5/5,Ramsey,Minnesota,583,37
+2020/5/5,Red Lake,Minnesota,1,0
+2020/5/5,Redwood,Minnesota,3,0
+2020/5/5,Renville,Minnesota,5,0
+2020/5/5,Rice,Minnesota,30,1
+2020/5/5,Rock,Minnesota,18,0
+2020/5/5,Roseau,Minnesota,1,0
+2020/3/14,Anoka,Minnesota,2,0
+2020/3/14,Carver,Minnesota,1,0
+2020/3/14,Dakota,Minnesota,2,0
+2020/3/14,Hennepin,Minnesota,6,0
+2020/3/14,Olmsted,Minnesota,1,0
+2020/3/14,Ramsey,Minnesota,4,0
+2020/3/14,Renville,Minnesota,1,0
+2020/3/14,Stearns,Minnesota,3,0
+2020/3/14,Wright,Minnesota,1,0
+2020/4/3,Wilkin,Minnesota,2,0
+2020/4/3,Watonwan,Minnesota,3,0
+2020/4/3,Washington,Minnesota,51,0
+2020/4/3,Waseca,Minnesota,3,0
+2020/4/3,Wabasha,Minnesota,6,0
+2020/4/3,Unknown,Minnesota,0,3
+2020/4/3,Traverse,Minnesota,2,0
+2020/4/3,Steele,Minnesota,6,0
+2020/4/3,Stearns,Minnesota,5,0
+2020/4/3,St. Louis,Minnesota,13,0
+2020/4/3,Sibley,Minnesota,1,0
+2020/4/3,Sherburne,Minnesota,8,0
+2020/4/3,Scott,Minnesota,11,1
+2020/4/3,Rice,Minnesota,3,0
+2020/4/3,Renville,Minnesota,2,0
+2020/4/3,Ramsey,Minnesota,71,2
+2020/4/3,Otter Tail,Minnesota,1,0
+2020/4/3,Olmsted,Minnesota,76,2
+2020/4/3,Nicollet,Minnesota,3,0
+2020/4/3,Mower,Minnesota,15,0
+2020/4/3,Meeker,Minnesota,1,0
+2020/4/3,Martin,Minnesota,32,2
+2020/4/3,Mahnomen,Minnesota,1,0
+2020/4/3,Lyon,Minnesota,3,0
+2020/4/3,Lincoln,Minnesota,1,0
+2020/4/3,Le Sueur,Minnesota,19,0
+2020/4/3,Lac qui Parle,Minnesota,1,0
+2020/4/3,Koochiching,Minnesota,1,0
+2020/4/3,Kandiyohi,Minnesota,2,0
+2020/4/3,Jackson,Minnesota,1,0
+2020/4/3,Itasca,Minnesota,2,0
+2020/4/3,Isanti,Minnesota,2,0
+2020/4/3,Hennepin,Minnesota,242,9
+2020/4/3,Goodhue,Minnesota,5,0
+2020/4/3,Freeborn,Minnesota,7,0
+2020/4/3,Fillmore,Minnesota,9,0
+2020/4/3,Faribault,Minnesota,3,0
+2020/4/3,Douglas,Minnesota,1,0
+2020/4/3,Dodge,Minnesota,10,0
+2020/4/3,Dakota,Minnesota,54,1
+2020/4/3,Crow Wing,Minnesota,3,0
+2020/4/3,Cottonwood,Minnesota,5,0
+2020/4/3,Clearwater,Minnesota,2,0
+2020/4/3,Clay,Minnesota,8,0
+2020/4/3,Chisago,Minnesota,4,1
+2020/4/3,Cass,Minnesota,1,0
+2020/4/3,Carver,Minnesota,11,0
+2020/4/3,Carlton,Minnesota,5,0
+2020/4/3,Brown,Minnesota,2,0
+2020/4/3,Blue Earth,Minnesota,10,0
+2020/4/3,Big Stone,Minnesota,1,0
+2020/4/3,Benton,Minnesota,1,0
+2020/4/3,Beltrami,Minnesota,4,0
+2020/4/3,Anoka,Minnesota,34,0
+2020/3/29,Wright,Minnesota,6,0
+2020/3/29,Winona,Minnesota,4,0
+2020/3/29,Wilkin,Minnesota,1,0
+2020/3/29,Washington,Minnesota,27,0
+2020/3/29,Waseca,Minnesota,3,0
+2020/3/29,Wabasha,Minnesota,4,0
+2020/3/29,Unknown,Minnesota,1,0
+2020/3/29,Steele,Minnesota,5,0
+2020/3/29,Stearns,Minnesota,5,0
+2020/3/29,St. Louis,Minnesota,10,0
+2020/3/29,Sibley,Minnesota,1,0
+2020/3/29,Sherburne,Minnesota,5,0
+2020/3/29,Scott,Minnesota,9,0
+2020/3/29,Rice,Minnesota,3,0
+2020/3/29,Renville,Minnesota,1,0
+2020/3/29,Ramsey,Minnesota,46,2
+2020/3/29,Otter Tail,Minnesota,1,0
+2020/3/29,Olmsted,Minnesota,47,0
+2020/3/29,Nicollet,Minnesota,3,0
+2020/3/29,Mower,Minnesota,11,0
+2020/3/29,Martin,Minnesota,21,2
+2020/3/29,Mahnomen,Minnesota,1,0
+2020/3/29,Lincoln,Minnesota,1,0
+2020/3/29,Le Sueur,Minnesota,11,0
+2020/3/29,Lac qui Parle,Minnesota,1,0
+2020/3/29,Kandiyohi,Minnesota,1,0
+2020/3/29,Jackson,Minnesota,1,0
+2020/3/29,Isanti,Minnesota,1,0
+2020/3/29,Hennepin,Minnesota,171,5
+2020/3/29,Goodhue,Minnesota,2,0
+2020/3/29,Fillmore,Minnesota,6,0
+2020/3/29,Faribault,Minnesota,1,0
+2020/3/29,Douglas,Minnesota,1,0
+2020/3/29,Dodge,Minnesota,7,0
+2020/3/29,Dakota,Minnesota,39,0
+2020/3/29,Cottonwood,Minnesota,1,0
+2020/3/29,Clearwater,Minnesota,1,0
+2020/3/29,Clay,Minnesota,4,0
+2020/3/29,Chisago,Minnesota,2,0
+2020/3/29,Cass,Minnesota,1,0
+2020/5/13,Yellow Medicine,Minnesota,3,0
+2020/5/13,Wright,Minnesota,119,1
+2020/5/13,Winona,Minnesota,71,15
+2020/5/13,Wilkin,Minnesota,11,3
+2020/5/13,Watonwan,Minnesota,28,0
+2020/5/13,Washington,Minnesota,266,16
+2020/5/13,Waseca,Minnesota,16,0
+2020/5/13,Wadena,Minnesota,4,0
+2020/5/13,Wabasha,Minnesota,13,0
+2020/5/13,Unknown,Minnesota,453,24
+2020/5/13,Traverse,Minnesota,3,0
+2020/5/13,Todd,Minnesota,42,0
+2020/5/13,Swift,Minnesota,9,0
+2020/5/13,Steele,Minnesota,73,0
+2020/5/13,Stearns,Minnesota,1512,6
+2020/5/13,St. Louis,Minnesota,96,12
+2020/5/13,Sibley,Minnesota,4,0
+2020/5/13,Sherburne,Minnesota,122,1
+2020/5/13,Scott,Minnesota,168,1
+2020/5/13,Roseau,Minnesota,1,0
+2020/5/13,Rock,Minnesota,19,0
+2020/5/13,Rice,Minnesota,134,2
+2020/5/13,Renville,Minnesota,6,0
+2020/5/13,Redwood,Minnesota,3,0
+2020/5/13,Red Lake,Minnesota,2,0
+2020/5/13,Ramsey,Minnesota,1052,49
+2020/5/13,Pope,Minnesota,5,0
+2020/5/13,Polk,Minnesota,54,1
+2020/5/13,Pipestone,Minnesota,7,0
+2020/5/13,Pine,Minnesota,73,0
+2020/5/13,Pennington,Minnesota,1,0
+2020/5/13,Otter Tail,Minnesota,25,0
+2020/5/13,Olmsted,Minnesota,378,9
+2020/5/13,Norman,Minnesota,11,0
+2020/4/28,Yellow Medicine,Minnesota,3,0
+2020/4/28,Wright,Minnesota,35,1
+2020/4/28,Winona,Minnesota,66,14
+2020/4/28,Wilkin,Minnesota,12,3
+2020/4/28,Watonwan,Minnesota,7,0
+2020/4/28,Washington,Minnesota,117,9
+2020/4/28,Waseca,Minnesota,4,0
+2020/4/28,Wadena,Minnesota,1,0
+2020/4/28,Wabasha,Minnesota,8,0
+2020/4/28,Unknown,Minnesota,6,0
+2020/4/28,Traverse,Minnesota,2,0
+2020/4/28,Todd,Minnesota,4,0
+2020/4/28,Swift,Minnesota,2,0
+2020/4/28,Steele,Minnesota,14,0
+2020/4/28,Stearns,Minnesota,86,0
+2020/4/28,St. Louis,Minnesota,69,11
+2020/4/28,Sibley,Minnesota,2,0
+2020/4/28,Sherburne,Minnesota,19,0
+2020/4/28,Scott,Minnesota,36,1
+2020/4/28,Roseau,Minnesota,1,0
+2020/4/28,Rock,Minnesota,8,0
+2020/4/28,Rice,Minnesota,11,1
+2020/4/28,Renville,Minnesota,3,0
+2020/4/28,Redwood,Minnesota,1,0
+2020/4/28,Red Lake,Minnesota,1,0
+2020/4/28,Ramsey,Minnesota,317,22
+2020/4/28,Polk,Minnesota,26,0
+2020/4/28,Pipestone,Minnesota,2,0
+2020/4/28,Pine,Minnesota,56,0
+2020/4/28,Pennington,Minnesota,1,0
+2020/4/28,Otter Tail,Minnesota,8,0
+2020/4/28,Olmsted,Minnesota,251,6
+2020/4/28,Norman,Minnesota,7,0
+2020/4/28,Nobles,Minnesota,477,1
+2020/4/28,Nicollet,Minnesota,9,2
+2020/4/28,Murray,Minnesota,10,0
+2020/4/28,Mower,Minnesota,28,0
+2020/4/28,Morrison,Minnesota,1,0
+2020/5/10,Renville,Minnesota,6,0
+2020/5/10,Rice,Minnesota,114,1
+2020/5/10,Rock,Minnesota,19,0
+2020/5/10,Roseau,Minnesota,1,0
+2020/5/10,Scott,Minnesota,140,1
+2020/5/10,Sherburne,Minnesota,109,1
+2020/5/10,Sibley,Minnesota,4,0
+2020/5/10,St. Louis,Minnesota,92,12
+2020/5/10,Stearns,Minnesota,1405,5
+2020/5/10,Steele,Minnesota,60,0
+2020/5/10,Swift,Minnesota,5,0
+2020/5/5,Scott,Minnesota,74,1
+2020/5/5,Sherburne,Minnesota,71,1
+2020/5/5,Sibley,Minnesota,2,0
+2020/5/5,St. Louis,Minnesota,81,11
+2020/5/5,Stearns,Minnesota,815,2
+2020/5/5,Steele,Minnesota,25,0
+2020/5/5,Swift,Minnesota,2,0
+2020/5/5,Todd,Minnesota,15,0
+2020/3/29,Carver,Minnesota,9,0
+2020/3/29,Blue Earth,Minnesota,8,0
+2020/3/29,Big Stone,Minnesota,1,0
+2020/3/29,Benton,Minnesota,1,0
+2020/3/29,Beltrami,Minnesota,2,0
+2020/5/14,St. Louis,Minnesota,100,12
+2020/5/14,Sibley,Minnesota,4,0
+2020/5/14,Sherburne,Minnesota,130,1
+2020/5/14,Scott,Minnesota,186,1
+2020/5/14,Roseau,Minnesota,1,0
+2020/5/14,Rock,Minnesota,19,0
+2020/3/26,Scott,Minnesota,6,0
+2020/3/26,Sherburne,Minnesota,1,0
+2020/3/26,Sibley,Minnesota,1,0
+2020/3/26,St. Louis,Minnesota,5,0
+2020/3/26,Stearns,Minnesota,5,0
+2020/3/26,Steele,Minnesota,5,0
+2020/3/26,Unknown,Minnesota,1,1
+2020/3/26,Wabasha,Minnesota,4,0
+2020/3/26,Waseca,Minnesota,2,0
+2020/3/26,Washington,Minnesota,15,0
+2020/3/26,Wilkin,Minnesota,1,0
+2020/3/26,Winona,Minnesota,4,0
+2020/3/26,Wright,Minnesota,5,0
+2020/5/14,Rice,Minnesota,181,2
+2020/5/14,Renville,Minnesota,5,0
+2020/5/14,Redwood,Minnesota,3,0
+2020/5/14,Red Lake,Minnesota,2,0
+2020/5/14,Ramsey,Minnesota,1167,56
+2020/5/14,Pope,Minnesota,5,0
+2020/5/14,Polk,Minnesota,55,2
+2020/5/14,Pipestone,Minnesota,9,0
+2020/5/14,Pine,Minnesota,80,0
+2020/5/14,Pennington,Minnesota,1,0
+2020/5/14,Otter Tail,Minnesota,33,0
+2020/5/14,Olmsted,Minnesota,399,9
+2020/5/14,Norman,Minnesota,11,0
+2020/5/14,Nobles,Minnesota,1319,2
+2020/4/17,Aitkin,Minnesota,1,0
+2020/4/17,Anoka,Minnesota,83,1
+2020/4/17,Becker,Minnesota,1,0
+2020/4/17,Beltrami,Minnesota,5,0
+2020/4/17,Benton,Minnesota,4,0
+2020/4/17,Big Stone,Minnesota,1,0
+2020/4/17,Blue Earth,Minnesota,23,0
+2020/4/17,Brown,Minnesota,7,1
+2020/4/17,Carlton,Minnesota,32,0
+2020/4/17,Carver,Minnesota,14,0
+2020/4/17,Cass,Minnesota,4,0
+2020/4/17,Chisago,Minnesota,7,1
+2020/4/17,Clay,Minnesota,44,2
+2020/4/17,Clearwater,Minnesota,3,0
+2020/4/17,Cottonwood,Minnesota,6,0
+2020/4/17,Crow Wing,Minnesota,17,0
+2020/4/17,Dakota,Minnesota,110,5
+2020/4/17,Dodge,Minnesota,17,0
+2020/4/17,Douglas,Minnesota,1,0
+2020/4/17,Faribault,Minnesota,4,0
+2020/4/17,Fillmore,Minnesota,10,0
+2020/4/17,Freeborn,Minnesota,28,0
+2020/4/17,Goodhue,Minnesota,18,0
+2020/4/17,Hennepin,Minnesota,806,61
+2020/4/17,Houston,Minnesota,1,0
+2020/4/17,Isanti,Minnesota,4,0
+2020/4/17,Itasca,Minnesota,2,0
+2020/4/17,Jackson,Minnesota,1,0
+2020/4/17,Kandiyohi,Minnesota,2,0
+2020/4/17,Koochiching,Minnesota,1,0
+2020/4/17,Lac qui Parle,Minnesota,1,0
+2020/4/17,Le Sueur,Minnesota,22,0
+2020/4/17,Lincoln,Minnesota,2,0
+2020/4/17,Lyon,Minnesota,6,0
+2020/4/17,Mahnomen,Minnesota,1,0
+2020/4/17,Martin,Minnesota,39,4
+2020/4/17,McLeod,Minnesota,2,0
+2020/4/17,Meeker,Minnesota,3,0
+2020/4/17,Mille Lacs,Minnesota,1,0
+2020/4/17,Mower,Minnesota,25,0
+2020/4/17,Murray,Minnesota,2,0
+2020/4/17,Nicollet,Minnesota,7,2
+2020/4/17,Nobles,Minnesota,12,0
+2020/4/17,Norman,Minnesota,2,0
+2020/4/17,Olmsted,Minnesota,174,2
+2020/4/17,Otter Tail,Minnesota,4,0
+2020/4/17,Pine,Minnesota,9,0
+2020/4/17,Pipestone,Minnesota,1,0
+2020/4/17,Polk,Minnesota,2,0
+2020/4/17,Ramsey,Minnesota,178,9
+2020/4/17,Red Lake,Minnesota,1,0
+2020/4/17,Redwood,Minnesota,1,0
+2020/4/17,Renville,Minnesota,3,0
+2020/4/17,Rice,Minnesota,6,1
+2020/4/17,Rock,Minnesota,3,0
+2020/4/17,Roseau,Minnesota,1,0
+2020/4/17,Scott,Minnesota,23,1
+2020/4/17,Sherburne,Minnesota,12,0
+2020/4/17,Sibley,Minnesota,1,0
+2020/4/17,St. Louis,Minnesota,45,7
+2020/4/17,Stearns,Minnesota,14,0
+2020/4/17,Steele,Minnesota,9,0
+2020/4/17,Swift,Minnesota,1,0
+2020/4/17,Todd,Minnesota,2,0
+2020/4/17,Traverse,Minnesota,2,0
+2020/4/17,Unknown,Minnesota,1,0
+2020/4/17,Wabasha,Minnesota,8,0
+2020/4/17,Waseca,Minnesota,3,0
+2020/4/17,Washington,Minnesota,92,3
+2020/4/17,Watonwan,Minnesota,4,0
+2020/4/17,Wilkin,Minnesota,7,2
+2020/4/17,Winona,Minnesota,56,8
+2020/4/17,Wright,Minnesota,23,1
+2020/4/17,Yellow Medicine,Minnesota,3,0
+2020/5/14,Nicollet,Minnesota,23,2
+2020/5/14,Murray,Minnesota,30,0
+2020/5/14,Mower,Minnesota,50,0
+2020/5/14,Morrison,Minnesota,21,0
+2020/5/14,Mille Lacs,Minnesota,7,1
+2020/5/14,Meeker,Minnesota,24,0
+2020/5/14,McLeod,Minnesota,15,0
+2020/5/14,Martin,Minnesota,113,4
+2020/5/14,Marshall,Minnesota,8,0
+2020/5/14,Mahnomen,Minnesota,5,1
+2020/5/14,Lyon,Minnesota,22,0
+2020/5/14,Lincoln,Minnesota,4,0
+2020/5/13,Nobles,Minnesota,1291,2
+2020/5/13,Nicollet,Minnesota,22,2
+2020/5/13,Murray,Minnesota,29,0
+2020/5/13,Mower,Minnesota,45,0
+2020/5/13,Morrison,Minnesota,16,0
+2020/5/13,Mille Lacs,Minnesota,7,1
+2020/5/13,Meeker,Minnesota,23,0
+2020/5/13,McLeod,Minnesota,14,0
+2020/5/13,Martin,Minnesota,112,4
+2020/5/13,Marshall,Minnesota,8,0
+2020/5/13,Mahnomen,Minnesota,3,1
+2020/5/13,Lyon,Minnesota,20,0
+2020/5/13,Lincoln,Minnesota,4,0
+2020/5/13,Le Sueur,Minnesota,31,1
+2020/5/13,Lake,Minnesota,1,0
+2020/5/13,Lac qui Parle,Minnesota,2,0
+2020/5/13,Koochiching,Minnesota,2,0
+2020/5/13,Kittson,Minnesota,1,0
+2020/5/13,Kandiyohi,Minnesota,367,1
+2020/5/13,Kanabec,Minnesota,10,0
+2020/5/13,Jackson,Minnesota,33,0
+2020/5/13,Itasca,Minnesota,35,2
+2020/5/13,Isanti,Minnesota,10,0
+2020/5/13,Houston,Minnesota,2,0
+2020/5/13,Hennepin,Minnesota,4033,412
+2020/5/13,Grant,Minnesota,2,0
+2020/5/13,Goodhue,Minnesota,26,0
+2020/5/13,Freeborn,Minnesota,46,0
+2020/5/13,Fillmore,Minnesota,14,1
+2020/5/13,Faribault,Minnesota,10,0
+2020/5/13,Douglas,Minnesota,17,0
+2020/5/13,Dodge,Minnesota,26,0
+2020/5/13,Dakota,Minnesota,508,15
+2020/5/13,Crow Wing,Minnesota,23,1
+2020/5/13,Cottonwood,Minnesota,47,0
+2020/5/13,Clearwater,Minnesota,2,0
+2020/5/13,Clay,Minnesota,254,17
+2020/5/13,Chisago,Minnesota,23,1
+2020/5/13,Chippewa,Minnesota,21,0
+2020/5/13,Cass,Minnesota,8,2
+2020/5/13,Carver,Minnesota,95,1
+2020/5/13,Carlton,Minnesota,65,0
+2020/5/13,Brown,Minnesota,9,1
+2020/5/13,Blue Earth,Minnesota,67,0
+2020/5/13,Big Stone,Minnesota,2,0
+2020/5/13,Benton,Minnesota,100,2
+2020/5/13,Beltrami,Minnesota,6,0
+2020/5/13,Becker,Minnesota,25,0
+2020/5/13,Anoka,Minnesota,613,31
+2020/5/13,Aitkin,Minnesota,2,0
+2020/4/9,Freeborn,Minnesota,20,0
+2020/4/9,Fillmore,Minnesota,10,0
+2020/4/9,Faribault,Minnesota,4,0
+2020/4/9,Douglas,Minnesota,1,0
+2020/4/9,Dodge,Minnesota,13,0
+2020/4/9,Dakota,Minnesota,79,3
+2020/4/9,Crow Wing,Minnesota,13,0
+2020/4/9,Cottonwood,Minnesota,5,0
+2020/4/9,Clearwater,Minnesota,2,0
+2020/4/9,Clay,Minnesota,23,0
+2020/4/9,Chisago,Minnesota,5,1
+2020/4/9,Cass,Minnesota,3,0
+2020/4/9,Carver,Minnesota,10,0
+2020/4/9,Carlton,Minnesota,15,0
+2020/4/9,Brown,Minnesota,7,0
+2020/4/9,Blue Earth,Minnesota,22,0
+2020/4/9,Big Stone,Minnesota,1,0
+2020/4/9,Benton,Minnesota,1,0
+2020/4/9,Beltrami,Minnesota,5,0
+2020/4/9,Anoka,Minnesota,53,0
+2020/5/18,Yellow Medicine,Minnesota,3,0
+2020/5/10,Todd,Minnesota,36,0
+2020/5/10,Traverse,Minnesota,3,0
+2020/5/10,Unknown,Minnesota,17,0
+2020/5/10,Wabasha,Minnesota,13,0
+2020/5/10,Wadena,Minnesota,4,0
+2020/5/10,Waseca,Minnesota,16,0
+2020/5/10,Washington,Minnesota,247,15
+2020/5/10,Watonwan,Minnesota,22,0
+2020/5/10,Wilkin,Minnesota,12,3
+2020/5/10,Winona,Minnesota,71,15
+2020/5/10,Wright,Minnesota,102,1
+2020/4/28,Mille Lacs,Minnesota,2,1
+2020/4/28,Meeker,Minnesota,9,0
+2020/5/18,Wright,Minnesota,172,1
+2020/5/18,Winona,Minnesota,75,15
+2020/5/18,Wilkin,Minnesota,11,3
+2020/5/18,Watonwan,Minnesota,41,0
+2020/5/18,Washington,Minnesota,378,19
+2020/5/18,Waseca,Minnesota,20,0
+2020/5/18,Wadena,Minnesota,5,0
+2020/5/18,Wabasha,Minnesota,16,0
+2020/5/18,Unknown,Minnesota,37,9
+2020/5/18,Traverse,Minnesota,3,0
+2020/5/18,Todd,Minnesota,73,0
+2020/5/18,Swift,Minnesota,13,0
+2020/5/18,Steele,Minnesota,111,0
+2020/5/18,Stearns,Minnesota,1740,10
+2020/5/18,St. Louis,Minnesota,105,13
+2020/5/16,Carver,Minnesota,111,2
+2020/5/16,Cass,Minnesota,9,2
+2020/5/16,Chippewa,Minnesota,28,0
+2020/5/16,Chisago,Minnesota,30,1
+2020/5/16,Clay,Minnesota,291,19
+2020/5/16,Clearwater,Minnesota,2,0
+2020/5/16,Cottonwood,Minnesota,54,0
+2020/5/16,Crow Wing,Minnesota,24,1
+2020/5/16,Dakota,Minnesota,666,18
+2020/5/16,Dodge,Minnesota,34,0
+2020/5/16,Douglas,Minnesota,18,0
+2020/5/16,Faribault,Minnesota,9,0
+2020/5/16,Fillmore,Minnesota,17,1
+2020/5/16,Freeborn,Minnesota,61,0
+2020/5/16,Goodhue,Minnesota,32,0
+2020/5/10,Yellow Medicine,Minnesota,3,0
+2020/5/11,Murray,Minnesota,29,0
+2020/5/11,Nicollet,Minnesota,21,2
+2020/5/11,Nobles,Minnesota,1269,2
+2020/5/11,Norman,Minnesota,10,0
+2020/5/11,Olmsted,Minnesota,374,9
+2020/5/11,Otter Tail,Minnesota,25,0
+2020/5/11,Pennington,Minnesota,1,0
+2020/5/11,Pine,Minnesota,73,0
+2020/5/11,Pipestone,Minnesota,7,0
+2020/5/11,Polk,Minnesota,53,1
+2020/5/11,Pope,Minnesota,5,0
+2020/5/11,Ramsey,Minnesota,986,47
+2020/5/11,Red Lake,Minnesota,2,0
+2020/5/11,Redwood,Minnesota,3,0
+2020/5/11,Renville,Minnesota,6,0
+2020/5/11,Rice,Minnesota,126,2
+2020/5/11,Rock,Minnesota,19,0
+2020/5/11,Roseau,Minnesota,1,0
+2020/3/11,Anoka,Minnesota,1,0
+2020/3/11,Carver,Minnesota,1,0
+2020/3/11,Olmsted,Minnesota,1,0
+2020/3/11,Ramsey,Minnesota,2,0
+2020/5/16,Grant,Minnesota,2,0
+2020/5/14,Le Sueur,Minnesota,31,1
+2020/5/14,Lake,Minnesota,1,0
+2020/5/14,Lac qui Parle,Minnesota,2,0
+2020/5/14,Koochiching,Minnesota,3,0
+2020/5/14,Kittson,Minnesota,1,0
+2020/5/14,Kandiyohi,Minnesota,386,1
+2020/5/14,Kanabec,Minnesota,10,0
+2020/5/14,Jackson,Minnesota,34,0
+2020/5/14,Itasca,Minnesota,41,2
+2020/5/14,Isanti,Minnesota,11,0
+2020/5/14,Houston,Minnesota,2,0
+2020/5/14,Hennepin,Minnesota,4331,441
+2020/5/14,Grant,Minnesota,2,0
+2020/3/6,Ramsey,Minnesota,1,0
+2020/5/14,Goodhue,Minnesota,29,0
+2020/5/14,Freeborn,Minnesota,52,0
+2020/5/14,Fillmore,Minnesota,16,1
+2020/5/14,Faribault,Minnesota,9,0
+2020/4/5,Yellow Medicine,Minnesota,1,0
+2020/4/5,Wright,Minnesota,9,0
+2020/4/5,Winona,Minnesota,14,1
+2020/4/5,Wilkin,Minnesota,2,0
+2020/4/5,Watonwan,Minnesota,4,0
+2020/4/5,Washington,Minnesota,62,1
+2020/4/5,Waseca,Minnesota,3,0
+2020/4/5,Wabasha,Minnesota,6,0
+2020/4/5,Unknown,Minnesota,0,4
+2020/4/5,Traverse,Minnesota,2,0
+2020/4/5,Steele,Minnesota,8,0
+2020/4/5,Stearns,Minnesota,6,0
+2020/4/5,St. Louis,Minnesota,15,0
+2020/4/5,Sibley,Minnesota,1,0
+2020/4/5,Sherburne,Minnesota,10,0
+2020/4/5,Scott,Minnesota,13,1
+2020/4/5,Rice,Minnesota,4,0
+2020/4/5,Renville,Minnesota,2,0
+2020/4/5,Ramsey,Minnesota,91,2
+2020/4/5,Polk,Minnesota,1,0
+2020/4/5,Pipestone,Minnesota,1,0
+2020/3/7,Ramsey,Minnesota,1,0
+2020/5/14,Douglas,Minnesota,17,0
+2020/4/11,Dodge,Minnesota,15,0
+2020/4/11,Douglas,Minnesota,1,0
+2020/4/11,Faribault,Minnesota,4,0
+2020/4/11,Fillmore,Minnesota,10,0
+2020/4/11,Freeborn,Minnesota,22,0
+2020/4/11,Goodhue,Minnesota,16,0
+2020/4/11,Hennepin,Minnesota,464,30
+2020/5/18,Faribault,Minnesota,10,0
+2020/5/18,Fillmore,Minnesota,17,1
+2020/5/18,Freeborn,Minnesota,61,0
+2020/5/18,Goodhue,Minnesota,34,0
+2020/5/18,Grant,Minnesota,2,0
+2020/5/18,Hennepin,Minnesota,5409,467
+2020/5/18,Houston,Minnesota,2,0
+2020/5/18,Isanti,Minnesota,19,0
+2020/5/19,Red Lake,Minnesota,3,0
+2020/5/14,Dodge,Minnesota,28,0
+2020/5/14,Dakota,Minnesota,562,16
+2020/5/14,Crow Wing,Minnesota,24,1
+2020/5/14,Cottonwood,Minnesota,51,0
+2020/5/14,Clearwater,Minnesota,2,0
+2020/5/14,Clay,Minnesota,273,18
+2020/5/14,Chisago,Minnesota,25,1
+2020/5/14,Chippewa,Minnesota,27,0
+2020/5/14,Cass,Minnesota,9,2
+2020/5/14,Carver,Minnesota,103,1
+2020/5/14,Carlton,Minnesota,66,0
+2020/5/14,Brown,Minnesota,10,2
+2020/5/14,Blue Earth,Minnesota,71,0
+2020/5/14,Big Stone,Minnesota,2,0
+2020/5/14,Benton,Minnesota,109,2
+2020/5/14,Beltrami,Minnesota,8,0
+2020/5/14,Becker,Minnesota,30,0
+2020/5/14,Anoka,Minnesota,678,35
+2020/5/14,Aitkin,Minnesota,2,0
+2020/5/18,Itasca,Minnesota,49,5
+2020/5/18,Jackson,Minnesota,36,0
+2020/5/18,Kanabec,Minnesota,9,0
+2020/5/18,Kandiyohi,Minnesota,415,1
+2020/5/18,Kittson,Minnesota,1,0
+2020/5/18,Koochiching,Minnesota,5,0
+2020/5/18,Lac qui Parle,Minnesota,3,0
+2020/5/18,Lake,Minnesota,1,0
+2020/5/18,Le Sueur,Minnesota,35,1
+2020/5/18,Lincoln,Minnesota,4,0
+2020/5/18,Lyon,Minnesota,26,0
+2020/5/18,Mahnomen,Minnesota,5,1
+2020/5/18,Marshall,Minnesota,8,0
+2020/5/18,Martin,Minnesota,120,5
+2020/5/18,McLeod,Minnesota,18,0
+2020/5/18,Meeker,Minnesota,36,0
+2020/5/18,Mille Lacs,Minnesota,12,1
+2020/5/18,Morrison,Minnesota,27,0
+2020/5/18,Mower,Minnesota,65,0
+2020/5/18,Murray,Minnesota,33,0
+2020/5/18,Nicollet,Minnesota,39,3
+2020/5/17,Aitkin,Minnesota,3,0
+2020/5/17,Anoka,Minnesota,821,40
+2020/5/17,Becker,Minnesota,33,0
+2020/5/17,Beltrami,Minnesota,9,0
+2020/5/17,Benton,Minnesota,131,2
+2020/5/17,Big Stone,Minnesota,2,0
+2020/5/17,Blue Earth,Minnesota,83,0
+2020/5/17,Brown,Minnesota,10,2
+2020/5/17,Carlton,Minnesota,66,0
+2020/5/17,Carver,Minnesota,113,2
+2020/5/17,Cass,Minnesota,9,2
+2020/5/17,Chippewa,Minnesota,30,0
+2020/5/17,Chisago,Minnesota,34,1
+2020/5/17,Clay,Minnesota,293,20
+2020/5/17,Clearwater,Minnesota,2,0
+2020/5/17,Cottonwood,Minnesota,56,0
+2020/5/17,Crow Wing,Minnesota,25,1
+2020/5/17,Dakota,Minnesota,742,23
+2020/5/17,Dodge,Minnesota,35,0
+2020/5/17,Douglas,Minnesota,18,0
+2020/5/17,Faribault,Minnesota,10,0
+2020/5/17,Fillmore,Minnesota,17,1
+2020/5/17,Freeborn,Minnesota,61,0
+2020/5/17,Goodhue,Minnesota,33,0
+2020/5/17,Grant,Minnesota,2,0
+2020/5/17,Hennepin,Minnesota,5158,462
+2020/5/17,Houston,Minnesota,2,0
+2020/5/17,Isanti,Minnesota,20,0
+2020/5/17,Itasca,Minnesota,46,5
+2020/5/17,Jackson,Minnesota,36,0
+2020/5/17,Kanabec,Minnesota,9,0
+2020/5/17,Kandiyohi,Minnesota,412,1
+2020/5/17,Kittson,Minnesota,1,0
+2020/5/17,Koochiching,Minnesota,3,0
+2020/5/17,Lac qui Parle,Minnesota,2,0
+2020/5/17,Lake,Minnesota,1,0
+2020/5/17,Le Sueur,Minnesota,35,1
+2020/5/17,Lincoln,Minnesota,4,0
+2020/5/17,Lyon,Minnesota,26,0
+2020/5/17,Mahnomen,Minnesota,5,1
+2020/5/17,Marshall,Minnesota,8,0
+2020/5/17,Martin,Minnesota,118,5
+2020/5/17,McLeod,Minnesota,18,0
+2020/5/17,Meeker,Minnesota,34,0
+2020/5/17,Mille Lacs,Minnesota,10,1
+2020/5/17,Morrison,Minnesota,25,0
+2020/5/17,Mower,Minnesota,58,0
+2020/5/17,Murray,Minnesota,31,0
+2020/5/17,Nicollet,Minnesota,37,3
+2020/5/17,Nobles,Minnesota,1361,2
+2020/5/17,Norman,Minnesota,11,0
+2020/5/17,Olmsted,Minnesota,448,9
+2020/4/28,McLeod,Minnesota,4,0
+2020/4/28,Martin,Minnesota,52,4
+2020/4/28,Marshall,Minnesota,1,0
+2020/4/28,Mahnomen,Minnesota,1,0
+2020/4/28,Lyon,Minnesota,6,0
+2020/4/28,Lincoln,Minnesota,2,0
+2020/4/28,Le Sueur,Minnesota,24,0
+2020/4/28,Lac qui Parle,Minnesota,1,0
+2020/4/28,Koochiching,Minnesota,1,0
+2020/4/28,Kittson,Minnesota,1,0
+2020/4/28,Kandiyohi,Minnesota,64,1
+2020/4/28,Jackson,Minnesota,9,0
+2020/4/28,Itasca,Minnesota,2,0
+2020/4/28,Isanti,Minnesota,6,0
+2020/4/28,Houston,Minnesota,1,0
+2020/4/28,Hennepin,Minnesota,1524,193
+2020/4/28,Goodhue,Minnesota,19,0
+2020/4/28,Freeborn,Minnesota,34,0
+2020/4/28,Fillmore,Minnesota,12,1
+2020/4/28,Faribault,Minnesota,4,0
+2020/4/28,Douglas,Minnesota,2,0
+2020/4/28,Dodge,Minnesota,19,0
+2020/4/28,Dakota,Minnesota,156,9
+2020/4/28,Crow Wing,Minnesota,20,1
+2020/4/28,Cottonwood,Minnesota,11,0
+2020/4/28,Clearwater,Minnesota,2,0
+2020/4/28,Clay,Minnesota,149,10
+2020/4/28,Chisago,Minnesota,9,1
+2020/4/28,Chippewa,Minnesota,2,0
+2020/4/28,Cass,Minnesota,5,0
+2020/4/28,Carver,Minnesota,19,0
+2020/4/28,Carlton,Minnesota,53,0
+2020/4/28,Brown,Minnesota,8,1
+2020/4/28,Blue Earth,Minnesota,33,0
+2020/4/28,Big Stone,Minnesota,2,0
+2020/4/28,Benton,Minnesota,6,0
+2020/4/28,Beltrami,Minnesota,6,0
+2020/4/28,Becker,Minnesota,2,0
+2020/4/28,Anoka,Minnesota,186,8
+2020/4/28,Aitkin,Minnesota,1,0
+2020/5/17,Otter Tail,Minnesota,38,0
+2020/5/17,Pennington,Minnesota,1,0
+2020/5/17,Pine,Minnesota,83,0
+2020/5/17,Pipestone,Minnesota,9,0
+2020/3/29,Anoka,Minnesota,17,0
+2020/5/5,Traverse,Minnesota,2,0
+2020/5/5,Unknown,Minnesota,20,1
+2020/5/5,Wabasha,Minnesota,10,0
+2020/5/5,Wadena,Minnesota,3,0
+2020/5/5,Waseca,Minnesota,6,0
+2020/5/5,Washington,Minnesota,162,12
+2020/5/5,Watonwan,Minnesota,15,0
+2020/5/5,Wilkin,Minnesota,12,3
+2020/5/5,Winona,Minnesota,68,15
+2020/5/5,Wright,Minnesota,60,1
+2020/5/5,Yellow Medicine,Minnesota,3,0
+2020/5/17,Polk,Minnesota,55,2
+2020/5/17,Pope,Minnesota,5,0
+2020/5/17,Ramsey,Minnesota,1530,71
+2020/5/17,Red Lake,Minnesota,3,0
+2020/5/17,Redwood,Minnesota,3,0
+2020/5/17,Renville,Minnesota,5,0
+2020/5/17,Rice,Minnesota,240,2
+2020/5/17,Rock,Minnesota,20,0
+2020/5/17,Roseau,Minnesota,1,0
+2020/5/17,Scott,Minnesota,238,1
+2020/5/17,Sherburne,Minnesota,150,2
+2020/5/18,Nobles,Minnesota,1387,2
+2020/5/18,Norman,Minnesota,11,0
+2020/5/18,Olmsted,Minnesota,461,9
+2020/5/18,Otter Tail,Minnesota,47,0
+2020/5/18,Pennington,Minnesota,2,0
+2020/5/18,Pine,Minnesota,83,0
+2020/5/18,Pipestone,Minnesota,10,0
+2020/5/18,Polk,Minnesota,56,2
+2020/4/19,Aitkin,Minnesota,1,0
+2020/4/19,Anoka,Minnesota,93,2
+2020/4/19,Becker,Minnesota,1,0
+2020/4/19,Beltrami,Minnesota,5,0
+2020/4/19,Benton,Minnesota,4,0
+2020/4/19,Big Stone,Minnesota,1,0
+2020/4/19,Blue Earth,Minnesota,23,0
+2020/4/19,Brown,Minnesota,7,1
+2020/4/19,Carlton,Minnesota,36,0
+2020/4/19,Carver,Minnesota,14,0
+2020/4/19,Cass,Minnesota,4,0
+2020/4/19,Chisago,Minnesota,7,1
+2020/4/19,Clay,Minnesota,55,2
+2020/4/19,Clearwater,Minnesota,3,0
+2020/4/19,Cottonwood,Minnesota,6,0
+2020/4/19,Crow Wing,Minnesota,19,0
+2020/4/19,Dakota,Minnesota,116,6
+2020/4/19,Dodge,Minnesota,18,0
+2020/4/19,Douglas,Minnesota,2,0
+2020/4/19,Faribault,Minnesota,4,0
+2020/4/19,Fillmore,Minnesota,10,0
+2020/4/19,Freeborn,Minnesota,34,0
+2020/4/19,Goodhue,Minnesota,19,0
+2020/4/19,Hennepin,Minnesota,924,75
+2020/4/19,Houston,Minnesota,1,0
+2020/4/19,Isanti,Minnesota,5,0
+2020/4/19,Itasca,Minnesota,2,0
+2020/4/19,Jackson,Minnesota,2,0
+2020/4/19,Kandiyohi,Minnesota,2,0
+2020/5/12,Aitkin,Minnesota,2,0
+2020/5/12,Anoka,Minnesota,613,31
+2020/5/12,Becker,Minnesota,25,0
+2020/5/12,Beltrami,Minnesota,6,0
+2020/5/12,Benton,Minnesota,100,2
+2020/5/12,Big Stone,Minnesota,2,0
+2020/5/12,Blue Earth,Minnesota,67,0
+2020/5/12,Brown,Minnesota,9,1
+2020/5/12,Carlton,Minnesota,65,0
+2020/5/12,Carver,Minnesota,95,1
+2020/5/12,Cass,Minnesota,8,2
+2020/5/12,Chippewa,Minnesota,21,0
+2020/5/12,Chisago,Minnesota,23,1
+2020/5/12,Clay,Minnesota,254,17
+2020/5/12,Clearwater,Minnesota,2,0
+2020/5/11,Scott,Minnesota,155,1
+2020/5/11,Sherburne,Minnesota,114,1
+2020/5/11,Sibley,Minnesota,4,0
+2020/5/11,St. Louis,Minnesota,96,12
+2020/5/11,Stearns,Minnesota,1443,6
+2020/5/11,Steele,Minnesota,65,0
+2020/5/11,Swift,Minnesota,8,0
+2020/5/11,Todd,Minnesota,38,0
+2020/5/11,Traverse,Minnesota,3,0
+2020/5/11,Unknown,Minnesota,25,0
+2020/5/11,Wabasha,Minnesota,13,0
+2020/5/11,Wadena,Minnesota,4,0
+2020/5/11,Waseca,Minnesota,16,0
+2020/5/11,Washington,Minnesota,256,15
+2020/5/11,Watonwan,Minnesota,25,0
+2020/5/11,Wilkin,Minnesota,11,3
+2020/5/11,Winona,Minnesota,71,15
+2020/5/11,Wright,Minnesota,110,1
+2020/5/11,Yellow Medicine,Minnesota,3,0
+2020/5/12,Cottonwood,Minnesota,47,0
+2020/5/12,Crow Wing,Minnesota,23,1
+2020/5/12,Dakota,Minnesota,508,15
+2020/5/12,Dodge,Minnesota,26,0
+2020/5/12,Douglas,Minnesota,17,0
+2020/5/12,Faribault,Minnesota,10,0
+2020/5/12,Fillmore,Minnesota,14,1
+2020/5/12,Freeborn,Minnesota,46,0
+2020/5/12,Goodhue,Minnesota,26,0
+2020/5/12,Grant,Minnesota,2,0
+2020/5/12,Hennepin,Minnesota,4033,412
+2020/5/12,Houston,Minnesota,2,0
+2020/5/12,Isanti,Minnesota,10,0
+2020/5/12,Itasca,Minnesota,35,2
+2020/5/12,Jackson,Minnesota,33,0
+2020/5/12,Kanabec,Minnesota,10,0
+2020/5/12,Kandiyohi,Minnesota,367,1
+2020/5/12,Kittson,Minnesota,1,0
+2020/5/12,Koochiching,Minnesota,2,0
+2020/5/12,Lac qui Parle,Minnesota,2,0
+2020/5/12,Lake,Minnesota,1,0
+2020/5/12,Le Sueur,Minnesota,31,1
+2020/5/12,Lincoln,Minnesota,4,0
+2020/5/12,Lyon,Minnesota,20,0
+2020/5/12,Mahnomen,Minnesota,3,1
+2020/5/12,Marshall,Minnesota,8,0
+2020/5/12,Martin,Minnesota,112,4
+2020/5/12,McLeod,Minnesota,14,0
+2020/5/12,Meeker,Minnesota,23,0
+2020/5/12,Mille Lacs,Minnesota,7,1
+2020/5/12,Morrison,Minnesota,16,0

@@ -1,0 +1,985 @@
+2020/4/29,Pima,Arizona,1215,80
+2020/4/29,Navajo,Arizona,682,18
+2020/4/29,Mohave,Arizona,105,7
+2020/4/29,Maricopa,Arizona,3723,140
+2020/4/29,La Paz,Arizona,8,2
+2020/4/29,Greenlee,Arizona,2,0
+2020/4/29,Graham,Arizona,10,0
+2020/4/29,Gila,Arizona,12,0
+2020/4/29,Coconino,Arizona,453,42
+2020/4/29,Cochise,Arizona,38,0
+2020/4/29,Apache,Arizona,392,5
+2020/3/22,Graham,Arizona,2,0
+2020/3/22,Maricopa,Arizona,81,2
+2020/3/22,Navajo,Arizona,13,0
+2020/3/22,Pima,Arizona,17,0
+2020/3/22,Pinal,Arizona,16,0
+2020/3/22,Santa Cruz,Arizona,1,0
+2020/3/22,Yavapai,Arizona,3,0
+2020/3/22,Yuma,Arizona,1,0
+2020/3/15,Graham,Arizona,1,0
+2020/3/15,Maricopa,Arizona,4,0
+2020/5/19,Yavapai,Arizona,269,5
+2020/5/19,Santa Cruz,Arizona,97,0
+2020/5/19,Pinal,Arizona,720,32
+2020/5/19,Pima,Arizona,1888,158
+2020/5/19,Navajo,Arizona,1320,48
+2020/5/19,Mohave,Arizona,262,28
+2020/5/19,Maricopa,Arizona,7482,339
+2020/5/19,La Paz,Arizona,38,2
+2020/5/19,Greenlee,Arizona,3,0
+2020/5/19,Graham,Arizona,20,0
+2020/5/19,Gila,Arizona,22,1
+2020/5/19,Coconino,Arizona,943,66
+2020/5/19,Cochise,Arizona,46,1
+2020/4/10,Yuma,Arizona,16,0
+2020/4/10,Yavapai,Arizona,62,1
+2020/4/10,Unknown,Arizona,0,5
+2020/4/10,Santa Cruz,Arizona,7,0
+2020/4/10,Pinal,Arizona,138,3
+2020/4/10,Pima,Arizona,543,20
+2020/4/10,Navajo,Arizona,287,7
+2020/4/10,Mohave,Arizona,28,2
+2020/4/10,Maricopa,Arizona,1741,41
+2020/4/10,La Paz,Arizona,4,0
+2020/4/10,Greenlee,Arizona,1,0
+2020/4/12,Navajo,Arizona,335,8
+2020/4/12,Pima,Arizona,622,29
+2020/4/12,Pinal,Arizona,163,4
+2020/3/20,Yuma,Arizona,1,0
+2020/3/20,Yavapai,Arizona,1,0
+2020/3/20,Santa Cruz,Arizona,1,0
+2020/3/20,Pinal,Arizona,10,0
+2020/3/20,Pima,Arizona,8,0
+2020/3/20,Navajo,Arizona,3,0
+2020/3/20,Maricopa,Arizona,34,1
+2020/3/20,Graham,Arizona,1,0
+2020/3/20,Coconino,Arizona,11,0
+2020/3/15,Pima,Arizona,3,0
+2020/3/15,Pinal,Arizona,5,0
+2020/4/4,Yuma,Arizona,14,0
+2020/4/4,Yavapai,Arizona,43,0
+2020/4/4,Unknown,Arizona,0,2
+2020/4/13,Apache,Arizona,89,3
+2020/4/12,Santa Cruz,Arizona,8,0
+2020/4/12,Unknown,Arizona,0,1
+2020/5/1,Apache,Arizona,478,6
+2020/5/1,Cochise,Arizona,39,0
+2020/5/1,Coconino,Arizona,498,44
+2020/5/1,Gila,Arizona,13,0
+2020/5/1,Graham,Arizona,17,0
+2020/5/1,Greenlee,Arizona,2,0
+2020/4/4,Santa Cruz,Arizona,4,0
+2020/4/4,Pinal,Arizona,89,0
+2020/4/4,Pima,Arizona,326,12
+2020/4/4,Navajo,Arizona,177,1
+2020/4/4,Mohave,Arizona,12,0
+2020/4/4,Maricopa,Arizona,1171,28
+2020/4/4,La Paz,Arizona,2,0
+2020/4/4,Greenlee,Arizona,1,0
+2020/4/4,Graham,Arizona,3,0
+2020/4/4,Gila,Arizona,3,0
+2020/4/4,Coconino,Arizona,147,10
+2020/4/4,Cochise,Arizona,7,0
+2020/4/4,Apache,Arizona,20,0
+2020/4/12,Yavapai,Arizona,63,1
+2020/4/12,Yuma,Arizona,17,0
+2020/5/2,Apache,Arizona,507,6
+2020/5/2,Cochise,Arizona,39,0
+2020/5/2,Coconino,Arizona,512,44
+2020/5/2,Gila,Arizona,14,0
+2020/5/2,Graham,Arizona,17,0
+2020/5/2,Greenlee,Arizona,2,0
+2020/5/2,La Paz,Arizona,14,2
+2020/5/2,Maricopa,Arizona,4421,159
+2020/5/2,Mohave,Arizona,127,15
+2020/5/2,Navajo,Arizona,766,22
+2020/5/2,Pima,Arizona,1300,89
+2020/5/2,Pinal,Arizona,435,13
+2020/5/2,Santa Cruz,Arizona,34,0
+2020/5/2,Yavapai,Arizona,87,2
+2020/5/2,Yuma,Arizona,89,1
+2020/5/4,Yuma,Arizona,110,1
+2020/5/4,Yavapai,Arizona,93,2
+2020/5/4,Santa Cruz,Arizona,34,0
+2020/5/4,Pinal,Arizona,468,13
+2020/5/4,Pima,Arizona,1346,89
+2020/5/4,Navajo,Arizona,800,22
+2020/5/4,Mohave,Arizona,141,15
+2020/5/4,Maricopa,Arizona,4751,168
+2020/5/4,La Paz,Arizona,14,2
+2020/5/4,Greenlee,Arizona,2,0
+2020/5/4,Graham,Arizona,18,0
+2020/5/4,Gila,Arizona,14,0
+2020/5/4,Coconino,Arizona,540,44
+2020/5/4,Cochise,Arizona,39,0
+2020/5/4,Apache,Arizona,549,6
+2020/5/1,Yuma,Arizona,82,1
+2020/5/1,Yavapai,Arizona,82,2
+2020/4/17,Yuma,Arizona,23,1
+2020/4/17,Yavapai,Arizona,69,1
+2020/4/17,Santa Cruz,Arizona,15,0
+2020/4/17,Pinal,Arizona,212,5
+2020/4/17,Pima,Arizona,819,51
+2020/4/17,Navajo,Arizona,435,11
+2020/4/27,Apache,Arizona,362,5
+2020/4/27,Cochise,Arizona,36,0
+2020/4/27,Coconino,Arizona,425,40
+2020/4/27,Gila,Arizona,11,0
+2020/4/27,Graham,Arizona,9,0
+2020/4/27,Greenlee,Arizona,2,0
+2020/4/27,La Paz,Arizona,7,1
+2020/4/27,Maricopa,Arizona,3457,122
+2020/5/5,Apache,Arizona,576,7
+2020/5/5,Cochise,Arizona,39,0
+2020/5/5,Coconino,Arizona,561,46
+2020/4/27,Mohave,Arizona,96,4
+2020/5/5,Gila,Arizona,14,0
+2020/5/5,Graham,Arizona,19,0
+2020/5/5,Greenlee,Arizona,2,0
+2020/5/5,La Paz,Arizona,16,2
+2020/5/5,Maricopa,Arizona,4929,175
+2020/5/5,Mohave,Arizona,147,16
+2020/5/5,Navajo,Arizona,869,26
+2020/5/5,Pima,Arizona,1379,105
+2020/5/5,Pinal,Arizona,478,15
+2020/5/5,Santa Cruz,Arizona,35,0
+2020/5/5,Yavapai,Arizona,126,2
+2020/5/5,Yuma,Arizona,115,1
+2020/4/27,Navajo,Arizona,628,18
+2020/4/27,Pima,Arizona,1164,76
+2020/4/27,Pinal,Arizona,359,9
+2020/4/27,Santa Cruz,Arizona,30,0
+2020/4/27,Yavapai,Arizona,77,1
+2020/4/27,Yuma,Arizona,53,1
+2020/3/11,Maricopa,Arizona,3,0
+2020/3/11,Pima,Arizona,1,0
+2020/3/11,Pinal,Arizona,5,0
+2020/3/24,Navajo,Arizona,32,0
+2020/3/24,Pima,Arizona,42,0
+2020/3/24,Pinal,Arizona,22,0
+2020/3/24,Santa Cruz,Arizona,1,0
+2020/3/24,Yavapai,Arizona,3,0
+2020/3/24,Yuma,Arizona,2,0
+2020/3/19,Yavapai,Arizona,1,0
+2020/3/19,Santa Cruz,Arizona,1,0
+2020/3/19,Pinal,Arizona,10,0
+2020/3/19,Pima,Arizona,7,0
+2020/5/13,Yuma,Arizona,243,3
+2020/5/13,Yavapai,Arizona,227,4
+2020/5/13,Santa Cruz,Arizona,50,0
+2020/3/19,Navajo,Arizona,3,0
+2020/3/19,Maricopa,Arizona,22,0
+2020/5/18,Yuma,Arizona,405,4
+2020/5/18,Yavapai,Arizona,267,5
+2020/5/18,Santa Cruz,Arizona,78,0
+2020/5/18,Pinal,Arizona,702,31
+2020/5/18,Pima,Arizona,1825,157
+2020/5/18,Navajo,Arizona,1285,48
+2020/5/18,Mohave,Arizona,251,28
+2020/5/18,Maricopa,Arizona,7340,324
+2020/5/18,La Paz,Arizona,38,2
+2020/5/18,Greenlee,Arizona,2,0
+2020/5/18,Graham,Arizona,20,0
+2020/5/18,Gila,Arizona,22,1
+2020/5/18,Coconino,Arizona,901,65
+2020/5/18,Cochise,Arizona,46,1
+2020/5/18,Apache,Arizona,988,20
+2020/5/1,La Paz,Arizona,15,2
+2020/5/1,Maricopa,Arizona,4156,147
+2020/5/1,Mohave,Arizona,122,13
+2020/5/1,Navajo,Arizona,741,21
+2020/5/1,Pima,Arizona,1267,81
+2020/5/1,Pinal,Arizona,417,13
+2020/5/1,Santa Cruz,Arizona,33,0
+2020/3/12,Maricopa,Arizona,3,0
+2020/3/12,Pima,Arizona,1,0
+2020/3/12,Pinal,Arizona,5,0
+2020/3/19,Graham,Arizona,1,0
+2020/3/19,Coconino,Arizona,2,0
+2020/4/30,Apache,Arizona,449,6
+2020/4/30,Cochise,Arizona,39,0
+2020/4/30,Coconino,Arizona,486,42
+2020/4/30,Gila,Arizona,13,0
+2020/4/30,Graham,Arizona,16,0
+2020/5/11,Yuma,Arizona,196,3
+2020/4/30,Greenlee,Arizona,2,0
+2020/4/30,La Paz,Arizona,14,2
+2020/5/11,Yavapai,Arizona,180,4
+2020/5/11,Santa Cruz,Arizona,45,0
+2020/5/11,Pinal,Arizona,620,19
+2020/5/11,Pima,Arizona,1602,134
+2020/5/11,Navajo,Arizona,1006,37
+2020/5/11,Mohave,Arizona,198,25
+2020/3/29,Apache,Arizona,13,0
+2020/3/29,Cochise,Arizona,3,0
+2020/3/29,Coconino,Arizona,68,2
+2020/3/29,Gila,Arizona,1,0
+2020/3/29,Graham,Arizona,2,0
+2020/3/29,La Paz,Arizona,2,0
+2020/3/29,Maricopa,Arizona,546,5
+2020/3/29,Mohave,Arizona,6,0
+2020/3/29,Navajo,Arizona,62,0
+2020/3/29,Pima,Arizona,153,6
+2020/3/29,Pinal,Arizona,51,0
+2020/3/29,Santa Cruz,Arizona,2,0
+2020/4/30,Maricopa,Arizona,3972,145
+2020/4/30,Mohave,Arizona,117,10
+2020/4/30,Navajo,Arizona,712,21
+2020/4/30,Pima,Arizona,1241,80
+2020/4/30,Pinal,Arizona,397,11
+2020/4/30,Santa Cruz,Arizona,33,0
+2020/3/29,Yavapai,Arizona,12,0
+2020/3/29,Yuma,Arizona,9,0
+2020/2/28,Maricopa,Arizona,1,0
+2020/4/30,Yavapai,Arizona,79,2
+2020/4/30,Yuma,Arizona,78,1
+2020/5/8,Apache,Arizona,671,10
+2020/5/8,Cochise,Arizona,41,1
+2020/5/8,Coconino,Arizona,659,55
+2020/5/8,Gila,Arizona,19,1
+2020/5/8,Graham,Arizona,18,0
+2020/5/8,Greenlee,Arizona,2,0
+2020/5/8,La Paz,Arizona,22,2
+2020/5/8,Maricopa,Arizona,5525,238
+2020/5/11,Maricopa,Arizona,5988,250
+2020/5/11,La Paz,Arizona,23,2
+2020/5/11,Greenlee,Arizona,2,0
+2020/5/11,Graham,Arizona,19,0
+2020/5/11,Gila,Arizona,19,1
+2020/5/11,Coconino,Arizona,713,56
+2020/2/29,Maricopa,Arizona,1,0
+2020/5/8,Mohave,Arizona,171,20
+2020/5/8,Navajo,Arizona,945,35
+2020/5/8,Pima,Arizona,1520,131
+2020/5/8,Pinal,Arizona,566,19
+2020/5/8,Santa Cruz,Arizona,38,0
+2020/5/8,Yavapai,Arizona,170,4
+2020/5/8,Yuma,Arizona,159,1
+2020/1/27,Maricopa,Arizona,1,0
+2020/1/26,Maricopa,Arizona,1,0
+2020/2/16,Maricopa,Arizona,1,0
+2020/2/15,Maricopa,Arizona,1,0
+2020/5/11,Cochise,Arizona,42,1
+2020/5/11,Apache,Arizona,727,10
+2020/3/1,Maricopa,Arizona,1,0
+2020/2/14,Maricopa,Arizona,1,0
+2020/2/13,Maricopa,Arizona,1,0
+2020/3/7,Pinal,Arizona,3,0
+2020/3/7,Maricopa,Arizona,2,0
+2020/4/8,La Paz,Arizona,3,0
+2020/4/8,Maricopa,Arizona,1559,37
+2020/3/6,Pinal,Arizona,1,0
+2020/3/6,Maricopa,Arizona,2,0
+2020/4/8,Mohave,Arizona,23,1
+2020/4/8,Navajo,Arizona,240,7
+2020/3/5,Maricopa,Arizona,2,0
+2020/3/27,Yuma,Arizona,4,0
+2020/3/27,Yavapai,Arizona,9,0
+2020/3/27,Santa Cruz,Arizona,2,0
+2020/3/27,Pinal,Arizona,36,0
+2020/3/27,Pima,Arizona,102,4
+2020/3/27,Navajo,Arizona,49,0
+2020/3/27,Mohave,Arizona,4,0
+2020/3/2,Maricopa,Arizona,1,0
+2020/5/17,Apache,Arizona,981,20
+2020/5/17,Cochise,Arizona,46,1
+2020/5/17,Coconino,Arizona,866,64
+2020/5/17,Gila,Arizona,22,1
+2020/3/27,Maricopa,Arizona,399,5
+2020/3/27,La Paz,Arizona,2,0
+2020/3/27,Graham,Arizona,4,0
+2020/3/27,Coconino,Arizona,41,2
+2020/3/27,Cochise,Arizona,2,0
+2020/3/27,Apache,Arizona,11,0
+2020/3/3,Maricopa,Arizona,2,0
+2020/5/17,Graham,Arizona,20,0
+2020/5/17,Greenlee,Arizona,2,0
+2020/5/17,La Paz,Arizona,38,2
+2020/5/17,Maricopa,Arizona,7240,319
+2020/5/17,Mohave,Arizona,250,28
+2020/5/17,Navajo,Arizona,1273,48
+2020/5/17,Pima,Arizona,1814,157
+2020/5/17,Pinal,Arizona,693,31
+2020/5/17,Santa Cruz,Arizona,75,0
+2020/5/17,Yavapai,Arizona,262,5
+2020/5/17,Yuma,Arizona,355,4
+2020/4/8,Pima,Arizona,464,16
+2020/4/8,Pinal,Arizona,124,0
+2020/4/8,Santa Cruz,Arizona,6,0
+2020/4/8,Yavapai,Arizona,58,1
+2020/4/8,Yuma,Arizona,14,0
+2020/5/10,Yuma,Arizona,191,3
+2020/5/10,Yavapai,Arizona,177,4
+2020/5/10,Santa Cruz,Arizona,44,0
+2020/5/10,Pinal,Arizona,600,19
+2020/5/10,Pima,Arizona,1585,134
+2020/5/10,Navajo,Arizona,983,36
+2020/3/4,Maricopa,Arizona,2,0
+2020/5/10,Mohave,Arizona,193,24
+2020/5/10,Maricopa,Arizona,5827,247
+2020/5/10,La Paz,Arizona,23,2
+2020/5/10,Greenlee,Arizona,2,0
+2020/5/10,Graham,Arizona,19,0
+2020/5/10,Gila,Arizona,19,1
+2020/5/10,Coconino,Arizona,699,55
+2020/5/10,Cochise,Arizona,41,1
+2020/5/10,Apache,Arizona,716,10
+2020/2/8,Maricopa,Arizona,1,0
+2020/4/28,Apache,Arizona,380,5
+2020/4/25,Yuma,Arizona,47,1
+2020/4/28,Cochise,Arizona,37,0
+2020/2/9,Maricopa,Arizona,1,0
+2020/4/28,Coconino,Arizona,439,42
+2020/4/28,Gila,Arizona,11,0
+2020/4/28,Graham,Arizona,9,0
+2020/4/28,Greenlee,Arizona,2,0
+2020/4/25,Yavapai,Arizona,76,1
+2020/4/28,La Paz,Arizona,7,2
+2020/2/10,Maricopa,Arizona,1,0
+2020/4/28,Maricopa,Arizona,3578,137
+2020/4/28,Mohave,Arizona,99,4
+2020/4/28,Navajo,Arizona,665,18
+2020/4/28,Pima,Arizona,1188,78
+2020/4/28,Pinal,Arizona,365,9
+2020/4/25,Santa Cruz,Arizona,30,0
+2020/4/28,Santa Cruz,Arizona,31,0
+2020/2/11,Maricopa,Arizona,1,0
+2020/4/28,Yavapai,Arizona,77,1
+2020/4/28,Yuma,Arizona,60,1
+2020/4/25,Pinal,Arizona,332,9
+2020/2/12,Maricopa,Arizona,1,0
+2020/2/2,Maricopa,Arizona,1,0
+2020/2/1,Maricopa,Arizona,1,0
+2020/4/25,Pima,Arizona,1090,76
+2020/1/31,Maricopa,Arizona,1,0
+2020/1/30,Maricopa,Arizona,1,0
+2020/1/29,Maricopa,Arizona,1,0
+2020/1/28,Maricopa,Arizona,1,0
+2020/4/23,Apache,Arizona,268,5
+2020/4/23,Cochise,Arizona,31,0
+2020/4/23,Coconino,Arizona,372,35
+2020/4/23,Gila,Arizona,12,0
+2020/4/23,Graham,Arizona,4,0
+2020/4/23,Greenlee,Arizona,2,0
+2020/4/23,La Paz,Arizona,6,1
+2020/4/23,Maricopa,Arizona,2970,115
+2020/4/23,Mohave,Arizona,69,3
+2020/4/23,Navajo,Arizona,564,13
+2020/4/23,Pima,Arizona,1026,70
+2020/4/23,Pinal,Arizona,303,8
+2020/4/23,Santa Cruz,Arizona,28,0
+2020/4/23,Yavapai,Arizona,75,1
+2020/4/23,Yuma,Arizona,39,1
+2020/4/9,Apache,Arizona,52,3
+2020/4/9,Cochise,Arizona,11,0
+2020/4/9,Coconino,Arizona,210,15
+2020/4/9,Gila,Arizona,3,0
+2020/4/9,Graham,Arizona,2,0
+2020/4/9,Greenlee,Arizona,1,0
+2020/4/9,La Paz,Arizona,4,0
+2020/4/9,Maricopa,Arizona,1689,39
+2020/4/9,Mohave,Arizona,27,1
+2020/4/9,Navajo,Arizona,286,7
+2020/4/9,Pima,Arizona,512,20
+2020/4/9,Pinal,Arizona,137,3
+2020/4/9,Santa Cruz,Arizona,7,0
+2020/4/9,Yavapai,Arizona,62,1
+2020/4/9,Yuma,Arizona,15,0
+2020/4/22,Apache,Arizona,235,5
+2020/4/22,Cochise,Arizona,31,0
+2020/4/22,Coconino,Arizona,353,35
+2020/4/22,Gila,Arizona,10,0
+2020/4/22,Graham,Arizona,2,0
+2020/4/22,Greenlee,Arizona,2,0
+2020/4/22,La Paz,Arizona,6,1
+2020/4/22,Maricopa,Arizona,2846,97
+2020/4/22,Mohave,Arizona,62,3
+2020/4/22,Navajo,Arizona,527,12
+2020/4/22,Pima,Arizona,973,68
+2020/4/22,Pinal,Arizona,283,8
+2020/4/22,Santa Cruz,Arizona,28,0
+2020/4/22,Yavapai,Arizona,73,1
+2020/4/22,Yuma,Arizona,28,1
+2020/4/10,Graham,Arizona,2,0
+2020/4/10,Gila,Arizona,3,0
+2020/4/10,Coconino,Arizona,214,15
+2020/4/10,Cochise,Arizona,11,0
+2020/4/10,Apache,Arizona,55,3
+2020/5/19,Apache,Arizona,1023,20
+2020/4/7,Apache,Arizona,28,0
+2020/4/7,Cochise,Arizona,9,0
+2020/4/7,Coconino,Arizona,179,14
+2020/4/7,Gila,Arizona,3,0
+2020/4/7,Graham,Arizona,2,0
+2020/4/7,Greenlee,Arizona,1,0
+2020/4/7,La Paz,Arizona,3,0
+2020/4/19,Apache,Arizona,178,4
+2020/4/19,Cochise,Arizona,24,0
+2020/4/19,Coconino,Arizona,333,30
+2020/4/19,Gila,Arizona,7,0
+2020/4/20,Yuma,Arizona,27,1
+2020/4/20,Yavapai,Arizona,71,1
+2020/4/20,Santa Cruz,Arizona,20,0
+2020/4/20,Pinal,Arizona,256,7
+2020/4/20,Pima,Arizona,941,58
+2020/4/20,Navajo,Arizona,473,11
+2020/4/20,Mohave,Arizona,56,3
+2020/4/20,Maricopa,Arizona,2636,75
+2020/4/20,La Paz,Arizona,5,1
+2020/4/20,Greenlee,Arizona,2,0
+2020/4/20,Graham,Arizona,2,0
+2020/4/20,Gila,Arizona,8,0
+2020/4/20,Coconino,Arizona,337,30
+2020/4/20,Cochise,Arizona,28,0
+2020/4/20,Apache,Arizona,202,4
+2020/4/19,Graham,Arizona,2,0
+2020/5/14,Apache,Arizona,859,12
+2020/5/14,Cochise,Arizona,44,1
+2020/4/7,Maricopa,Arizona,1495,35
+2020/4/7,Mohave,Arizona,23,1
+2020/4/7,Navajo,Arizona,222,1
+2020/4/7,Pima,Arizona,415,13
+2020/4/7,Pinal,Arizona,120,0
+2020/4/7,Santa Cruz,Arizona,5,0
+2020/4/7,Unknown,Arizona,0,12
+2020/4/19,Greenlee,Arizona,2,0
+2020/4/7,Yavapai,Arizona,57,1
+2020/4/7,Yuma,Arizona,15,0
+2020/5/14,Yuma,Arizona,285,4
+2020/3/8,Pinal,Arizona,3,0
+2020/3/8,Maricopa,Arizona,2,0
+2020/4/24,Apache,Arizona,296,5
+2020/4/24,Cochise,Arizona,34,0
+2020/4/24,Coconino,Arizona,391,36
+2020/4/24,Gila,Arizona,11,0
+2020/4/24,Graham,Arizona,7,0
+2020/4/24,Greenlee,Arizona,2,0
+2020/4/24,La Paz,Arizona,8,1
+2020/4/24,Maricopa,Arizona,3116,120
+2020/4/24,Mohave,Arizona,73,3
+2020/4/24,Navajo,Arizona,583,18
+2020/4/24,Pima,Arizona,1060,74
+2020/4/24,Pinal,Arizona,317,9
+2020/4/25,Navajo,Arizona,612,18
+2020/4/25,Mohave,Arizona,81,3
+2020/4/25,Maricopa,Arizona,3234,121
+2020/4/25,La Paz,Arizona,7,1
+2020/4/25,Greenlee,Arizona,2,0
+2020/4/25,Graham,Arizona,6,0
+2020/4/25,Gila,Arizona,11,0
+2020/4/25,Coconino,Arizona,402,40
+2020/4/25,Cochise,Arizona,36,0
+2020/4/25,Apache,Arizona,314,5
+2020/4/8,Greenlee,Arizona,1,0
+2020/4/8,Graham,Arizona,2,0
+2020/4/8,Gila,Arizona,3,0
+2020/4/8,Coconino,Arizona,186,14
+2020/4/8,Cochise,Arizona,9,0
+2020/4/8,Apache,Arizona,34,3
+2020/4/17,Apache,Arizona,141,4
+2020/4/17,Cochise,Arizona,20,0
+2020/4/17,Coconino,Arizona,304,29
+2020/4/17,Gila,Arizona,5,0
+2020/4/17,Graham,Arizona,2,0
+2020/4/24,Santa Cruz,Arizona,30,0
+2020/4/24,Yavapai,Arizona,75,1
+2020/4/24,Yuma,Arizona,42,1
+2020/3/31,Yuma,Arizona,12,0
+2020/3/31,Yavapai,Arizona,24,0
+2020/3/31,Santa Cruz,Arizona,2,0
+2020/3/31,Pinal,Arizona,62,0
+2020/3/31,Pima,Arizona,202,6
+2020/3/31,Navajo,Arizona,91,0
+2020/3/31,Mohave,Arizona,7,0
+2020/3/31,Maricopa,Arizona,791,8
+2020/3/31,La Paz,Arizona,2,0
+2020/4/17,Greenlee,Arizona,2,0
+2020/4/17,La Paz,Arizona,5,1
+2020/4/17,Maricopa,Arizona,2404,69
+2020/3/31,Greenlee,Arizona,1,0
+2020/3/31,Graham,Arizona,2,0
+2020/3/31,Gila,Arizona,1,0
+2020/3/31,Coconino,Arizona,81,3
+2020/3/31,Cochise,Arizona,4,0
+2020/3/31,Apache,Arizona,16,0
+2020/5/14,Yavapai,Arizona,243,4
+2020/5/14,Santa Cruz,Arizona,62,0
+2020/5/14,Pinal,Arizona,650,28
+2020/5/14,Pima,Arizona,1696,152
+2020/4/16,Apache,Arizona,118,4
+2020/4/16,Cochise,Arizona,18,0
+2020/4/16,Coconino,Arizona,299,26
+2020/4/16,Gila,Arizona,5,0
+2020/4/16,Graham,Arizona,2,0
+2020/4/16,Greenlee,Arizona,2,0
+2020/4/16,La Paz,Arizona,5,1
+2020/4/16,Maricopa,Arizona,2264,64
+2020/4/16,Mohave,Arizona,51,2
+2020/4/16,Navajo,Arizona,410,11
+2020/4/16,Pima,Arizona,760,37
+2020/4/16,Pinal,Arizona,197,5
+2020/4/16,Santa Cruz,Arizona,14,0
+2020/4/16,Yavapai,Arizona,68,1
+2020/4/16,Yuma,Arizona,21,1
+2020/4/19,La Paz,Arizona,5,1
+2020/4/19,Maricopa,Arizona,2589,75
+2020/4/19,Mohave,Arizona,54,2
+2020/4/19,Navajo,Arizona,459,11
+2020/4/19,Pima,Arizona,913,56
+2020/3/25,Apache,Arizona,7,0
+2020/3/25,Cochise,Arizona,1,0
+2020/3/25,Coconino,Arizona,23,1
+2020/3/25,Graham,Arizona,2,0
+2020/3/25,Maricopa,Arizona,251,2
+2020/3/25,Navajo,Arizona,37,0
+2020/3/25,Pima,Arizona,49,0
+2020/3/24,Apache,Arizona,4,0
+2020/3/24,Cochise,Arizona,1,0
+2020/3/24,Coconino,Arizona,18,1
+2020/3/24,Graham,Arizona,2,0
+2020/3/24,Maricopa,Arizona,199,2
+2020/5/13,Pinal,Arizona,643,20
+2020/5/13,Pima,Arizona,1661,144
+2020/5/13,Navajo,Arizona,1099,42
+2020/5/13,Mohave,Arizona,213,26
+2020/5/13,Maricopa,Arizona,6341,281
+2020/5/13,La Paz,Arizona,25,2
+2020/5/14,Navajo,Arizona,1150,43
+2020/5/14,Mohave,Arizona,220,26
+2020/5/14,Maricopa,Arizona,6599,292
+2020/5/14,La Paz,Arizona,27,2
+2020/5/14,Greenlee,Arizona,2,0
+2020/5/14,Graham,Arizona,21,0
+2020/5/14,Gila,Arizona,21,1
+2020/5/14,Coconino,Arizona,795,59
+2020/2/21,Maricopa,Arizona,1,0
+2020/2/22,Maricopa,Arizona,1,0
+2020/2/23,Maricopa,Arizona,1,0
+2020/2/24,Maricopa,Arizona,1,0
+2020/2/25,Maricopa,Arizona,1,0
+2020/2/26,Maricopa,Arizona,1,0
+2020/2/27,Maricopa,Arizona,1,0
+2020/4/17,Mohave,Arizona,51,2
+2020/4/13,Cochise,Arizona,16,0
+2020/4/13,Coconino,Arizona,253,21
+2020/4/13,Gila,Arizona,3,0
+2020/4/13,Graham,Arizona,2,0
+2020/4/13,Greenlee,Arizona,2,0
+2020/4/13,La Paz,Arizona,4,0
+2020/4/13,Maricopa,Arizona,2020,52
+2020/4/13,Mohave,Arizona,40,2
+2020/4/13,Navajo,Arizona,345,8
+2020/4/13,Pima,Arizona,668,29
+2020/4/13,Pinal,Arizona,168,4
+2020/4/13,Santa Cruz,Arizona,10,0
+2020/4/13,Unknown,Arizona,0,1
+2020/4/13,Yavapai,Arizona,65,1
+2020/4/13,Yuma,Arizona,17,1
+2020/2/3,Maricopa,Arizona,1,0
+2020/2/4,Maricopa,Arizona,1,0
+2020/2/5,Maricopa,Arizona,1,0
+2020/2/6,Maricopa,Arizona,1,0
+2020/2/7,Maricopa,Arizona,1,0
+2020/5/13,Greenlee,Arizona,2,0
+2020/5/13,Graham,Arizona,21,0
+2020/5/13,Gila,Arizona,19,1
+2020/3/13,Maricopa,Arizona,3,0
+2020/3/13,Pima,Arizona,1,0
+2020/5/13,Coconino,Arizona,772,58
+2020/3/16,Pinal,Arizona,5,0
+2020/3/16,Pima,Arizona,4,0
+2020/3/16,Maricopa,Arizona,8,0
+2020/3/16,Graham,Arizona,1,0
+2020/3/30,Yuma,Arizona,12,0
+2020/3/30,Yavapai,Arizona,19,0
+2020/3/30,Santa Cruz,Arizona,2,0
+2020/3/30,Pinal,Arizona,64,0
+2020/3/30,Pima,Arizona,187,6
+2020/3/30,Navajo,Arizona,88,0
+2020/3/30,Mohave,Arizona,7,0
+2020/3/30,Maricopa,Arizona,690,5
+2020/3/30,La Paz,Arizona,2,0
+2020/3/30,Greenlee,Arizona,1,0
+2020/3/30,Graham,Arizona,2,0
+2020/3/30,Gila,Arizona,1,0
+2020/3/30,Coconino,Arizona,73,3
+2020/3/30,Cochise,Arizona,4,0
+2020/3/30,Apache,Arizona,17,0
+2020/5/16,Apache,Arizona,962,20
+2020/5/16,Cochise,Arizona,46,1
+2020/5/16,Coconino,Arizona,839,64
+2020/5/16,Gila,Arizona,22,1
+2020/5/16,Graham,Arizona,20,0
+2020/5/16,Greenlee,Arizona,2,0
+2020/5/16,La Paz,Arizona,37,2
+2020/5/13,Cochise,Arizona,43,1
+2020/5/13,Apache,Arizona,817,12
+2020/4/3,Yuma,Arizona,13,0
+2020/4/3,Yavapai,Arizona,35,0
+2020/4/3,Unknown,Arizona,0,4
+2020/4/3,Santa Cruz,Arizona,3,0
+2020/4/14,Yuma,Arizona,17,1
+2020/4/14,Yavapai,Arizona,70,1
+2020/4/14,Unknown,Arizona,0,1
+2020/4/3,Pinal,Arizona,77,0
+2020/4/3,Pima,Arizona,280,11
+2020/4/3,Navajo,Arizona,148,1
+2020/4/3,Mohave,Arizona,9,0
+2020/4/3,Maricopa,Arizona,1049,17
+2020/4/3,La Paz,Arizona,2,0
+2020/4/3,Greenlee,Arizona,1,0
+2020/4/3,Graham,Arizona,2,0
+2020/4/3,Gila,Arizona,2,0
+2020/4/3,Coconino,Arizona,126,8
+2020/4/3,Cochise,Arizona,5,0
+2020/5/3,Apache,Arizona,526,6
+2020/5/3,Cochise,Arizona,39,0
+2020/5/3,Coconino,Arizona,527,44
+2020/5/3,Gila,Arizona,14,0
+2020/5/3,Graham,Arizona,18,0
+2020/5/3,Greenlee,Arizona,2,0
+2020/5/3,La Paz,Arizona,14,2
+2020/5/3,Maricopa,Arizona,4585,168
+2020/5/3,Mohave,Arizona,135,15
+2020/5/3,Navajo,Arizona,777,22
+2020/5/3,Pima,Arizona,1326,89
+2020/5/3,Pinal,Arizona,456,13
+2020/5/3,Santa Cruz,Arizona,34,0
+2020/5/3,Yavapai,Arizona,89,2
+2020/5/3,Yuma,Arizona,98,1
+2020/4/15,Apache,Arizona,110,4
+2020/4/15,Cochise,Arizona,15,0
+2020/4/15,Coconino,Arizona,266,24
+2020/4/15,Gila,Arizona,3,0
+2020/4/15,Graham,Arizona,2,0
+2020/4/15,Greenlee,Arizona,2,0
+2020/4/15,La Paz,Arizona,5,1
+2020/4/15,Maricopa,Arizona,2146,60
+2020/4/15,Mohave,Arizona,45,2
+2020/4/15,Navajo,Arizona,390,10
+2020/4/15,Pima,Arizona,700,34
+2020/4/15,Pinal,Arizona,182,5
+2020/4/15,Santa Cruz,Arizona,12,0
+2020/4/15,Yavapai,Arizona,66,1
+2020/4/15,Yuma,Arizona,18,1
+2020/3/23,Apache,Arizona,4,0
+2020/3/23,Cochise,Arizona,1,0
+2020/3/23,Coconino,Arizona,17,0
+2020/3/23,Graham,Arizona,2,0
+2020/3/23,Maricopa,Arizona,139,2
+2020/3/23,Navajo,Arizona,25,0
+2020/4/26,Yuma,Arizona,51,1
+2020/4/26,Yavapai,Arizona,76,1
+2020/4/26,Santa Cruz,Arizona,30,0
+2020/4/26,Pinal,Arizona,342,9
+2020/4/26,Pima,Arizona,1136,76
+2020/4/26,Navajo,Arizona,625,18
+2020/4/26,Mohave,Arizona,88,4
+2020/4/26,Maricopa,Arizona,3359,122
+2020/4/26,La Paz,Arizona,7,1
+2020/4/26,Greenlee,Arizona,2,0
+2020/4/26,Graham,Arizona,7,0
+2020/4/26,Gila,Arizona,11,0
+2020/4/26,Coconino,Arizona,420,40
+2020/4/26,Cochise,Arizona,36,0
+2020/4/26,Apache,Arizona,336,5
+2020/3/25,Pinal,Arizona,23,0
+2020/3/25,Santa Cruz,Arizona,2,0
+2020/3/25,Yavapai,Arizona,4,0
+2020/3/26,Maricopa,Arizona,299,4
+2020/3/26,La Paz,Arizona,2,0
+2020/3/26,Graham,Arizona,2,0
+2020/3/26,Coconino,Arizona,28,2
+2020/3/26,Cochise,Arizona,2,0
+2020/3/26,Apache,Arizona,9,0
+2020/3/25,Yuma,Arizona,3,0
+2020/3/28,Yuma,Arizona,4,0
+2020/3/28,Yavapai,Arizona,13,0
+2020/3/28,Santa Cruz,Arizona,2,0
+2020/3/28,Pinal,Arizona,41,0
+2020/3/28,Pima,Arizona,120,5
+2020/5/16,Maricopa,Arizona,7096,319
+2020/5/16,Mohave,Arizona,250,27
+2020/5/16,Navajo,Arizona,1238,48
+2020/5/16,Pima,Arizona,1781,157
+2020/5/16,Pinal,Arizona,678,31
+2020/5/16,Santa Cruz,Arizona,72,0
+2020/5/16,Yavapai,Arizona,260,5
+2020/5/16,Yuma,Arizona,328,4
+2020/3/28,Navajo,Arizona,57,0
+2020/3/28,Mohave,Arizona,5,0
+2020/3/28,Maricopa,Arizona,454,5
+2020/3/28,La Paz,Arizona,2,0
+2020/3/28,Graham,Arizona,2,0
+2020/3/28,Gila,Arizona,1,0
+2020/3/28,Coconino,Arizona,56,2
+2020/3/28,Cochise,Arizona,3,0
+2020/3/28,Apache,Arizona,13,0
+2020/4/19,Pinal,Arizona,247,7
+2020/4/19,Santa Cruz,Arizona,19,0
+2020/4/19,Yavapai,Arizona,72,1
+2020/4/19,Yuma,Arizona,25,1
+2020/5/12,Greenlee,Arizona,2,0
+2020/5/12,La Paz,Arizona,22,2
+2020/5/12,Maricopa,Arizona,6219,259
+2020/5/12,Mohave,Arizona,207,26
+2020/5/12,Navajo,Arizona,1017,41
+2020/5/12,Pima,Arizona,1623,136
+2020/5/12,Pinal,Arizona,636,20
+2020/5/12,Santa Cruz,Arizona,51,0
+2020/5/12,Yavapai,Arizona,206,4
+2020/5/12,Yuma,Arizona,207,3
+2020/4/18,Yuma,Arizona,24,1
+2020/4/18,Yavapai,Arizona,72,1
+2020/4/18,Santa Cruz,Arizona,16,0
+2020/4/18,Pinal,Arizona,235,6
+2020/4/18,Pima,Arizona,856,56
+2020/4/18,Navajo,Arizona,452,11
+2020/4/18,Mohave,Arizona,52,2
+2020/4/18,Maricopa,Arizona,2491,70
+2020/4/18,La Paz,Arizona,5,1
+2020/4/18,Greenlee,Arizona,2,0
+2020/4/18,Graham,Arizona,2,0
+2020/4/18,Gila,Arizona,7,0
+2020/4/18,Coconino,Arizona,314,29
+2020/4/18,Cochise,Arizona,22,0
+2020/4/18,Apache,Arizona,169,4
+2020/3/13,Pinal,Arizona,5,0
+2020/3/23,Pima,Arizona,24,0
+2020/3/23,Pinal,Arizona,17,0
+2020/3/23,Santa Cruz,Arizona,1,0
+2020/3/23,Yavapai,Arizona,3,0
+2020/3/23,Yuma,Arizona,1,0
+2020/4/3,Apache,Arizona,17,0
+2020/4/11,Yuma,Arizona,15,0
+2020/4/11,Yavapai,Arizona,63,1
+2020/4/11,Unknown,Arizona,0,5
+2020/4/11,Santa Cruz,Arizona,8,0
+2020/4/11,Pinal,Arizona,146,3
+2020/4/11,Pima,Arizona,591,29
+2020/4/11,Navajo,Arizona,321,7
+2020/4/11,Mohave,Arizona,30,2
+2020/4/11,Maricopa,Arizona,1891,47
+2020/4/11,La Paz,Arizona,4,0
+2020/2/17,Maricopa,Arizona,1,0
+2020/2/18,Maricopa,Arizona,1,0
+2020/2/19,Maricopa,Arizona,1,0
+2020/2/20,Maricopa,Arizona,1,0
+2020/3/21,Apache,Arizona,3,0
+2020/3/21,Cochise,Arizona,1,0
+2020/3/21,Coconino,Arizona,11,0
+2020/3/21,Graham,Arizona,1,0
+2020/3/21,Maricopa,Arizona,49,1
+2020/3/21,Navajo,Arizona,10,0
+2020/3/21,Pima,Arizona,12,0
+2020/3/21,Pinal,Arizona,14,0
+2020/3/21,Santa Cruz,Arizona,1,0
+2020/3/21,Yavapai,Arizona,1,0
+2020/3/21,Yuma,Arizona,1,0
+2020/3/10,Pinal,Arizona,3,0
+2020/3/10,Pima,Arizona,1,0
+2020/3/10,Maricopa,Arizona,2,0
+2020/3/9,Pinal,Arizona,3,0
+2020/3/9,Pima,Arizona,1,0
+2020/3/9,Maricopa,Arizona,2,0
+2020/3/14,Pinal,Arizona,5,0
+2020/3/14,Pima,Arizona,2,0
+2020/3/14,Maricopa,Arizona,4,0
+2020/3/14,Graham,Arizona,1,0
+2020/5/15,Apache,Arizona,927,16
+2020/5/15,Cochise,Arizona,45,1
+2020/5/15,Coconino,Arizona,823,62
+2020/5/15,Gila,Arizona,22,1
+2020/5/15,Graham,Arizona,21,0
+2020/5/15,Greenlee,Arizona,2,0
+2020/5/15,La Paz,Arizona,36,2
+2020/5/15,Maricopa,Arizona,6821,302
+2020/5/15,Mohave,Arizona,242,27
+2020/5/15,Navajo,Arizona,1177,48
+2020/5/15,Pima,Arizona,1750,155
+2020/4/14,Santa Cruz,Arizona,10,0
+2020/4/14,Pinal,Arizona,175,5
+2020/4/14,Pima,Arizona,685,32
+2020/4/14,Navajo,Arizona,355,9
+2020/4/14,Mohave,Arizona,45,2
+2020/4/14,Maricopa,Arizona,2056,54
+2020/4/14,La Paz,Arizona,4,0
+2020/4/14,Greenlee,Arizona,2,0
+2020/4/14,Graham,Arizona,2,0
+2020/4/14,Gila,Arizona,3,0
+2020/4/14,Coconino,Arizona,270,22
+2020/4/14,Cochise,Arizona,15,0
+2020/4/14,Apache,Arizona,97,4
+2020/5/15,Pinal,Arizona,670,28
+2020/5/15,Santa Cruz,Arizona,69,0
+2020/5/15,Yavapai,Arizona,254,5
+2020/5/15,Yuma,Arizona,310,4
+2020/5/9,Graham,Arizona,19,0
+2020/5/9,Greenlee,Arizona,2,0
+2020/5/9,La Paz,Arizona,22,2
+2020/5/9,Maricopa,Arizona,5779,245
+2020/5/9,Mohave,Arizona,178,23
+2020/5/9,Navajo,Arizona,981,36
+2020/5/9,Pima,Arizona,1554,133
+2020/5/9,Pinal,Arizona,585,19
+2020/5/9,Santa Cruz,Arizona,40,0
+2020/5/9,Yavapai,Arizona,175,4
+2020/5/9,Yuma,Arizona,176,3
+2020/4/1,Yuma,Arizona,12,0
+2020/4/1,Yavapai,Arizona,24,0
+2020/4/1,Santa Cruz,Arizona,3,0
+2020/4/11,Greenlee,Arizona,2,0
+2020/4/11,Graham,Arizona,2,0
+2020/4/11,Gila,Arizona,3,0
+2020/4/11,Coconino,Arizona,238,15
+2020/4/11,Cochise,Arizona,13,0
+2020/4/11,Apache,Arizona,66,3
+2020/4/1,Pinal,Arizona,65,0
+2020/4/1,Pima,Arizona,217,10
+2020/5/7,Apache,Arizona,630,7
+2020/5/7,Cochise,Arizona,40,0
+2020/5/7,Coconino,Arizona,618,49
+2020/5/7,Gila,Arizona,17,0
+2020/5/7,Graham,Arizona,19,0
+2020/5/7,Greenlee,Arizona,2,0
+2020/5/7,La Paz,Arizona,20,2
+2020/5/7,Maricopa,Arizona,5196,204
+2020/5/7,Mohave,Arizona,158,19
+2020/5/7,Navajo,Arizona,912,32
+2020/5/7,Pima,Arizona,1465,118
+2020/5/7,Pinal,Arizona,530,15
+2020/5/7,Santa Cruz,Arizona,38,0
+2020/5/7,Yavapai,Arizona,152,3
+2020/5/7,Yuma,Arizona,148,1
+2020/4/1,Navajo,Arizona,102,0
+2020/4/1,Mohave,Arizona,7,0
+2020/4/1,Maricopa,Arizona,871,8
+2020/4/1,La Paz,Arizona,2,0
+2020/4/1,Greenlee,Arizona,1,0
+2020/4/1,Graham,Arizona,2,0
+2020/4/1,Gila,Arizona,1,0
+2020/4/1,Coconino,Arizona,85,3
+2020/4/1,Cochise,Arizona,4,0
+2020/4/1,Apache,Arizona,17,0
+2020/4/21,Apache,Arizona,226,5
+2020/4/21,Cochise,Arizona,29,0
+2020/4/2,Yuma,Arizona,13,0
+2020/4/2,Yavapai,Arizona,34,0
+2020/4/2,Santa Cruz,Arizona,3,0
+2020/4/2,Pinal,Arizona,69,0
+2020/3/18,Coconino,Arizona,1,0
+2020/3/18,Graham,Arizona,1,0
+2020/3/18,Maricopa,Arizona,11,0
+2020/3/18,Navajo,Arizona,2,0
+2020/3/18,Pima,Arizona,5,0
+2020/3/18,Pinal,Arizona,8,0
+2020/4/2,Pima,Arizona,237,11
+2020/4/2,Navajo,Arizona,129,1
+2020/4/2,Mohave,Arizona,8,0
+2020/4/2,Maricopa,Arizona,961,12
+2020/4/2,La Paz,Arizona,2,0
+2020/4/2,Greenlee,Arizona,1,0
+2020/4/2,Graham,Arizona,2,0
+2020/4/2,Gila,Arizona,2,0
+2020/4/2,Coconino,Arizona,116,8
+2020/4/2,Cochise,Arizona,4,0
+2020/4/2,Apache,Arizona,19,0
+2020/5/9,Apache,Arizona,710,10
+2020/5/9,Cochise,Arizona,41,1
+2020/5/9,Coconino,Arizona,679,55
+2020/5/9,Gila,Arizona,19,1
+2020/3/17,Graham,Arizona,1,0
+2020/3/17,Maricopa,Arizona,9,0
+2020/3/17,Navajo,Arizona,1,0
+2020/3/17,Pima,Arizona,4,0
+2020/3/17,Pinal,Arizona,5,0
+2020/4/5,Yuma,Arizona,13,0
+2020/4/5,Yavapai,Arizona,45,0
+2020/4/5,Unknown,Arizona,0,9
+2020/4/5,Santa Cruz,Arizona,4,0
+2020/4/5,Pinal,Arizona,103,0
+2020/4/5,Pima,Arizona,372,12
+2020/4/5,Navajo,Arizona,195,1
+2020/4/5,Mohave,Arizona,16,1
+2020/4/5,Maricopa,Arizona,1326,31
+2020/4/5,La Paz,Arizona,3,0
+2020/4/5,Greenlee,Arizona,1,0
+2020/4/5,Graham,Arizona,2,0
+2020/4/5,Gila,Arizona,3,0
+2020/4/21,Coconino,Arizona,342,35
+2020/4/21,Gila,Arizona,9,0
+2020/4/21,Graham,Arizona,2,0
+2020/4/21,Greenlee,Arizona,2,0
+2020/4/21,La Paz,Arizona,6,1
+2020/4/21,Maricopa,Arizona,2738,84
+2020/4/21,Mohave,Arizona,59,3
+2020/4/21,Navajo,Arizona,485,11
+2020/4/21,Pima,Arizona,963,65
+2020/4/21,Pinal,Arizona,268,7
+2020/4/21,Santa Cruz,Arizona,23,0
+2020/4/21,Yavapai,Arizona,72,1
+2020/4/21,Yuma,Arizona,27,1
+2020/4/6,Apache,Arizona,25,0
+2020/4/6,Cochise,Arizona,9,0
+2020/4/6,Coconino,Arizona,167,10
+2020/4/6,Gila,Arizona,3,0
+2020/4/6,Graham,Arizona,2,0
+2020/4/6,Greenlee,Arizona,1,0
+2020/4/6,La Paz,Arizona,3,0
+2020/4/6,Maricopa,Arizona,1433,31
+2020/4/6,Mohave,Arizona,21,1
+2020/4/6,Navajo,Arizona,210,1
+2020/4/6,Pima,Arizona,415,13
+2020/4/6,Pinal,Arizona,107,0
+2020/4/6,Santa Cruz,Arizona,5,0
+2020/4/6,Unknown,Arizona,0,10
+2020/4/6,Yavapai,Arizona,50,1
+2020/4/6,Yuma,Arizona,15,0
+2020/5/6,Yuma,Arizona,134,1
+2020/5/6,Yavapai,Arizona,140,3
+2020/5/6,Santa Cruz,Arizona,37,0
+2020/5/6,Pinal,Arizona,497,15
+2020/5/6,Pima,Arizona,1425,116
+2020/5/6,Navajo,Arizona,892,31
+2020/5/6,Mohave,Arizona,150,17
+2020/5/6,Maricopa,Arizona,5138,186
+2020/5/6,La Paz,Arizona,18,2
+2020/5/6,Greenlee,Arizona,2,0
+2020/5/6,Graham,Arizona,19,0
+2020/5/6,Gila,Arizona,15,0
+2020/5/6,Coconino,Arizona,588,48
+2020/5/6,Cochise,Arizona,40,0
+2020/5/6,Apache,Arizona,612,7
+2020/3/22,Apache,Arizona,3,0
+2020/3/22,Cochise,Arizona,1,0
+2020/3/22,Coconino,Arizona,15,0
+2020/4/5,Coconino,Arizona,155,10
+2020/4/5,Cochise,Arizona,8,0
+2020/4/5,Apache,Arizona,23,0
+2020/4/12,Apache,Arizona,72,3
+2020/4/12,Cochise,Arizona,15,0
+2020/4/12,Coconino,Arizona,243,21
+2020/4/12,Gila,Arizona,3,0
+2020/4/12,Graham,Arizona,2,0
+2020/4/12,Greenlee,Arizona,2,0
+2020/4/12,La Paz,Arizona,4,0
+2020/4/12,Maricopa,Arizona,1960,48
+2020/4/12,Mohave,Arizona,30,2
+2020/3/26,Yuma,Arizona,4,0
+2020/3/26,Yavapai,Arizona,5,0
+2020/3/26,Santa Cruz,Arizona,2,0
+2020/3/26,Pinal,Arizona,35,0
+2020/3/26,Pima,Arizona,75,0
+2020/3/26,Navajo,Arizona,43,0
+2020/3/26,Mohave,Arizona,2,0
+2020/5/12,Apache,Arizona,744,11
+2020/5/12,Cochise,Arizona,43,1
+2020/5/12,Coconino,Arizona,720,58
+2020/5/12,Gila,Arizona,19,1
+2020/5/12,Graham,Arizona,20,0
+2020/5/19,Yuma,Arizona,433,4
+2020/4/29,Yuma,Arizona,65,1
+2020/4/29,Yavapai,Arizona,79,2
+2020/4/29,Santa Cruz,Arizona,31,0
+2020/4/29,Pinal,Arizona,387,11

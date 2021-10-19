@@ -1,0 +1,991 @@
+1,Arizona,Maricopa,1,0
+2,California,Los Angeles,1,0
+3,California,Orange,1,0
+4,Illinois,Cook,1,0
+5,Washington,Snohomish,1,0
+6,Arizona,Maricopa,1,0
+7,California,Los Angeles,1,0
+8,California,Orange,1,0
+9,Illinois,Cook,1,0
+10,Washington,Snohomish,1,0
+11,Arizona,Maricopa,1,0
+12,California,Los Angeles,1,0
+13,California,Orange,1,0
+14,Illinois,Cook,1,0
+15,Washington,Snohomish,1,0
+16,Arizona,Maricopa,1,0
+17,California,Los Angeles,1,0
+18,California,Orange,1,0
+19,Illinois,Cook,1,0
+20,Washington,Snohomish,1,0
+21,Arizona,Maricopa,1,0
+22,California,Los Angeles,1,0
+23,California,Orange,1,0
+24,Illinois,Cook,2,0
+25,Washington,Snohomish,1,0
+26,Arizona,Maricopa,1,0
+27,California,Los Angeles,1,0
+28,California,Orange,1,0
+29,California,Santa Clara,1,0
+30,Illinois,Cook,2,0
+31,Washington,Snohomish,1,0
+32,Arizona,Maricopa,1,0
+33,California,Los Angeles,1,0
+34,California,Orange,1,0
+35,California,Santa Clara,1,0
+36,Illinois,Cook,2,0
+37,Massachusetts,Suffolk,1,0
+38,Washington,Snohomish,1,0
+39,Arizona,Maricopa,1,0
+40,California,Los Angeles,1,0
+41,California,Orange,1,0
+42,California,San Francisco,2,0
+43,California,Santa Clara,2,0
+44,Illinois,Cook,2,0
+45,Massachusetts,Suffolk,1,0
+46,Washington,Snohomish,1,0
+47,Arizona,Maricopa,1,0
+48,California,Los Angeles,1,0
+49,California,Orange,1,0
+50,California,San Francisco,2,0
+51,California,Santa Clara,2,0
+52,Illinois,Cook,2,0
+53,Massachusetts,Suffolk,1,0
+54,Washington,Snohomish,1,0
+55,Arizona,Maricopa,1,0
+56,California,Los Angeles,1,0
+57,California,Orange,1,0
+58,California,San Francisco,2,0
+59,California,Santa Clara,2,0
+60,Illinois,Cook,2,0
+61,Massachusetts,Suffolk,1,0
+62,Washington,Snohomish,1,0
+63,Arizona,Maricopa,1,0
+64,California,Los Angeles,1,0
+65,California,Orange,1,0
+66,California,San Francisco,2,0
+67,California,Santa Clara,2,0
+68,Illinois,Cook,2,0
+69,Massachusetts,Suffolk,1,0
+70,Washington,Snohomish,1,0
+71,Wisconsin,Dane,1,0
+72,Arizona,Maricopa,1,0
+73,California,Los Angeles,1,0
+74,California,Orange,1,0
+75,California,San Francisco,2,0
+76,California,Santa Clara,2,0
+77,Illinois,Cook,2,0
+78,Massachusetts,Suffolk,1,0
+79,Washington,Snohomish,1,0
+80,Wisconsin,Dane,1,0
+81,Arizona,Maricopa,1,0
+82,California,Los Angeles,1,0
+83,California,Orange,1,0
+84,California,San Francisco,2,0
+85,California,Santa Clara,2,0
+86,Illinois,Cook,2,0
+87,Massachusetts,Suffolk,1,0
+88,Washington,Snohomish,1,0
+89,Wisconsin,Dane,1,0
+90,Arizona,Maricopa,1,0
+91,California,Los Angeles,1,0
+92,California,Orange,1,0
+93,California,San Francisco,2,0
+94,California,Santa Clara,2,0
+95,Illinois,Cook,2,0
+96,Massachusetts,Suffolk,1,0
+97,Washington,Snohomish,1,0
+98,Wisconsin,Dane,1,0
+99,Arizona,Maricopa,1,0
+100,California,Los Angeles,1,0
+101,California,Orange,1,0
+102,California,San Francisco,2,0
+103,California,Santa Clara,2,0
+104,Illinois,Cook,2,0
+105,Massachusetts,Suffolk,1,0
+106,Washington,Snohomish,1,0
+107,Wisconsin,Dane,1,0
+108,Arizona,Maricopa,1,0
+109,California,Los Angeles,1,0
+110,California,Orange,1,0
+111,California,San Diego,1,0
+112,California,San Francisco,2,0
+113,California,Santa Clara,2,0
+114,Illinois,Cook,2,0
+115,Massachusetts,Suffolk,1,0
+116,Washington,Snohomish,1,0
+117,Wisconsin,Dane,1,0
+118,Arizona,Maricopa,1,0
+119,California,Los Angeles,1,0
+120,California,Orange,1,0
+121,California,San Diego,1,0
+122,California,San Francisco,2,0
+123,California,Santa Clara,2,0
+124,Illinois,Cook,2,0
+125,Massachusetts,Suffolk,1,0
+126,Washington,Snohomish,1,0
+127,Wisconsin,Dane,1,0
+128,Arizona,Maricopa,1,0
+129,California,Los Angeles,1,0
+130,California,Orange,1,0
+131,California,San Diego,1,0
+132,California,San Francisco,2,0
+133,California,Santa Clara,2,0
+134,Illinois,Cook,2,0
+135,Massachusetts,Suffolk,1,0
+136,Texas,Bexar,1,0
+137,Washington,Snohomish,1,0
+138,Wisconsin,Dane,1,0
+139,Arizona,Maricopa,1,0
+140,California,Los Angeles,1,0
+141,California,Orange,1,0
+142,California,San Diego,1,0
+143,California,San Francisco,2,0
+144,California,Santa Clara,2,0
+145,Illinois,Cook,2,0
+146,Massachusetts,Suffolk,1,0
+147,Texas,Bexar,2,0
+148,Washington,Snohomish,1,0
+149,Wisconsin,Dane,1,0
+150,Arizona,Maricopa,1,0
+151,California,Los Angeles,1,0
+152,California,Orange,1,0
+153,California,San Diego,1,0
+154,California,San Francisco,2,0
+155,California,Santa Clara,2,0
+156,Illinois,Cook,2,0
+157,Massachusetts,Suffolk,1,0
+158,Texas,Bexar,2,0
+159,Washington,Snohomish,1,0
+160,Wisconsin,Dane,1,0
+161,Arizona,Maricopa,1,0
+162,California,Los Angeles,1,0
+163,California,Orange,1,0
+164,California,San Diego,1,0
+165,California,San Francisco,2,0
+166,California,Santa Clara,2,0
+167,Illinois,Cook,2,0
+168,Massachusetts,Suffolk,1,0
+169,Texas,Bexar,2,0
+170,Washington,Snohomish,1,0
+171,Wisconsin,Dane,1,0
+172,Arizona,Maricopa,1,0
+173,California,Los Angeles,1,0
+174,California,Orange,1,0
+175,California,San Diego,1,0
+176,California,San Francisco,2,0
+177,California,Santa Clara,2,0
+178,Illinois,Cook,2,0
+179,Massachusetts,Suffolk,1,0
+180,Texas,Bexar,2,0
+181,Washington,Snohomish,1,0
+182,Wisconsin,Dane,1,0
+183,Arizona,Maricopa,1,0
+184,California,Los Angeles,1,0
+185,California,Orange,1,0
+186,California,San Diego,1,0
+187,California,San Francisco,2,0
+188,California,Santa Clara,2,0
+189,Illinois,Cook,2,0
+190,Massachusetts,Suffolk,1,0
+191,Nebraska,Douglas,10,0
+192,Texas,Bexar,2,0
+193,Washington,Snohomish,1,0
+194,Wisconsin,Dane,1,0
+195,Arizona,Maricopa,1,0
+196,California,Los Angeles,1,0
+197,California,Orange,1,0
+198,California,San Diego,1,0
+199,California,San Francisco,2,0
+200,California,Santa Clara,2,0
+201,Illinois,Cook,2,0
+202,Massachusetts,Suffolk,1,0
+203,Nebraska,Douglas,10,0
+204,Texas,Bexar,2,0
+205,Washington,Snohomish,1,0
+206,Wisconsin,Dane,1,0
+207,Arizona,Maricopa,1,0
+208,California,Los Angeles,1,0
+209,California,Orange,1,0
+210,California,San Diego,1,0
+211,California,San Francisco,2,0
+212,California,Santa Clara,2,0
+213,Illinois,Cook,2,0
+214,Massachusetts,Suffolk,1,0
+215,Nebraska,Douglas,10,0
+216,Texas,Bexar,2,0
+217,Washington,Snohomish,1,0
+218,Wisconsin,Dane,1,0
+219,Arizona,Maricopa,1,0
+220,California,Humboldt,1,0
+221,California,Los Angeles,1,0
+222,California,Orange,1,0
+223,California,San Diego,1,0
+224,California,San Francisco,2,0
+225,California,Santa Clara,2,0
+226,Illinois,Cook,2,0
+227,Massachusetts,Suffolk,1,0
+228,Nebraska,Douglas,11,0
+229,Texas,Bexar,2,0
+230,Washington,Snohomish,1,0
+231,Wisconsin,Dane,1,0
+232,Arizona,Maricopa,1,0
+233,California,Humboldt,1,0
+234,California,Los Angeles,1,0
+235,California,Orange,1,0
+236,California,Sacramento,1,0
+237,California,San Diego,1,0
+238,California,San Francisco,2,0
+239,California,Santa Clara,2,0
+240,Illinois,Cook,2,0
+241,Massachusetts,Suffolk,1,0
+242,Nebraska,Douglas,11,0
+243,Texas,Bexar,4,0
+244,Washington,Snohomish,1,0
+245,Wisconsin,Dane,1,0
+246,Arizona,Maricopa,1,0
+247,California,Humboldt,1,0
+248,California,Los Angeles,1,0
+249,California,Orange,1,0
+250,California,Sacramento,1,0
+251,California,San Diego,1,0
+252,California,San Francisco,2,0
+253,California,Santa Clara,2,0
+254,Illinois,Cook,2,0
+255,Massachusetts,Suffolk,1,0
+256,Nebraska,Douglas,11,0
+257,Texas,Bexar,4,0
+258,Washington,Snohomish,1,0
+259,Wisconsin,Dane,1,0
+260,Arizona,Maricopa,1,0
+261,California,Humboldt,1,0
+262,California,Los Angeles,1,0
+263,California,Orange,1,0
+264,California,Sacramento,1,0
+265,California,San Diego,1,0
+266,California,San Francisco,2,0
+267,California,Santa Clara,2,0
+268,Illinois,Cook,2,0
+269,Massachusetts,Suffolk,1,0
+270,Nebraska,Douglas,11,0
+271,Texas,Bexar,4,0
+272,Washington,Snohomish,1,0
+273,Wisconsin,Dane,1,0
+274,Arizona,Maricopa,1,0
+275,California,Humboldt,1,0
+276,California,Los Angeles,1,0
+277,California,Orange,1,0
+278,California,Sacramento,1,0
+279,California,San Diego,1,0
+280,California,San Francisco,3,0
+281,California,Santa Clara,2,0
+282,California,Solano,1,0
+283,Illinois,Cook,2,0
+284,Massachusetts,Suffolk,1,0
+285,Nebraska,Douglas,12,0
+286,Texas,Bexar,10,0
+287,Washington,Snohomish,1,0
+288,Washington,Spokane,4,0
+289,Wisconsin,Dane,1,0
+290,Arizona,Maricopa,1,0
+291,California,Humboldt,1,0
+292,California,Los Angeles,1,0
+293,California,Orange,1,0
+294,California,Sacramento,1,0
+295,California,San Diego,1,0
+296,California,San Francisco,3,0
+297,California,Santa Clara,2,0
+298,California,Solano,1,0
+299,Illinois,Cook,2,0
+300,Massachusetts,Suffolk,1,0
+301,Nebraska,Douglas,13,0
+302,Texas,Bexar,10,0
+303,Utah,Salt Lake,1,0
+304,Washington,Snohomish,1,0
+305,Washington,Spokane,4,0
+306,Wisconsin,Dane,1,0
+307,Arizona,Maricopa,1,0
+308,California,Humboldt,1,0
+309,California,Los Angeles,1,0
+310,California,Marin,1,0
+311,California,Napa,1,0
+312,California,Orange,1,0
+313,California,Sacramento,3,0
+314,California,San Diego,1,0
+315,California,San Francisco,3,0
+316,California,Santa Clara,2,0
+317,California,Solano,11,0
+318,California,Sonoma,1,0
+319,Illinois,Cook,2,0
+320,Massachusetts,Suffolk,1,0
+321,Nebraska,Douglas,13,0
+322,Texas,Bexar,10,0
+323,Utah,Salt Lake,1,0
+324,Washington,Snohomish,1,0
+325,Washington,Spokane,4,0
+326,Wisconsin,Dane,1,0
+327,Arizona,Maricopa,1,0
+328,California,Humboldt,1,0
+329,California,Los Angeles,1,0
+330,California,Marin,1,0
+331,California,Napa,1,0
+332,California,Orange,1,0
+333,California,Sacramento,3,0
+334,California,San Diego,1,0
+335,California,San Francisco,3,0
+336,California,Santa Clara,2,0
+337,California,Solano,11,0
+338,California,Sonoma,1,0
+339,Illinois,Cook,2,0
+340,Massachusetts,Suffolk,1,0
+341,Nebraska,Douglas,13,0
+342,Texas,Bexar,10,0
+343,Utah,Salt Lake,1,0
+344,Washington,Snohomish,1,0
+345,Washington,Spokane,4,0
+346,Wisconsin,Dane,1,0
+347,Arizona,Maricopa,1,0
+348,California,Humboldt,1,0
+349,California,Los Angeles,1,0
+350,California,Marin,1,0
+351,California,Napa,1,0
+352,California,Orange,1,0
+353,California,Sacramento,3,0
+354,California,San Diego,1,0
+355,California,San Francisco,3,0
+356,California,Santa Clara,3,0
+357,California,Solano,11,0
+358,California,Sonoma,1,0
+359,Illinois,Cook,2,0
+360,Massachusetts,Suffolk,1,0
+361,Nebraska,Douglas,13,0
+362,Oregon,Washington,1,0
+363,Texas,Bexar,11,0
+364,Utah,Salt Lake,1,0
+365,Washington,King,1,0
+366,Washington,Snohomish,2,0
+367,Washington,Spokane,4,0
+368,Wisconsin,Dane,1,0
+369,Arizona,Maricopa,1,0
+370,California,Humboldt,1,0
+371,California,Los Angeles,1,0
+372,California,Marin,1,0
+373,California,Napa,1,0
+374,California,Orange,1,0
+375,California,Sacramento,3,0
+376,California,San Diego,1,0
+377,California,San Francisco,3,0
+378,California,Santa Clara,4,0
+379,California,Solano,11,0
+380,California,Sonoma,1,0
+381,Illinois,Cook,3,0
+382,Massachusetts,Suffolk,1,0
+383,Nebraska,Douglas,13,0
+384,Oregon,Washington,1,0
+385,Texas,Bexar,11,0
+386,Utah,Salt Lake,1,0
+387,Washington,King,4,1
+388,Washington,Snohomish,2,0
+389,Washington,Spokane,4,0
+390,Wisconsin,Dane,1,0
+391,Arizona,Maricopa,1,0
+392,California,Alameda,1,0
+393,California,Humboldt,1,0
+394,California,Los Angeles,1,0
+395,California,Marin,1,0
+396,California,Napa,1,0
+397,California,Orange,1,0
+398,California,Sacramento,3,0
+399,California,San Diego,1,0
+400,California,San Francisco,3,0
+401,California,Santa Clara,7,0
+402,California,Solano,12,0
+403,California,Sonoma,1,0
+404,Florida,Hillsborough,1,0
+405,Florida,Manatee,1,0
+406,Illinois,Cook,3,0
+407,Massachusetts,Suffolk,1,0
+408,Nebraska,Douglas,13,0
+409,New York,New York City,1,0
+410,Oregon,Washington,2,0
+411,Rhode Island,Unknown,2,0
+412,Texas,Bexar,11,0
+413,Utah,Salt Lake,1,0
+414,Washington,King,11,3
+415,Washington,Snohomish,2,0
+416,Washington,Spokane,4,0
+417,Wisconsin,Dane,1,0
+418,Arizona,Maricopa,1,0
+419,California,Alameda,1,0
+420,California,Humboldt,1,0
+421,California,Los Angeles,1,0
+422,California,Marin,1,0
+423,California,Napa,1,0
+424,California,Orange,1,0
+425,California,Placer,1,0
+426,California,Sacramento,3,0
+427,California,San Diego,1,0
+428,California,San Francisco,3,0
+429,California,San Mateo,1,0
+430,California,Santa Clara,9,0
+431,California,Solano,12,0
+432,California,Sonoma,2,0
+433,Florida,Hillsborough,1,0
+434,Florida,Manatee,1,0
+435,Georgia,Fulton,2,0
+436,Illinois,Cook,4,0
+437,Massachusetts,Norfolk,1,0
+438,Massachusetts,Suffolk,1,0
+439,Nebraska,Douglas,13,0
+440,New Hampshire,Grafton,1,0
+441,New York,New York City,1,0
+442,Oregon,Washington,2,0
+443,Rhode Island,Unknown,2,0
+444,Texas,Bexar,11,0
+445,Utah,Salt Lake,1,0
+446,Washington,King,15,6
+447,Washington,Snohomish,3,0
+448,Washington,Spokane,4,0
+449,Washington,Walla Walla,1,0
+450,Wisconsin,Dane,1,0
+451,Arizona,Maricopa,2,0
+452,California,Alameda,2,0
+453,California,Contra Costa,1,0
+454,California,Humboldt,1,0
+455,California,Los Angeles,1,0
+456,California,Marin,1,0
+457,California,Napa,1,0
+458,California,Orange,3,0
+459,California,Placer,2,0
+460,California,Sacramento,3,0
+461,California,San Diego,1,0
+462,California,San Francisco,3,0
+463,California,San Mateo,1,0
+464,California,Santa Clara,11,0
+465,California,Solano,12,0
+466,California,Sonoma,2,0
+467,Florida,Hillsborough,2,0
+468,Florida,Manatee,1,0
+469,Georgia,Fulton,2,0
+470,Illinois,Cook,4,0
+471,Massachusetts,Norfolk,1,0
+472,Massachusetts,Suffolk,1,0
+473,Nebraska,Douglas,13,0
+474,New Hampshire,Grafton,2,0
+475,New York,New York City,2,0
+476,North Carolina,Wake,1,0
+477,Oregon,Washington,2,0
+478,Rhode Island,Unknown,2,0
+479,Texas,Bexar,11,0
+480,Utah,Salt Lake,1,0
+481,Washington,King,22,10
+482,Washington,Snohomish,5,0
+483,Washington,Spokane,4,0
+484,Washington,Walla Walla,1,0
+485,Wisconsin,Dane,1,0
+486,Arizona,Maricopa,2,0
+487,California,Alameda,2,0
+488,California,Contra Costa,1,0
+489,California,Humboldt,1,0
+490,California,Los Angeles,7,0
+491,California,Marin,1,0
+492,California,Napa,1,0
+493,California,Orange,3,0
+494,California,Placer,2,1
+495,California,Sacramento,3,0
+496,California,San Diego,1,0
+497,California,San Francisco,3,0
+498,California,San Mateo,1,0
+499,California,Santa Clara,14,0
+500,California,Solano,12,0
+501,California,Sonoma,3,0
+502,Florida,Hillsborough,2,0
+503,Florida,Manatee,1,0
+504,Georgia,Fulton,2,0
+505,Illinois,Cook,4,0
+506,Massachusetts,Norfolk,1,0
+507,Massachusetts,Suffolk,1,0
+508,Nebraska,Douglas,13,0
+509,New Hampshire,Grafton,2,0
+510,New Jersey,Bergen,1,0
+511,New York,New York City,2,0
+512,New York,Westchester,9,0
+513,North Carolina,Wake,1,0
+514,Oregon,Washington,2,0
+515,Rhode Island,Unknown,2,0
+516,Texas,Bexar,11,0
+517,Texas,Fort Bend,1,0
+518,Utah,Salt Lake,1,0
+519,Washington,Chelan,1,0
+520,Washington,King,33,11
+521,Washington,Snohomish,8,0
+522,Washington,Spokane,4,0
+523,Washington,Walla Walla,1,0
+524,Wisconsin,Dane,1,0
+525,Arizona,Maricopa,2,0
+526,California,Alameda,2,0
+527,California,Contra Costa,1,0
+528,California,Humboldt,1,0
+529,California,Los Angeles,11,0
+530,California,Marin,1,0
+531,California,Napa,1,0
+532,California,Orange,3,0
+533,California,Placer,2,1
+534,California,Sacramento,3,0
+535,California,San Diego,1,0
+536,California,San Francisco,5,0
+537,California,San Mateo,1,0
+538,California,Santa Clara,20,0
+539,California,Solano,12,0
+540,California,Sonoma,3,0
+541,Colorado,Douglas,1,0
+542,Colorado,Jefferson,1,0
+543,Florida,Hillsborough,2,0
+544,Florida,Manatee,1,0
+545,Florida,Santa Rosa,1,0
+546,Georgia,Fulton,2,0
+547,Illinois,Cook,5,0
+548,Maryland,Montgomery,3,0
+549,Massachusetts,Middlesex,1,0
+550,Massachusetts,Norfolk,1,0
+551,Massachusetts,Suffolk,1,0
+552,Nebraska,Douglas,13,0
+553,Nevada,Clark,1,0
+554,Nevada,Washoe,1,0
+555,New Hampshire,Grafton,2,0
+556,New Jersey,Bergen,2,0
+557,New York,Nassau,1,0
+558,New York,New York City,4,0
+559,New York,Westchester,17,0
+560,North Carolina,Wake,1,0
+561,Oregon,Washington,2,0
+562,Rhode Island,Unknown,2,0
+563,Tennessee,Williamson,1,0
+564,Texas,Bexar,11,0
+565,Texas,Fort Bend,1,0
+566,Texas,Harris,4,0
+567,Utah,Salt Lake,1,0
+568,Washington,Chelan,1,0
+569,Washington,King,52,11
+570,Washington,Snohomish,17,0
+571,Washington,Spokane,4,0
+572,Washington,Walla Walla,1,0
+573,Wisconsin,Dane,1,0
+574,Arizona,Maricopa,2,0
+575,Arizona,Pinal,1,0
+576,California,Alameda,3,0
+577,California,Contra Costa,4,0
+578,California,Humboldt,1,0
+579,California,Los Angeles,13,0
+580,California,Marin,1,0
+581,California,Napa,1,0
+582,California,Orange,3,0
+583,California,Placer,5,1
+584,California,Sacramento,3,0
+585,California,San Diego,1,0
+586,California,San Francisco,5,0
+587,California,San Mateo,1,0
+588,California,Santa Clara,24,0
+589,California,Solano,12,0
+590,California,Sonoma,3,0
+591,California,Yolo,1,0
+592,Colorado,Denver,2,0
+593,Colorado,Douglas,3,0
+594,Colorado,Eagle,1,0
+595,Colorado,El Paso,1,0
+596,Colorado,Jefferson,1,0
+597,Florida,Broward,2,0
+598,Florida,Hillsborough,2,0
+599,Florida,Lee,1,1
+600,Florida,Manatee,1,0
+601,Florida,Santa Rosa,1,1
+602,Georgia,Fulton,2,0
+603,Georgia,Polk,1,0
+604,Hawaii,Honolulu,1,0
+605,Illinois,Cook,6,0
+606,Indiana,Marion,1,0
+607,Kentucky,Fayette,1,0
+608,Maryland,Montgomery,3,0
+609,Massachusetts,Middlesex,1,0
+610,Massachusetts,Norfolk,3,0
+611,Massachusetts,Suffolk,4,0
+612,Minnesota,Ramsey,1,0
+613,Nebraska,Douglas,14,0
+614,Nevada,Clark,1,0
+615,Nevada,Washoe,1,0
+616,New Hampshire,Grafton,2,0
+617,New Jersey,Bergen,3,0
+618,New Jersey,Camden,1,0
+619,New York,Nassau,4,0
+620,New York,New York City,5,0
+621,New York,Rockland,2,0
+622,New York,Westchester,33,0
+623,North Carolina,Chatham,1,0
+624,North Carolina,Wake,1,0
+625,Oklahoma,Tulsa,1,0
+626,Oregon,Washington,2,0
+627,Pennsylvania,Delaware,1,0
+628,Pennsylvania,Wayne,1,0
+629,Rhode Island,Unknown,3,0
+630,South Carolina,Charleston,1,0
+631,South Carolina,Kershaw,1,0
+632,Tennessee,Williamson,1,0
+633,Texas,Bexar,11,0
+634,Texas,Fort Bend,3,0
+635,Texas,Harris,5,0
+636,Utah,Davis,1,0
+637,Utah,Salt Lake,1,0
+638,Utah,Washington,1,0
+639,Washington,Chelan,1,0
+640,Washington,Clark,1,0
+641,Washington,Jefferson,1,0
+642,Washington,King,59,12
+643,Washington,Pierce,1,0
+644,Washington,Snohomish,18,0
+645,Washington,Spokane,4,0
+646,Washington,Walla Walla,1,0
+647,Wisconsin,Dane,1,0
+648,Arizona,Maricopa,2,0
+649,Arizona,Pinal,3,0
+650,California,Alameda,3,0
+651,California,Contra Costa,4,0
+652,California,Fresno,1,0
+653,California,Humboldt,1,0
+654,California,Los Angeles,14,0
+655,California,Madera,1,0
+656,California,Marin,1,0
+657,California,Napa,1,0
+658,California,Orange,3,0
+659,California,Placer,5,1
+660,California,Riverside,1,0
+661,California,Sacramento,3,0
+662,California,San Diego,1,0
+663,California,San Francisco,11,0
+664,California,San Mateo,1,0
+665,California,Santa Clara,32,0
+666,California,Santa Cruz,1,0
+667,California,Solano,12,0
+668,California,Sonoma,3,0
+669,California,Yolo,1,0
+670,Colorado,Denver,2,0
+671,Colorado,Douglas,3,0
+672,Colorado,Eagle,1,0
+673,Colorado,El Paso,1,0
+674,Colorado,Jefferson,1,0
+675,District of Columbia,District of Columbia,1,0
+676,Florida,Broward,2,0
+677,Florida,Charlotte,1,0
+678,Florida,Hillsborough,2,0
+679,Florida,Lee,2,1
+680,Florida,Manatee,2,0
+681,Florida,Okaloosa,1,0
+682,Florida,Santa Rosa,1,1
+683,Florida,Volusia,1,0
+684,Georgia,Cobb,1,0
+685,Georgia,Fulton,4,0
+686,Georgia,Gwinnett,1,0
+687,Georgia,Polk,1,0
+688,Hawaii,Honolulu,1,0
+689,Illinois,Cook,6,0
+690,Indiana,Marion,1,0
+691,Kansas,Johnson,1,0
+692,Kentucky,Fayette,1,0
+693,Maryland,Montgomery,3,0
+694,Massachusetts,Berkshire,1,0
+695,Massachusetts,Middlesex,5,0
+696,Massachusetts,Norfolk,3,0
+697,Massachusetts,Suffolk,4,0
+698,Minnesota,Ramsey,1,0
+699,Missouri,St. Louis,1,0
+700,Nebraska,Douglas,14,0
+701,Nevada,Clark,1,0
+702,Nevada,Washoe,1,0
+703,New Hampshire,Grafton,3,0
+704,New Hampshire,Rockingham,1,0
+705,New Jersey,Bergen,3,0
+706,New Jersey,Camden,1,0
+707,New York,Nassau,4,0
+708,New York,New York City,12,0
+709,New York,Rockland,2,0
+710,New York,Saratoga,2,0
+711,New York,Westchester,69,0
+712,North Carolina,Chatham,1,0
+713,North Carolina,Wake,1,0
+714,Oklahoma,Tulsa,1,0
+715,Oregon,Jackson,2,0
+716,Oregon,Klamath,1,0
+717,Oregon,Washington,3,0
+718,Pennsylvania,Delaware,1,0
+719,Pennsylvania,Montgomery,2,0
+720,Pennsylvania,Wayne,1,0
+721,Rhode Island,Unknown,3,0
+722,South Carolina,Charleston,1,0
+723,South Carolina,Kershaw,1,0
+724,Tennessee,Williamson,1,0
+725,Texas,Bexar,11,0
+726,Texas,Fort Bend,3,0
+727,Texas,Harris,5,0
+728,Utah,Davis,1,0
+729,Utah,Salt Lake,1,0
+730,Utah,Washington,1,0
+731,Vermont,Bennington,1,0
+732,Virginia,Fairfax,1,0
+733,Washington,Chelan,1,0
+734,Washington,Clark,1,0
+735,Washington,Jefferson,1,0
+736,Washington,King,72,16
+737,Washington,Kittitas,1,0
+738,Washington,Pierce,3,0
+739,Washington,Snohomish,26,0
+740,Washington,Spokane,4,0
+741,Washington,Walla Walla,1,0
+742,Wisconsin,Dane,1,0
+743,Arizona,Maricopa,2,0
+744,Arizona,Pinal,3,0
+745,California,Alameda,3,0
+746,California,Contra Costa,9,0
+747,California,Fresno,1,0
+748,California,Humboldt,1,0
+749,California,Los Angeles,14,0
+750,California,Madera,1,0
+751,California,Marin,1,0
+752,California,Napa,1,0
+753,California,Orange,3,0
+754,California,Placer,7,1
+755,California,Riverside,1,0
+756,California,Sacramento,3,0
+757,California,San Diego,1,0
+758,California,San Francisco,11,0
+759,California,San Mateo,1,0
+760,California,Santa Clara,37,0
+761,California,Santa Cruz,1,0
+762,California,Solano,12,0
+763,California,Sonoma,3,0
+764,California,Yolo,1,0
+765,Colorado,Denver,2,0
+766,Colorado,Douglas,3,0
+767,Colorado,Eagle,1,0
+768,Colorado,El Paso,1,0
+769,Colorado,Jefferson,1,0
+770,Connecticut,Fairfield,1,0
+771,District of Columbia,District of Columbia,1,0
+772,Florida,Broward,3,0
+773,Florida,Charlotte,1,0
+774,Florida,Hillsborough,2,0
+775,Florida,Lee,2,1
+776,Florida,Manatee,2,0
+777,Florida,Okaloosa,1,0
+778,Florida,Santa Rosa,1,1
+779,Florida,Volusia,1,0
+780,Georgia,Cherokee,1,0
+781,Georgia,Cobb,3,0
+782,Georgia,Fulton,5,0
+783,Georgia,Gwinnett,1,0
+784,Georgia,Polk,1,0
+785,Hawaii,Honolulu,2,0
+786,Illinois,Cook,7,0
+787,Indiana,Hendricks,1,0
+788,Indiana,Marion,1,0
+789,Iowa,Johnson,3,0
+790,Kansas,Johnson,1,0
+791,Kentucky,Fayette,2,0
+792,Kentucky,Harrison,1,0
+793,Kentucky,Jefferson,1,0
+794,Maryland,Harford,1,0
+795,Maryland,Montgomery,4,0
+796,Massachusetts,Berkshire,1,0
+797,Massachusetts,Middlesex,10,0
+798,Massachusetts,Norfolk,7,0
+799,Massachusetts,Suffolk,9,0
+800,Massachusetts,Worcester,1,0
+801,Minnesota,Carver,1,0
+802,Minnesota,Ramsey,1,0
+803,Missouri,St. Louis,1,0
+804,Nebraska,Douglas,16,0
+805,Nevada,Clark,2,0
+806,Nevada,Washoe,2,0
+807,New Hampshire,Grafton,3,0
+808,New Hampshire,Rockingham,1,0
+809,New Jersey,Bergen,4,0
+810,New Jersey,Camden,1,0
+811,New Jersey,Passaic,1,0
+812,New York,Nassau,5,0
+813,New York,New York City,14,0
+814,New York,Rockland,2,0
+815,New York,Saratoga,2,0
+816,New York,Suffolk,1,0
+817,New York,Ulster,1,0
+818,New York,Westchester,81,0
+819,North Carolina,Chatham,1,0
+820,North Carolina,Wake,1,0
+821,Oklahoma,Tulsa,1,0
+822,Oregon,Douglas,1,0
+823,Oregon,Jackson,2,0
+824,Oregon,Klamath,1,0
+825,Oregon,Marion,1,0
+826,Oregon,Washington,8,0
+827,Pennsylvania,Delaware,1,0
+828,Pennsylvania,Montgomery,4,0
+829,Pennsylvania,Wayne,1,0
+830,Rhode Island,Unknown,3,0
+831,South Carolina,Charleston,1,0
+832,South Carolina,Kershaw,4,0
+833,South Carolina,Spartanburg,1,0
+834,Tennessee,Davidson,1,0
+835,Tennessee,Shelby,1,0
+836,Tennessee,Williamson,1,0
+837,Texas,Bexar,11,0
+838,Texas,Fort Bend,6,0
+839,Texas,Harris,6,0
+840,Utah,Davis,1,0
+841,Utah,Salt Lake,1,0
+842,Utah,Washington,1,0
+843,Vermont,Bennington,1,0
+844,Virginia,Fairfax,2,0
+845,Washington,Chelan,1,1
+846,Washington,Clark,1,0
+847,Washington,Jefferson,1,0
+848,Washington,King,91,18
+849,Washington,Kitsap,1,0
+850,Washington,Kittitas,1,0
+851,Washington,Pierce,4,0
+852,Washington,Snohomish,36,0
+853,Washington,Spokane,4,0
+854,Washington,Walla Walla,1,0
+855,Wisconsin,Dane,1,0
+856,Arizona,Maricopa,2,0
+857,Arizona,Pima,1,0
+858,Arizona,Pinal,3,0
+859,California,Alameda,24,0
+860,California,Contra Costa,9,0
+861,California,Fresno,1,0
+862,California,Humboldt,1,0
+863,California,Los Angeles,19,0
+864,California,Madera,1,0
+865,California,Marin,2,0
+866,California,Napa,1,0
+867,California,Orange,5,0
+868,California,Placer,7,1
+869,California,Riverside,4,0
+870,California,Sacramento,9,0
+871,California,San Diego,2,0
+872,California,San Francisco,16,0
+873,California,San Mateo,9,0
+874,California,Santa Clara,43,1
+875,California,Santa Cruz,2,0
+876,California,Shasta,1,0
+877,California,Solano,12,0
+878,California,Sonoma,3,0
+879,California,Yolo,1,0
+880,Colorado,Arapahoe,1,0
+881,Colorado,Denver,3,0
+882,Colorado,Douglas,3,0
+883,Colorado,Eagle,2,0
+884,Colorado,El Paso,1,0
+885,Colorado,Jefferson,1,0
+886,Colorado,Larimer,1,0
+887,Connecticut,Fairfield,2,0
+888,District of Columbia,District of Columbia,4,0
+889,Florida,Broward,3,0
+890,Florida,Charlotte,1,0
+891,Florida,Hillsborough,2,0
+892,Florida,Lee,2,1
+893,Florida,Manatee,2,0
+894,Florida,Okaloosa,1,0
+895,Florida,Santa Rosa,1,1
+896,Florida,Volusia,2,0
+897,Georgia,Cherokee,1,0
+898,Georgia,Cobb,4,0
+899,Georgia,DeKalb,2,0
+900,Georgia,Fayette,1,0
+901,Georgia,Floyd,1,0
+902,Georgia,Fulton,5,0
+903,Georgia,Gwinnett,2,0
+904,Georgia,Polk,1,0
+905,Hawaii,Honolulu,2,0
+906,Illinois,Cook,11,0
+907,Indiana,Hendricks,2,0
+908,Indiana,Marion,1,0
+909,Indiana,Noble,1,0
+910,Iowa,Johnson,7,0
+911,Iowa,Pottawattamie,1,0
+912,Kansas,Johnson,1,0
+913,Kentucky,Fayette,3,0
+914,Kentucky,Harrison,1,0
+915,Kentucky,Jefferson,1,0
+916,Louisiana,Jefferson,1,0
+917,Maryland,Harford,1,0
+918,Maryland,Montgomery,4,0
+919,Maryland,Prince George's,1,0
+920,Massachusetts,Berkshire,5,0
+921,Massachusetts,Middlesex,15,0
+922,Massachusetts,Norfolk,10,0
+923,Massachusetts,Suffolk,10,0
+924,Massachusetts,Worcester,1,0
+925,Minnesota,Carver,1,0
+926,Minnesota,Ramsey,1,0
+927,Missouri,St. Louis,1,0
+928,Nebraska,Douglas,16,0
+929,Nevada,Clark,2,0
+930,Nevada,Washoe,2,0
+931,New Hampshire,Grafton,3,0
+932,New Hampshire,Rockingham,1,0
+933,New Jersey,Bergen,5,0
+934,New Jersey,Camden,1,0
+935,New Jersey,Hudson,1,0
+936,New Jersey,Monmouth,2,0
+937,New Jersey,Passaic,1,0
+938,New Jersey,Union,1,0
+939,New York,Nassau,17,0
+940,New York,New York City,20,0
+941,New York,Rockland,4,0
+942,New York,Saratoga,2,0
+943,New York,Suffolk,1,0
+944,New York,Ulster,1,0
+945,New York,Westchester,97,0
+946,North Carolina,Chatham,1,0
+947,North Carolina,Wake,6,0
+948,Ohio,Cuyahoga,3,0
+949,Oklahoma,Tulsa,1,0
+950,Oregon,Douglas,1,0
+951,Oregon,Jackson,2,0
+952,Oregon,Klamath,1,0
+953,Oregon,Marion,1,0
+954,Oregon,Washington,8,0
+955,Pennsylvania,Delaware,1,0
+956,Pennsylvania,Monroe,1,0
+957,Pennsylvania,Montgomery,7,0
+958,Pennsylvania,Wayne,1,0
+959,Rhode Island,Unknown,3,0
+960,South Carolina,Charleston,1,0
+961,South Carolina,Kershaw,5,0
+962,South Carolina,Spartanburg,1,0
+963,Tennessee,Davidson,1,0
+964,Tennessee,Shelby,1,0
+965,Tennessee,Williamson,2,0
+966,Texas,Bexar,11,0
+967,Texas,Collin,1,0
+968,Texas,Fort Bend,6,0
+969,Texas,Harris,6,0
+970,Utah,Davis,1,0
+971,Utah,Salt Lake,1,0
+972,Utah,Washington,1,0
+973,Vermont,Bennington,1,0
+974,Virginia,Fairfax,4,0
+975,Virginia,Virginia Beach city,1,0
+976,Washington,Chelan,1,1
+977,Washington,Clark,1,0
+978,Washington,Jefferson,1,0
+979,Washington,King,117,21
+980,Washington,Kitsap,1,0
+981,Washington,Kittitas,1,0
+982,Washington,Pierce,7,0
+983,Washington,Snohomish,45,0
+984,Washington,Spokane,4,0
+985,Washington,Walla Walla,1,0
+986,Wisconsin,Dane,1,0
+987,Wisconsin,Pierce,1,0
+988,Arizona,Maricopa,2,0
+989,Arizona,Pima,1,0
+990,Arizona,Pinal,3,0
+991,California,Alameda,25,0

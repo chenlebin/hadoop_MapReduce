@@ -2,10 +2,18 @@
 todo 对文件进行处理
 todo 1 SequenceFile
 - 将TextFile-->SequenceFile，
-  - 优点：可以对文件进行压缩，减少IO消耗，压缩比4700-->1500
+  - 优点：可以对文件进行压缩，提升IO效率，todo 压缩比 4700-->1500
   - 缺点：SequenceFile文件无法直接看懂，它是以二进制形式存放的
 
 todo 2 MapFile
-- 将TextFile-->SequenceFile，
-  - 优点：在进行文件检索，例如查询操作时，可以
-  - 缺点：SequenceFile文件无法直接看懂，它是以二进制形式存放的
+- 将TextFile-->MapFile，
+  - 其实就是SequenceFile排序之后的文件
+  - 优点：在进行文件检索，例如查询操作时，可以快速查找
+  - 缺点：MapFile文件无法直接看懂，它是以二进制形式存放的
+
+todo 2 ORCFile
+- 将TextFile-->ORCFile，
+  - 优点：可以减少文件的所占磁盘空间，提升IO效率，todo 压缩比 4700-->500
+  -       ORCFile是列式存储文件，进行查询时能快速查找
+  -       在大数据领域的应用很广泛，起初是Hive的文件存储格式
+  - 缺点：ORCFile文件无法直接看懂，它是以二进制形式存放的
