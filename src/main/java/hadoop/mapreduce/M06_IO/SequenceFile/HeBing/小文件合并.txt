@@ -1,0 +1,2 @@
+合并之后为SequenceFile感觉没有啥实际作用，还不如直接用我的hadoop
+API进行合并然后直接上传到hdfs上

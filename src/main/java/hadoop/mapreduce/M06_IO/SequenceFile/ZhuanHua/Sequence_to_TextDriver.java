@@ -7,7 +7,6 @@ import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Job;
-import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.input.SequenceFileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.Tool;
@@ -66,7 +65,7 @@ public class Sequence_to_TextDriver extends Configured implements Tool {
         Path input = new Path(args[0]);
         Path output = new Path(args[1]);
         //todo 默认组件  FileInputFormat FileOutputFormat
-        FileInputFormat.setInputPaths(job,input);
+        SequenceFileInputFormat.setInputPaths(job,input);
         FileOutputFormat.setOutputPath(job,output);
 
         //TODO 判断输出路径是否已近存在，如果存在先删除
