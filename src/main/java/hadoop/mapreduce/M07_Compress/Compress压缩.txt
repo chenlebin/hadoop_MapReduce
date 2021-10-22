@@ -1,0 +1,31 @@
+todo 本项目中的java程序都需要在hadoop环境下运行，因为Windows环境下没有对应的压缩环境
+
+
+优点：
+1-减少文件存储所占空间
+2-加快文件传输效率，减少网络传输带宽
+3-降低IO读写的次数
+
+缺点：
+使用数据时需要先对文件解压，加重cpu负荷，压缩算法越
+复杂，解压时间越长
+
+todo 压缩操作
+压缩时一般需要在main函数中设施Conf属性:
+1 先设置开启压缩，开启的压缩又分为两种：
+    1>Map端输出压缩
+     conf.set("mapreduce.map.output.compress","true");
+     //可选压缩格式lzo.LzoCodec，lzo.LzopCodec，GzipCodec，SnappyCodec，BzipCodec，
+     Lz4Codec（推荐使用这个），Bzip（压缩解压时间过长不推荐）
+     conf.set("mapreduce.map.output.compress.codec","org.apache.hadoop.io.compress.GzipCodec");
+
+    2>Reduce端输出压缩
+     开启压缩
+     conf.set("mapreduce.output.fileoutputformat.compress","true");
+     设置压缩格式
+     //可选压缩格式lzo.LzoCodec，lzo.LzopCodec，GzipCodec，SnappyCodec，BzipCodec，
+     Lz4Codec（推荐使用这个），Bzip（压缩解压时间过长不推荐）
+     conf.set("mapreduce.output.fileoutputformat.compress.codec","org.apache.hadoop.io.compress.GzipCodec");
+
+todo 解压操作
+解压时一般不需要设置什么属性，因为MR会自动识别压缩文件的格式

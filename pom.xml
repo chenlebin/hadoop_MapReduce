@@ -128,7 +128,7 @@
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                             <!-- 注意 此为设置程序的主入口-->
-                            <mainClass>hadoop.mapreduce.M05_Join.MapSideJoin.MapSideJoinDriver</mainClass>
+                            <mainClass></mainClass>
                         </manifest>
                     </archive>
                 </configuration>

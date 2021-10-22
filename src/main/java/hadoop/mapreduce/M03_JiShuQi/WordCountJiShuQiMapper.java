@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  * @author: 开冲
  * description: WordCount Mapper类 对应Maptask
- * create time: 2021/9/29 10:57
+ * create time: 2021/10/9 10:57
  *
  * KEYIN：是map阶段输入KV类型中的K类型，使用默认组件是起始位置偏移量，所以数据类型为：LongWritable
  * VALUEIN：是map阶段输入KV类型中的V类型，使用默认组件下是每一行的内容，所以数据类型为：Text
@@ -34,7 +34,7 @@ public class WordCountJiShuQiMapper extends Mapper<LongWritable, Text,Text,LongW
     /**
      * @author: Suofen
      * description: TODO map方法是mapper阶段的核心方法，也是具体业务逻辑实现的方法
-     * create time: TODO 2021/9/29 18:28
+     * create time: TODO 2021/10/9 18:28
      *
      * 注意：该方法调用的次数和输入的KV键值对有关，每当TextInputFormat读取
      * 返回一个KV键值对，调用一次map方法进行业务处理

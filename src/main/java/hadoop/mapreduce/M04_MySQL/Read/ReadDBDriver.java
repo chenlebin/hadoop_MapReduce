@@ -32,7 +32,7 @@ public class ReadDBDriver {
                 conf,
                 //JDBC类
                 "com.mysql.jdbc.Driver",
-                //数据库URL
+                //数据库URI
                 //?useUnicode=true&amp;characterEncoding=utf-8   这一段是保证编码不乱码
                 //node03上的数据库 jdbc:mysql://node03:3306/db_df2?useUnicode=true&amp;characterEncoding=utf-8
                 //本地数据库       jdbc:mysql://localhost:3306/db_df2?useUnicode=true&amp;characterEncoding=utf-8

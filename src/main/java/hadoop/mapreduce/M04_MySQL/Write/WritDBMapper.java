@@ -30,7 +30,7 @@ public class WritDBMapper extends Mapper<LongWritable,Text, NullWritable, UsaBea
         Counter fa = context.getCounter("mapreduce_zdy","failed");
 
         String[] fields = value.toString().split(",");
-        //判断输入的数据子弹是否有确实  如果不满足需求 就是非法数据
+        //判断输入的数据长度是否够长  如果不满足需求 就是非法数据
         if(fields.length >= 5){
             //合法数据提取字段封装成对象的属性
             outvalue.set(

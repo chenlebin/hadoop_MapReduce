@@ -25,10 +25,15 @@ public class UsaJoinDriver extends Configured implements Tool {
         //创建配置启动项
         Configuration conf = new Configuration();
 
-        //TODO：这个conf.set设置为local主要是为了用于本地测试
-        //TODO：设置MapReduce程序的运行模式  如果不指定 默认为 local模式也就是本地，Window文件系统
-        //conf.set("mapreduce.framework.name","local");
-        //这句话其实可以不写，因为conf.set()方法的底层默认就是local
+        //todo 设置Map端输出压缩格式
+        //todo Shuffle过程进行压缩，只有在输入的数据较大时才使用，否则小文件光压缩解压的时间都很浪费了
+        conf.set("mapreduce.map.output.compress","true");
+        //Lz4,lz0,Snappy,Gzip
+        conf.set("mapreduce.map.output.compress.codec","org.apache.hadoop.io.compress.Lz4Codec");
+
+        //todo 设置输出文件的压缩格式
+        conf.set("mapreduce.output.fileoutputformat.compress","true");
+        conf.set("mapreduce.output.fileoutputformat.compress.codec","org.apache.hadoop.io.compress.GzipCodec");
 
         //todo 使用工具类ToolRunner类提交程序
         int status = ToolRunner.run(conf, new UsaJoinDriver(),args);

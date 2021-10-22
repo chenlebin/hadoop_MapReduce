@@ -38,7 +38,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>hadoop.mapreduce.M05_Join.MapSideJoin.MapSideJoinDriver</mainClass>
+              <mainClass />
             </manifest>
           </archive>
         </configuration>

@@ -72,24 +72,16 @@ public class ReduceSideJoinMapper extends Mapper<LongWritable, Text, IntWritable
         //usa表  数据举例
             //1,Arizona,Maricopa,1,0
             //对切割的数据进行拼接
-//            String str = null;
-//            str=fields[1]+fields[2]+fields[3]+fields[4];
-//            outkey.set(fields[0]);
-//            outvalue.set(str);
             sb.append(fields[1]).append(",").append(fields[2]).append(",").append(fields[3]).append(",").append(fields[4]);
             //System.out.println(sb);
             outkey.set(Integer.parseInt(fields[0]));
-            //在outvalue之前加上一个文件标识  usa#
+            //在outvalue之前加上一个文件标识  usa_zong#
             outvalue.set(sb.insert(0,"usa_zong#").toString());
             context.write(outkey,outvalue);
         }else if(filename.contains("usa_datedr")){
         //usa_datedr  数据举例
             //1,2020/1/21,0.0
             //对切割的数据进行拼接
-//            String str = null;
-//            str=fields[1]+fields[2];
-//            outkey.set(fields[0]);
-//            outvalue.set(str);
             sb.append(fields[1]).append(",").append(fields[2]);
             //System.out.println(sb);
             outkey.set(Integer.parseInt(fields[0]));

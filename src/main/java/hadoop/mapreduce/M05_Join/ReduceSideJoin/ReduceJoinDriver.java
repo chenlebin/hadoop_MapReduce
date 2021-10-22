@@ -26,11 +26,6 @@ public class ReduceJoinDriver extends Configured implements Tool {
         //创建配置启动项
         Configuration conf = new Configuration();
 
-        //TODO：这个conf.set设置为local主要是为了用于本地测试
-        //TODO：设置MapReduce程序的运行模式  如果不指定 默认为 local模式也就是本地，Window文件系统
-        //conf.set("mapreduce.framework.name","local");
-        //这句话其实可以不写，因为conf.set()方法的底层默认就是local
-
         //todo 使用工具类ToolRunner类提交程序
         int status = ToolRunner.run(conf, new ReduceJoinDriver(),args);
         //退出客户端
@@ -49,26 +44,13 @@ public class ReduceJoinDriver extends Configured implements Tool {
         job.setMapperClass(ReduceSideJoinMapper.class);
         job.setReducerClass(ReduceSideJoinReducer.class);
 
-        /*todo Q:mapper阶段输入的Key和Value数据类型默认为
-                 key:LongWritable
-                 value:Text
-        */
         //指定mapper阶段输出的Key和Value数据类型
         job.setMapOutputKeyClass(IntWritable.class);
         job.setMapOutputValueClass(Text.class);
 
-        /*todo Q:reducer阶段输入的Key和Value数据类型
-                 就是mapper阶段输出的Key和Value数据类型
-        */
-
         //指定reducer阶段输出的Key和Value数据类型
         job.setOutputKeyClass(IntWritable.class);
         job.setOutputValueClass(Text.class);
-
-        //TODO Q设置MapReduce过程中ReduceTask（reduce阶段的工作者）的个数
-        //     不设置默认为1
-        //     设置为几个则输出的结果文件就有几个
-        //job.setNumReduceTasks(1);
 
         //配置本次作业的输入数据路径和输出数据路径
         Path input = new Path(args[0]);
