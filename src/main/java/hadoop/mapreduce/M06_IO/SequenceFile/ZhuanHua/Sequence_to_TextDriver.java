@@ -58,13 +58,13 @@ public class Sequence_to_TextDriver extends Configured implements Tool {
         job.setOutputValueClass(Text.class);
 
 
-        //TODO 设置输入文件的格式
+        //TODO 1 设置输入文件的格式
         job.setInputFormatClass(SequenceFileInputFormat.class);
 
         //配置本次作业的输入数据路径和输出数据路径
         Path input = new Path(args[0]);
         Path output = new Path(args[1]);
-        //todo 默认组件  FileInputFormat FileOutputFormat
+        //todo 2 SequenceFileInputFormat FileOutputFormat
         SequenceFileInputFormat.setInputPaths(job,input);
         FileOutputFormat.setOutputPath(job,output);
 

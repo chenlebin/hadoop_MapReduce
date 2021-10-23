@@ -11,7 +11,7 @@ todo 2 MapFile
   - 优点：在进行文件检索，例如查询操作时，可以快速查找
   - 缺点：MapFile文件无法直接看懂，它是以二进制形式存放的
 
-todo 2 ORCFile
+todo 2 ORCFile,最优文件格式
 - 将TextFile-->ORCFile，
   - 优点：可以减少文件的所占磁盘空间，提升IO效率，todo 压缩比 4700-->500
   -       ORCFile是列式存储文件，进行查询时能快速查找

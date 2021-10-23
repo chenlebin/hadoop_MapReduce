@@ -28,7 +28,7 @@ public class UsaJoinDriver extends Configured implements Tool {
         //todo 设置Map端输出压缩格式
         //todo Shuffle过程进行压缩，只有在输入的数据较大时才使用，否则小文件光压缩解压的时间都很浪费了
         conf.set("mapreduce.map.output.compress","true");
-        //Lz4,lz0,Snappy,Gzip
+        //Lz4,lzo.Lzo/Lzop,Snappy,Gzip
         conf.set("mapreduce.map.output.compress.codec","org.apache.hadoop.io.compress.Lz4Codec");
 
         //todo 设置输出文件的压缩格式

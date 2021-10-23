@@ -8,7 +8,7 @@ import org.apache.hadoop.mapreduce.Mapper;
 import java.io.IOException;
 /**
  * @author: Suofen
- * description: TODO 对进行
+ * description: TODO 对join连接之后的数据进行一次排序
  * create time: TODO 2021/10/12 9:49
  *
   * @Param: null

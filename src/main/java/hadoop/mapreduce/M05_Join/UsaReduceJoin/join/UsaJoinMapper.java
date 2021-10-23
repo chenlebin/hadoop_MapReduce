@@ -31,7 +31,7 @@ public class UsaJoinMapper extends Mapper<LongWritable, Text,Text,Text>{
     @Override
     /*
      * @author: Suofen
-     * description: TODO Mapper类中的初始化方法  获取当前处理的切片所属的文件名称
+     * description: TODO Mapper类中的初始化方法setup  获取当前处理的切片所属的文件名称
      *                   获取文件名 的操作为模板代码
      * create time: TODO 2021/10/9 19:56
      *

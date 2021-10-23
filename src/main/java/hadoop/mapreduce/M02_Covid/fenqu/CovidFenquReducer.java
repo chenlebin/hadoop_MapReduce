@@ -34,7 +34,7 @@ public class CovidFenquReducer extends Reducer<Text,Text,Text, NullWritable> {
         for( Text str : values){
             //TODO : 特别注意这里的NulL不能直接写null赋值，
             // 要用NullWritable.get来赋值，因为在hadoop中null经过封装之后
-            // 是NullWritable，直接写nullhadoop无法识别
+            // 是NullWritable，直接写null hadoop无法识别
             context.write(str,NullWritable.get());
         }
     }

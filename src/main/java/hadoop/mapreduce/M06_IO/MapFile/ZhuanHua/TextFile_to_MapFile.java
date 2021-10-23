@@ -25,7 +25,7 @@ import java.util.Random;
  * description: TODO ÊµÏÖTextFile-->MapFile
  * create time: TODO 2021/10/18 18:53
  *
-  * @Param: null
+ * @Param: null
  * @return
  */
 public class TextFile_to_MapFile extends Configured implements Tool {

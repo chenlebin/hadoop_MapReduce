@@ -44,6 +44,7 @@ public class TextFile_to_ORCFile extends Configured implements Tool {
     public int run(String[] args) throws Exception{
         //todo 设置Schema
         OrcConf.MAPRED_OUTPUT_SCHEMA.setString(this.getConf(),SCHEMA);
+        //todo 设置Schema
 
         //构建Job作业的实例
         Job job=Job.getInstance(this.getConf(),TextFile_to_ORCFile.class.getSimpleName());

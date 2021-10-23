@@ -75,6 +75,15 @@ public class UsaScBean implements WritableComparable<UsaScBean> {
     }
 
     @Override
+    /**
+     * @author: Suofen
+     * description: TODO 自定义排序规则排序规则是先进行州的字典序比较，
+     *                   当州相同的时候再进行县的比较也是按照字典序
+     * create time: TODO 2021/10/11 18:51
+     *
+      * @Param: o
+     * @return int
+     */
     public int compareTo(UsaScBean o) {
         int i = state.compareTo(o.getState());
         int j = county.compareTo(o.getCounty());
