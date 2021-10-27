@@ -4282,3 +4282,1123 @@ INFO main org.apache.hadoop.mapreduce.Job - Counters: 11
 		Merged Map outputs=0
 	File Input Format Counters 
 		Bytes Read=101
+WARN main org.apache.hadoop.metrics2.impl.MetricsConfig - Cannot locate configuration: tried hadoop-metrics2-jobtracker.properties,hadoop-metrics2.properties
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - Scheduled Metric snapshot period at 10 second(s).
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system started
+WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_local1553530791_0001
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+INFO main org.apache.hadoop.mapreduce.Job - The url to track the job: http://localhost:8080/
+INFO main org.apache.hadoop.mapreduce.Job - Running job: job_local1553530791_0001
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter set in config null
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for map tasks
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1553530791_0001_m_000000_0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@f7e67ec
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Processing split: file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/input/xinxi.txt:0+123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - (EQUATOR) 0 kvi 26214396(104857584)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - mapreduce.task.io.sort.mb: 100
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - soft limit at 83886080
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396; length = 6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - 
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Starting flush of map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Spilling map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufend = 119; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396(104857584); kvend = 26214376(104857504); length = 21/6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Finished spill 0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task:attempt_local1553530791_0001_m_000000_0 is done. And is in the process of committing
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - map
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task 'attempt_local1553530791_0001_m_000000_0' done.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Final Counters for attempt_local1553530791_0001_m_000000_0: Counters: 17
+	File System Counters
+		FILE: Number of bytes read=320
+		FILE: Number of bytes written=520018
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Spilled Records=6
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=8
+		Total committed heap usage (bytes)=257425408
+	File Input Format Counters 
+		Bytes Read=123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1553530791_0001_m_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - map task executor complete.
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for reduce tasks
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1553530791_0001_r_000000_0
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO pool-4-thread-1 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@1e703e0d
+INFO pool-4-thread-1 org.apache.hadoop.mapred.ReduceTask - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@6de41571
+WARN pool-4-thread-1 org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system already initialized!
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - MergerManager: memoryLimit=2657091584, maxSingleShuffleLimit=664272896, mergeThreshold=1753680512, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - attempt_local1553530791_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.LocalFetcher - localfetcher#1 about to shuffle output of map attempt_local1553530791_0001_m_000000_0 decomp: 133 len: 137 to MEMORY
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput - Read 133 bytes from map-output for attempt_local1553530791_0001_m_000000_0
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - closeInMemoryFile -> map-output of size: 133, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->133
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - EventFetcher is interrupted.. Returning
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merged 1 segments, 133 bytes to disk to satisfy reduce memory limit
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 1 files, 137 bytes from disk
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 0 segments, 0 bytes from memory into reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.conf.Configuration.deprecation - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task:attempt_local1553530791_0001_r_000000_0 is done. And is in the process of committing
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task attempt_local1553530791_0001_r_000000_0 is allowed to commit now
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_local1553530791_0001_r_000000_0' to file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/output
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - reduce > reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task 'attempt_local1553530791_0001_r_000000_0' done.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Final Counters for attempt_local1553530791_0001_r_000000_0: Counters: 24
+	File System Counters
+		FILE: Number of bytes read=626
+		FILE: Number of bytes written=520163
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=6
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=257425408
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Output Format Counters 
+		Bytes Written=8
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1553530791_0001_r_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - reduce task executor complete.
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1553530791_0001 running in uber mode : false
+INFO main org.apache.hadoop.mapreduce.Job -  map 100% reduce 100%
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1553530791_0001 completed successfully
+INFO main org.apache.hadoop.mapreduce.Job - Counters: 30
+	File System Counters
+		FILE: Number of bytes read=946
+		FILE: Number of bytes written=1040181
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=12
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=8
+		Total committed heap usage (bytes)=514850816
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=123
+	File Output Format Counters 
+		Bytes Written=8
+WARN main org.apache.hadoop.metrics2.impl.MetricsConfig - Cannot locate configuration: tried hadoop-metrics2-jobtracker.properties,hadoop-metrics2.properties
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - Scheduled Metric snapshot period at 10 second(s).
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system started
+WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_local1772133937_0001
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+INFO main org.apache.hadoop.mapreduce.Job - The url to track the job: http://localhost:8080/
+INFO main org.apache.hadoop.mapreduce.Job - Running job: job_local1772133937_0001
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter set in config null
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for map tasks
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1772133937_0001_m_000000_0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@4bd2d66
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Processing split: file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/input/xinxi.txt:0+123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - (EQUATOR) 0 kvi 26214396(104857584)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - mapreduce.task.io.sort.mb: 100
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - soft limit at 83886080
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396; length = 6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - 
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Starting flush of map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Spilling map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufend = 119; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396(104857584); kvend = 26214376(104857504); length = 21/6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Finished spill 0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task:attempt_local1772133937_0001_m_000000_0 is done. And is in the process of committing
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - map
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task 'attempt_local1772133937_0001_m_000000_0' done.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Final Counters for attempt_local1772133937_0001_m_000000_0: Counters: 17
+	File System Counters
+		FILE: Number of bytes read=320
+		FILE: Number of bytes written=520018
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Spilled Records=6
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=10
+		Total committed heap usage (bytes)=257425408
+	File Input Format Counters 
+		Bytes Read=123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1772133937_0001_m_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - map task executor complete.
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for reduce tasks
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1772133937_0001_r_000000_0
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO pool-4-thread-1 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@ec6bea6
+INFO pool-4-thread-1 org.apache.hadoop.mapred.ReduceTask - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@7e55ff3
+WARN pool-4-thread-1 org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system already initialized!
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - MergerManager: memoryLimit=2657091584, maxSingleShuffleLimit=664272896, mergeThreshold=1753680512, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - attempt_local1772133937_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.LocalFetcher - localfetcher#1 about to shuffle output of map attempt_local1772133937_0001_m_000000_0 decomp: 133 len: 137 to MEMORY
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput - Read 133 bytes from map-output for attempt_local1772133937_0001_m_000000_0
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - closeInMemoryFile -> map-output of size: 133, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->133
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - EventFetcher is interrupted.. Returning
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merged 1 segments, 133 bytes to disk to satisfy reduce memory limit
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 1 files, 137 bytes from disk
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 0 segments, 0 bytes from memory into reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.conf.Configuration.deprecation - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task:attempt_local1772133937_0001_r_000000_0 is done. And is in the process of committing
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task attempt_local1772133937_0001_r_000000_0 is allowed to commit now
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_local1772133937_0001_r_000000_0' to file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/output
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - reduce > reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task 'attempt_local1772133937_0001_r_000000_0' done.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Final Counters for attempt_local1772133937_0001_r_000000_0: Counters: 24
+	File System Counters
+		FILE: Number of bytes read=626
+		FILE: Number of bytes written=520163
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=6
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=257425408
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Output Format Counters 
+		Bytes Written=8
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1772133937_0001_r_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - reduce task executor complete.
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1772133937_0001 running in uber mode : false
+INFO main org.apache.hadoop.mapreduce.Job -  map 100% reduce 100%
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1772133937_0001 completed successfully
+INFO main org.apache.hadoop.mapreduce.Job - Counters: 30
+	File System Counters
+		FILE: Number of bytes read=946
+		FILE: Number of bytes written=1040181
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=12
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=10
+		Total committed heap usage (bytes)=514850816
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=123
+	File Output Format Counters 
+		Bytes Written=8
+WARN main org.apache.hadoop.metrics2.impl.MetricsConfig - Cannot locate configuration: tried hadoop-metrics2-jobtracker.properties,hadoop-metrics2.properties
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - Scheduled Metric snapshot period at 10 second(s).
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system started
+WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_local1120411374_0001
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+INFO main org.apache.hadoop.mapreduce.Job - The url to track the job: http://localhost:8080/
+INFO main org.apache.hadoop.mapreduce.Job - Running job: job_local1120411374_0001
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter set in config null
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for map tasks
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1120411374_0001_m_000000_0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@77bc4c55
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Processing split: file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/input/xinxi.txt:0+123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - (EQUATOR) 0 kvi 26214396(104857584)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - mapreduce.task.io.sort.mb: 100
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - soft limit at 83886080
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396; length = 6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - 
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Starting flush of map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Spilling map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufend = 119; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396(104857584); kvend = 26214376(104857504); length = 21/6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Finished spill 0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task:attempt_local1120411374_0001_m_000000_0 is done. And is in the process of committing
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - map
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task 'attempt_local1120411374_0001_m_000000_0' done.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Final Counters for attempt_local1120411374_0001_m_000000_0: Counters: 17
+	File System Counters
+		FILE: Number of bytes read=320
+		FILE: Number of bytes written=520018
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Spilled Records=6
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=9
+		Total committed heap usage (bytes)=257425408
+	File Input Format Counters 
+		Bytes Read=123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1120411374_0001_m_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - map task executor complete.
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for reduce tasks
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1120411374_0001_r_000000_0
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO pool-4-thread-1 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@5666c6a9
+INFO pool-4-thread-1 org.apache.hadoop.mapred.ReduceTask - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@5a68bfa3
+WARN pool-4-thread-1 org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system already initialized!
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - MergerManager: memoryLimit=2657091584, maxSingleShuffleLimit=664272896, mergeThreshold=1753680512, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - attempt_local1120411374_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.LocalFetcher - localfetcher#1 about to shuffle output of map attempt_local1120411374_0001_m_000000_0 decomp: 133 len: 137 to MEMORY
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput - Read 133 bytes from map-output for attempt_local1120411374_0001_m_000000_0
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - closeInMemoryFile -> map-output of size: 133, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->133
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - EventFetcher is interrupted.. Returning
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merged 1 segments, 133 bytes to disk to satisfy reduce memory limit
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 1 files, 137 bytes from disk
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 0 segments, 0 bytes from memory into reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.conf.Configuration.deprecation - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task:attempt_local1120411374_0001_r_000000_0 is done. And is in the process of committing
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task attempt_local1120411374_0001_r_000000_0 is allowed to commit now
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_local1120411374_0001_r_000000_0' to file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/output
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - reduce > reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task 'attempt_local1120411374_0001_r_000000_0' done.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Final Counters for attempt_local1120411374_0001_r_000000_0: Counters: 24
+	File System Counters
+		FILE: Number of bytes read=626
+		FILE: Number of bytes written=520163
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=6
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=257425408
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Output Format Counters 
+		Bytes Written=8
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1120411374_0001_r_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - reduce task executor complete.
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1120411374_0001 running in uber mode : false
+INFO main org.apache.hadoop.mapreduce.Job -  map 100% reduce 100%
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1120411374_0001 completed successfully
+INFO main org.apache.hadoop.mapreduce.Job - Counters: 30
+	File System Counters
+		FILE: Number of bytes read=946
+		FILE: Number of bytes written=1040181
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=12
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=9
+		Total committed heap usage (bytes)=514850816
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=123
+	File Output Format Counters 
+		Bytes Written=8
+WARN main org.apache.hadoop.metrics2.impl.MetricsConfig - Cannot locate configuration: tried hadoop-metrics2-jobtracker.properties,hadoop-metrics2.properties
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - Scheduled Metric snapshot period at 10 second(s).
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system started
+WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_local150158720_0001
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+INFO main org.apache.hadoop.mapreduce.Job - The url to track the job: http://localhost:8080/
+INFO main org.apache.hadoop.mapreduce.Job - Running job: job_local150158720_0001
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter set in config null
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for map tasks
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local150158720_0001_m_000000_0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@160f8aed
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Processing split: file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/input/xinxi.txt:0+123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - (EQUATOR) 0 kvi 26214396(104857584)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - mapreduce.task.io.sort.mb: 100
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - soft limit at 83886080
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396; length = 6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - 
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Starting flush of map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Spilling map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufend = 119; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396(104857584); kvend = 26214376(104857504); length = 21/6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Finished spill 0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task:attempt_local150158720_0001_m_000000_0 is done. And is in the process of committing
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - map
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task 'attempt_local150158720_0001_m_000000_0' done.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Final Counters for attempt_local150158720_0001_m_000000_0: Counters: 17
+	File System Counters
+		FILE: Number of bytes read=320
+		FILE: Number of bytes written=517538
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Spilled Records=6
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=9
+		Total committed heap usage (bytes)=257425408
+	File Input Format Counters 
+		Bytes Read=123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local150158720_0001_m_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - map task executor complete.
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for reduce tasks
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local150158720_0001_r_000000_0
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO pool-4-thread-1 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@2d5202e4
+INFO pool-4-thread-1 org.apache.hadoop.mapred.ReduceTask - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@6bc3f231
+WARN pool-4-thread-1 org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system already initialized!
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - MergerManager: memoryLimit=2657091584, maxSingleShuffleLimit=664272896, mergeThreshold=1753680512, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - attempt_local150158720_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.LocalFetcher - localfetcher#1 about to shuffle output of map attempt_local150158720_0001_m_000000_0 decomp: 133 len: 137 to MEMORY
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput - Read 133 bytes from map-output for attempt_local150158720_0001_m_000000_0
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - closeInMemoryFile -> map-output of size: 133, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->133
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - EventFetcher is interrupted.. Returning
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merged 1 segments, 133 bytes to disk to satisfy reduce memory limit
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 1 files, 137 bytes from disk
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 0 segments, 0 bytes from memory into reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.conf.Configuration.deprecation - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task:attempt_local150158720_0001_r_000000_0 is done. And is in the process of committing
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task attempt_local150158720_0001_r_000000_0 is allowed to commit now
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_local150158720_0001_r_000000_0' to file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/output
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - reduce > reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task 'attempt_local150158720_0001_r_000000_0' done.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Final Counters for attempt_local150158720_0001_r_000000_0: Counters: 24
+	File System Counters
+		FILE: Number of bytes read=626
+		FILE: Number of bytes written=517683
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=6
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=257425408
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Output Format Counters 
+		Bytes Written=8
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local150158720_0001_r_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - reduce task executor complete.
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local150158720_0001 running in uber mode : false
+INFO main org.apache.hadoop.mapreduce.Job -  map 100% reduce 100%
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local150158720_0001 completed successfully
+INFO main org.apache.hadoop.mapreduce.Job - Counters: 30
+	File System Counters
+		FILE: Number of bytes read=946
+		FILE: Number of bytes written=1035221
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=12
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=9
+		Total committed heap usage (bytes)=514850816
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=123
+	File Output Format Counters 
+		Bytes Written=8
+WARN main org.apache.hadoop.metrics2.impl.MetricsConfig - Cannot locate configuration: tried hadoop-metrics2-jobtracker.properties,hadoop-metrics2.properties
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - Scheduled Metric snapshot period at 10 second(s).
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system started
+WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_local1486390985_0001
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+INFO main org.apache.hadoop.mapreduce.Job - The url to track the job: http://localhost:8080/
+INFO main org.apache.hadoop.mapreduce.Job - Running job: job_local1486390985_0001
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter set in config null
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for map tasks
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1486390985_0001_m_000000_0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@4bd2d66
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Processing split: file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/input/xinxi.txt:0+123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - (EQUATOR) 0 kvi 26214396(104857584)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - mapreduce.task.io.sort.mb: 100
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - soft limit at 83886080
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396; length = 6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - 
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Starting flush of map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Spilling map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufend = 119; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396(104857584); kvend = 26214376(104857504); length = 21/6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Finished spill 0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task:attempt_local1486390985_0001_m_000000_0 is done. And is in the process of committing
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - map
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task 'attempt_local1486390985_0001_m_000000_0' done.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Final Counters for attempt_local1486390985_0001_m_000000_0: Counters: 17
+	File System Counters
+		FILE: Number of bytes read=320
+		FILE: Number of bytes written=520018
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Spilled Records=6
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=10
+		Total committed heap usage (bytes)=257425408
+	File Input Format Counters 
+		Bytes Read=123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1486390985_0001_m_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - map task executor complete.
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for reduce tasks
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local1486390985_0001_r_000000_0
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO pool-4-thread-1 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@2551167e
+INFO pool-4-thread-1 org.apache.hadoop.mapred.ReduceTask - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@aa7228
+WARN pool-4-thread-1 org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system already initialized!
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - MergerManager: memoryLimit=2657091584, maxSingleShuffleLimit=664272896, mergeThreshold=1753680512, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - attempt_local1486390985_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.LocalFetcher - localfetcher#1 about to shuffle output of map attempt_local1486390985_0001_m_000000_0 decomp: 133 len: 137 to MEMORY
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput - Read 133 bytes from map-output for attempt_local1486390985_0001_m_000000_0
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - closeInMemoryFile -> map-output of size: 133, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->133
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - EventFetcher is interrupted.. Returning
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merged 1 segments, 133 bytes to disk to satisfy reduce memory limit
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 1 files, 137 bytes from disk
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 0 segments, 0 bytes from memory into reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.conf.Configuration.deprecation - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task:attempt_local1486390985_0001_r_000000_0 is done. And is in the process of committing
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task attempt_local1486390985_0001_r_000000_0 is allowed to commit now
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_local1486390985_0001_r_000000_0' to file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/output
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - reduce > reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task 'attempt_local1486390985_0001_r_000000_0' done.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Final Counters for attempt_local1486390985_0001_r_000000_0: Counters: 24
+	File System Counters
+		FILE: Number of bytes read=626
+		FILE: Number of bytes written=520163
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=6
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=257425408
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Output Format Counters 
+		Bytes Written=8
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local1486390985_0001_r_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - reduce task executor complete.
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1486390985_0001 running in uber mode : false
+INFO main org.apache.hadoop.mapreduce.Job -  map 100% reduce 100%
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local1486390985_0001 completed successfully
+INFO main org.apache.hadoop.mapreduce.Job - Counters: 30
+	File System Counters
+		FILE: Number of bytes read=946
+		FILE: Number of bytes written=1040181
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=0
+		Spilled Records=12
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=10
+		Total committed heap usage (bytes)=514850816
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=123
+	File Output Format Counters 
+		Bytes Written=8
+WARN main org.apache.hadoop.metrics2.impl.MetricsConfig - Cannot locate configuration: tried hadoop-metrics2-jobtracker.properties,hadoop-metrics2.properties
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - Scheduled Metric snapshot period at 10 second(s).
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system started
+WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_local393624930_0001
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+INFO main org.apache.hadoop.mapreduce.Job - The url to track the job: http://localhost:8080/
+INFO main org.apache.hadoop.mapreduce.Job - Running job: job_local393624930_0001
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter set in config null
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for map tasks
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local393624930_0001_m_000000_0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@4bd2d66
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Processing split: file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/input/xinxi.txt:0+123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - (EQUATOR) 0 kvi 26214396(104857584)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - mapreduce.task.io.sort.mb: 100
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - soft limit at 83886080
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396; length = 6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - 
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Starting flush of map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Spilling map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufend = 119; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396(104857584); kvend = 26214376(104857504); length = 21/6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Finished spill 0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task:attempt_local393624930_0001_m_000000_0 is done. And is in the process of committing
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - map
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task 'attempt_local393624930_0001_m_000000_0' done.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Final Counters for attempt_local393624930_0001_m_000000_0: Counters: 17
+	File System Counters
+		FILE: Number of bytes read=320
+		FILE: Number of bytes written=517538
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Spilled Records=6
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=9
+		Total committed heap usage (bytes)=257425408
+	File Input Format Counters 
+		Bytes Read=123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local393624930_0001_m_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - map task executor complete.
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for reduce tasks
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local393624930_0001_r_000000_0
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO pool-4-thread-1 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@740b49af
+INFO pool-4-thread-1 org.apache.hadoop.mapred.ReduceTask - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@3aa59d8b
+WARN pool-4-thread-1 org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system already initialized!
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - MergerManager: memoryLimit=2657091584, maxSingleShuffleLimit=664272896, mergeThreshold=1753680512, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - attempt_local393624930_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.LocalFetcher - localfetcher#1 about to shuffle output of map attempt_local393624930_0001_m_000000_0 decomp: 133 len: 137 to MEMORY
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput - Read 133 bytes from map-output for attempt_local393624930_0001_m_000000_0
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - closeInMemoryFile -> map-output of size: 133, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->133
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - EventFetcher is interrupted.. Returning
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merged 1 segments, 133 bytes to disk to satisfy reduce memory limit
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 1 files, 137 bytes from disk
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 0 segments, 0 bytes from memory into reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.conf.Configuration.deprecation - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task:attempt_local393624930_0001_r_000000_0 is done. And is in the process of committing
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task attempt_local393624930_0001_r_000000_0 is allowed to commit now
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_local393624930_0001_r_000000_0' to file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/output
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - reduce > reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task 'attempt_local393624930_0001_r_000000_0' done.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Final Counters for attempt_local393624930_0001_r_000000_0: Counters: 24
+	File System Counters
+		FILE: Number of bytes read=626
+		FILE: Number of bytes written=517707
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=1
+		Spilled Records=6
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=257425408
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Output Format Counters 
+		Bytes Written=32
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local393624930_0001_r_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - reduce task executor complete.
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local393624930_0001 running in uber mode : false
+INFO main org.apache.hadoop.mapreduce.Job -  map 100% reduce 100%
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local393624930_0001 completed successfully
+INFO main org.apache.hadoop.mapreduce.Job - Counters: 30
+	File System Counters
+		FILE: Number of bytes read=946
+		FILE: Number of bytes written=1035245
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=1
+		Spilled Records=12
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=9
+		Total committed heap usage (bytes)=514850816
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=123
+	File Output Format Counters 
+		Bytes Written=32
+WARN main org.apache.hadoop.metrics2.impl.MetricsConfig - Cannot locate configuration: tried hadoop-metrics2-jobtracker.properties,hadoop-metrics2.properties
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - Scheduled Metric snapshot period at 10 second(s).
+INFO main org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system started
+WARN main org.apache.hadoop.mapreduce.JobResourceUploader - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+INFO main org.apache.hadoop.mapreduce.lib.input.FileInputFormat - Total input files to process : 1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - number of splits:1
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Submitting tokens for job: job_local72379907_0001
+INFO main org.apache.hadoop.mapreduce.JobSubmitter - Executing with tokens: []
+INFO main org.apache.hadoop.mapreduce.Job - The url to track the job: http://localhost:8080/
+INFO main org.apache.hadoop.mapreduce.Job - Running job: job_local72379907_0001
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter set in config null
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO Thread-4 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for map tasks
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local72379907_0001_m_000000_0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@1dddcf98
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Processing split: file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/input/xinxi.txt:0+123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - (EQUATOR) 0 kvi 26214396(104857584)
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - mapreduce.task.io.sort.mb: 100
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - soft limit at 83886080
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396; length = 6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - 
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Starting flush of map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Spilling map output
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - bufstart = 0; bufend = 119; bufvoid = 104857600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - kvstart = 26214396(104857584); kvend = 26214376(104857504); length = 21/6553600
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.MapTask - Finished spill 0
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task:attempt_local72379907_0001_m_000000_0 is done. And is in the process of committing
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - map
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Task 'attempt_local72379907_0001_m_000000_0' done.
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.Task - Final Counters for attempt_local72379907_0001_m_000000_0: Counters: 17
+	File System Counters
+		FILE: Number of bytes read=320
+		FILE: Number of bytes written=515054
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Spilled Records=6
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=13
+		Total committed heap usage (bytes)=257425408
+	File Input Format Counters 
+		Bytes Read=123
+INFO LocalJobRunner Map Task Executor #0 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local72379907_0001_m_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - map task executor complete.
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - Waiting for reduce tasks
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Starting task: attempt_local72379907_0001_r_000000_0
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - File Output Committer Algorithm version is 2
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+INFO pool-4-thread-1 org.apache.hadoop.yarn.util.ProcfsBasedProcessTree - ProcfsBasedProcessTree currently is supported only on Linux.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task -  Using ResourceCalculatorProcessTree : org.apache.hadoop.yarn.util.WindowsBasedProcessTree@3e5a3d91
+INFO pool-4-thread-1 org.apache.hadoop.mapred.ReduceTask - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@2859c794
+WARN pool-4-thread-1 org.apache.hadoop.metrics2.impl.MetricsSystemImpl - JobTracker metrics system already initialized!
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - MergerManager: memoryLimit=2657091584, maxSingleShuffleLimit=664272896, mergeThreshold=1753680512, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - attempt_local72379907_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.LocalFetcher - localfetcher#1 about to shuffle output of map attempt_local72379907_0001_m_000000_0 decomp: 133 len: 137 to MEMORY
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.InMemoryMapOutput - Read 133 bytes from map-output for attempt_local72379907_0001_m_000000_0
+INFO localfetcher#1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - closeInMemoryFile -> map-output of size: 133, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->133
+INFO EventFetcher for fetching Map Completion Events org.apache.hadoop.mapreduce.task.reduce.EventFetcher - EventFetcher is interrupted.. Returning
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merged 1 segments, 133 bytes to disk to satisfy reduce memory limit
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 1 files, 137 bytes from disk
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.task.reduce.MergeManagerImpl - Merging 0 segments, 0 bytes from memory into reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Merging 1 sorted segments
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Merger - Down to the last merge-pass, with 1 segments left of total size: 123 bytes
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.conf.Configuration.deprecation - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task:attempt_local72379907_0001_r_000000_0 is done. And is in the process of committing
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - 1 / 1 copied.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task attempt_local72379907_0001_r_000000_0 is allowed to commit now
+INFO pool-4-thread-1 org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter - Saved output of task 'attempt_local72379907_0001_r_000000_0' to file:/H:/hadoop-3.1.4_MapReduce_local_output/_MRProject/select/output
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - reduce > reduce
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Task 'attempt_local72379907_0001_r_000000_0' done.
+INFO pool-4-thread-1 org.apache.hadoop.mapred.Task - Final Counters for attempt_local72379907_0001_r_000000_0: Counters: 24
+	File System Counters
+		FILE: Number of bytes read=626
+		FILE: Number of bytes written=515223
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=1
+		Spilled Records=6
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=257425408
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Output Format Counters 
+		Bytes Written=32
+INFO pool-4-thread-1 org.apache.hadoop.mapred.LocalJobRunner - Finishing task: attempt_local72379907_0001_r_000000_0
+INFO Thread-4 org.apache.hadoop.mapred.LocalJobRunner - reduce task executor complete.
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local72379907_0001 running in uber mode : false
+INFO main org.apache.hadoop.mapreduce.Job -  map 100% reduce 100%
+INFO main org.apache.hadoop.mapreduce.Job - Job job_local72379907_0001 completed successfully
+INFO main org.apache.hadoop.mapreduce.Job - Counters: 30
+	File System Counters
+		FILE: Number of bytes read=946
+		FILE: Number of bytes written=1030277
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+	Map-Reduce Framework
+		Map input records=6
+		Map output records=6
+		Map output bytes=119
+		Map output materialized bytes=137
+		Input split bytes=143
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=4
+		Reduce shuffle bytes=137
+		Reduce input records=6
+		Reduce output records=1
+		Spilled Records=12
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=13
+		Total committed heap usage (bytes)=514850816
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=123
+	File Output Format Counters 
+		Bytes Written=32

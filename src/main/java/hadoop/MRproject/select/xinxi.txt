@@ -1,0 +1,6 @@
+1,zhangsan,18,beijing
+2,lisi,25,shanghai
+3,allen,30,shanghai
+4,wangwu,15,nanjing
+5,james,45,hangzhou
+6,tony,26,beijing

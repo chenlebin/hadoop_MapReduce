@@ -1,0 +1,8 @@
+查询年龄在25岁以上并且住址在上海的用户信息
+
+实现Hive的功能用户编写SQL语句，Hive自动将SQL语句转换为MapReduce程序
+处理位于hdfs上的结构化数据？
+
+select * from 参数1（Path路径） where age>25 and zhuzhi='shanghai';
+
+select * from 路径 where age>25 and zhuzhi='shanghai';
